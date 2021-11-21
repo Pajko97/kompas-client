@@ -1,5 +1,9 @@
 # kompas-client
 
+
+##
+
+Ko ovo cita taj je doktor.
 ## Build Setup
 
 ```bash
