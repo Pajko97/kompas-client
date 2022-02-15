@@ -1,0 +1,66 @@
+{
+    "cruise_name" : "K400 UNFORGETTABLE ITALY WITH ADRIATIC CRUISE",
+    "short_description" : "18 days including Rome, Florence, Venice, Opatija, Split with Adriatic Cruise from Split To Trogir, Stari Grad, Hvar, Vis, Bisevo, Korcula, Mljet, Slano, Elafiti, Dubrovnik",
+    "features" : {
+        "included" : "3 nights cruise from Dubrovnik to Split#Supreme category ship in a cabin with private bathroom,#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : []
+    },
+    "itinerary" : [
+        {
+            "day_headline" : "Day 1 DUBROVNIK ARRIVAL Saturday (WR, D)",
+            "day_summary" : "You will be transferred from Dubrovnik’s airport or your Dubrovnik’s hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome Reception followed by dinner this evening."
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "DESIRE",
+            "dates" : {
+                "low_season" : ["May 7, 14, Oct 1, 8 ,15"],
+                "mid_season" : ["May 21, July 23, 30, Aug 6, 13, 20 "],
+                "high_season" : ["June 25, July 16, Aug 27, September 3, 10"]
+            },
+            "prices" : [
+                    {
+                        "cabin_name" : "LOWER DECK CABIN",
+                        "low_season" : 1705,
+                        "mid_season" : 1945,
+                        "high_season" : 2160
+                    },
+                    {
+                        "cabin_name" : "MAIN DECK CABIN",
+                        "low_season" : 2040,
+                        "mid_season" : 2295,
+                        "high_season" : 2520
+                    }
+            ]
+            
+        },
+
+        {
+            "name" : "MY WAY",
+            "dates" : {
+                "low_season" : ["05/07/2022", "05/14/2022", "10/01/2022", "10/08/2022", "10/15/2022"],
+                "mid_season" : ["May 21, July 23, 30, Aug 6, 13, 20 "],
+                "high_season" : ["June 25, July 16, Aug 27, September 3, 10"]
+            },
+            "prices" : [
+                    {
+                        "cabin_name" : "LOWER DECK CABIN",
+                        "low_season" : 1705,
+                        "mid_season" : 1945,
+                        "high_season" : 2160
+                    },
+                    {
+                        "cabin_name" : "MAIN DECK CABIN",
+                        "low_season" : 2040,
+                        "mid_season" : 2295,
+                        "high_season" : 2520
+                    }
+            ]
+            
+        }
+    ],
+
+    "map" : "https://kompas.net/cruises/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+}
