@@ -1,0 +1,74 @@
+{
+    "cruise_name" : "",
+    "short_description" : "",
+    "features" : {
+        "included" : "7 nights cruise from Split to Kotor and back to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Korčula and Split#Wine tasting Korcula"]
+    },
+    "itinerary" : [
+        {
+            "day_headline": "",
+            "day_summary": ""
+        },
+        {
+            "day_headline" : "",
+            "day_summary" : ""
+        },
+        {
+            "day_headline": "",
+            "day_summary": ""
+        },
+        {
+            "day_headline": "",
+            "day_summary": ""
+        },
+        {
+            "day_headline": "",
+            "day_summary": ""
+        },
+        {
+            "day_headline": "",
+            "day_summary": ""
+        },
+        {
+            "day_headline": "",
+            "day_summary": ""
+        },
+        {
+            "day_headline": "",
+            "day_summary": ""
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "STELLA MARIS",
+            "dates" : {
+                "low_season" : ["10/01/2022", "10/08/2022", "10/15/2022"],
+                "mid_season" : ["05/21,2022", "05/28/2022", "07/23/2022"],
+                "high_season" : ["06/04/2022","06/11/2022", "07/02/2022","07/09/2022","07/16/2022", "08/27/2022", "09/03/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1065,
+                    "mid_season" : 1220,
+                    "high_season" : 1370
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1290,
+                    "mid_season" : 1455,
+                    "high_season" : 1605
+                }
+            ]
+            
+        }
+    ],
+
+    "map" : "https://kompas.net/images/adriatic_cruises/M204/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+}
+    

@@ -1,66 +1,58 @@
 {
-    "cruise_name" : "K400 UNFORGETTABLE ITALY WITH ADRIATIC CRUISE",
-    "short_description" : "18 days including Rome, Florence, Venice, Opatija, Split with Adriatic Cruise from Split To Trogir, Stari Grad, Hvar, Vis, Bisevo, Korcula, Mljet, Slano, Elafiti, Dubrovnik",
+    "cruise_name" : "MINI ROUTE K240 DS",
+    "short_description" : "4-day mini cruise from Dubrovnik to Korčula, Makarska, Pučišća, Split",
     "features" : {
-        "included" : "3 nights cruise from Dubrovnik to Split#Supreme category ship in a cabin with private bathroom,#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
-        "sightseeing" : []
+        "included" : "3 nights cruise from Dubrovnik to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Korčula and Split#Wine tasting Korcula"]
     },
     "itinerary" : [
         {
             "day_headline" : "Day 1 DUBROVNIK ARRIVAL Saturday (WR, D)",
             "day_summary" : "You will be transferred from Dubrovnik’s airport or your Dubrovnik’s hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome Reception followed by dinner this evening."
+        },
+        {
+            "day_headline": "Day 2 DUBROVNIK – KORČULA (Wine tasting), Sunday (B, L, T)",
+            "day_summary": "Early in the morning we set sail for the island of Korčula, with swimming stop, if weather permits, in one of pristine bays, time to relax and lunch on board. Continue towards Korčula, the most preserved medieval town, thought to be the birthplace of the famous explorer Marco Polo. Take a walking tour of Korčula which takes you through its narrow, cobbled streets full of history and enjoy wine tasting in one of the local wine bars. Evening is free to explore the town on your own."
+        },
+        {
+            "day_headline": "Day 3 KORČULA – MAKARSKA, Monday (B, L)",
+            "day_summary": "In the morning we continue our adventure by sailing to town of Makarska, on the mainland, where we will spend the night. Makarska is one of the most popular tourist resort areas on Adriatic due to its long pebbly beaches and scenic mountains in the background, which creates a specific climate and picturesque views. After lunch on board, you will have free time to enjoy the therapeutic benefits of fresh sea air by walking through the green paths of St. Peter peninsula towards west and then further to the beach for a lovely 2 km long walk along the seaside promenade or to explore the streets and squares of Old Town behind the main promenade, which are abundant with galleries, souvenir shops, cafes, and restaurants. Overnight in port of Makarska."
+        },
+        {
+            "day_headline": "Day 4 MAKARSKA – PUČIŠĆA – SPLIT, Tuesday (B, L)",
+            "day_summary": "Our journey then continues towards Pučišća, situated on the island of Brač, village of the stone sculpture, where you can visit amazing stonemason school (optional). After visiting Pučišća set sail to Split with a stop along the way to swim and relax, if weather permits, with lunch on board. In the late afternoon we arrive at Split to spend the night. Arriving in Split, join a guided tour of the city, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical center of the city is listed as a UNESCO World Heritage site. After the city tour you can take your luggage from the cruise and disembark."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
         }
     ],
     "dates_pricing" : [
         {
-            "name" : "DESIRE",
+            "name" : "EQUATOR, MY WAY",
             "dates" : {
-                "low_season" : ["May 7, 14, Oct 1, 8 ,15"],
-                "mid_season" : ["May 21, July 23, 30, Aug 6, 13, 20 "],
-                "high_season" : ["June 25, July 16, Aug 27, September 3, 10"]
+                "low_season" : ["10/01/2022", "10/08/2022", "10/15/2022"],
+                "mid_season" : ["05/21,2022", "05/28/2022", "07/23/2022"],
+                "high_season" : ["06/04/2022","06/11/2022", "07/02/2022","07/09/2022","07/16/2022", "08/27/2022", "09/03/2022"]
             },
             "prices" : [
                     {
                         "cabin_name" : "LOWER DECK CABIN",
-                        "low_season" : 1705,
-                        "mid_season" : 1945,
-                        "high_season" : 2160
+                        "low_season" : 1065,
+                        "mid_season" : 1220,
+                        "high_season" : 1370
                     },
                     {
                         "cabin_name" : "MAIN DECK CABIN",
-                        "low_season" : 2040,
-                        "mid_season" : 2295,
-                        "high_season" : 2520
-                    }
-            ]
-            
-        },
-
-        {
-            "name" : "MY WAY",
-            "dates" : {
-                "low_season" : ["05/07/2022", "05/14/2022", "10/01/2022", "10/08/2022", "10/15/2022"],
-                "mid_season" : ["May 21, July 23, 30, Aug 6, 13, 20 "],
-                "high_season" : ["June 25, July 16, Aug 27, September 3, 10"]
-            },
-            "prices" : [
-                    {
-                        "cabin_name" : "LOWER DECK CABIN",
-                        "low_season" : 1705,
-                        "mid_season" : 1945,
-                        "high_season" : 2160
-                    },
-                    {
-                        "cabin_name" : "MAIN DECK CABIN",
-                        "low_season" : 2040,
-                        "mid_season" : 2295,
-                        "high_season" : 2520
+                        "low_season" : 1290,
+                        "mid_season" : 1455,
+                        "high_season" : 1605
                     }
             ]
             
         }
     ],
 
-    "map" : "https://kompas.net/cruises/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "map" : "https://kompas.net/images/adriatic_cruises/K240DS/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240DS/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
 }
+    
