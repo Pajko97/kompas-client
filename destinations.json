@@ -66,77 +66,8 @@
             ],
         
             "map" : "https://kompas.net/images/adriatic_cruises/M204/map.png",
-            "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1 (1).png","https://kompas.net/images/adriatic_cruises/M204/1 (2).png","https://kompas.net/images/adriatic_cruises/M204/1 (3).png","https://kompas.net/images/adriatic_cruises/M204/1 (4).png","https://kompas.net/images/adriatic_cruises/M204/1 (5).png"]
         },
-
-        {
-    "cruise_name" : "M204 NEW Supreme Split return cruise",
-    "short_description" : "FROM SPLIT TO PLOČE, MLJET, DUBROVNIK, KOTOR, CAVTAT, KORČULA, BIŠEVO, VIS, HVAR AND SPLIT",
-    "features" : {
-        "included" : "7 nights cruise from Split to Kotor and back to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
-        "sightseeing" : ["City tours of Mostar (with lunch), Dubrovnik, Kotor, Korčula, Vis, Hvar and Split#Entrance fees to the Franciscan Monastery’s Pharmacy, Diocletian’s Palace and St Tryphon’s Cathedral#Lovćen/Njeguši/Budva Excursion – ride by bus, snack in Njeguši (smoked ham and cheese, brandy and wine)"],
-        "supplements_optional": ["Entrance to Mljet National Park: up to 30 USD per person (depending on the season) to be paid on the spot. Guide free of charge.#Entrance to Blue Cave to be paid on the spot – up to 16 USD per person (depending on the season)"]
-    },
-    "itinerary" : [
-        {
-            "day_headline": "Day 1 SPLIT ARRIVAL, Saturday (WR, D)",
-            "day_summary": "You will be transferred from Split airport or your Split hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome reception followed by dinner this evening."
-        },
-        {
-            "day_headline" : "Day 2 SPLIT – PLOČE (Mostar excursion), Sunday (B, L, CD)",
-            "day_summary" : "with lunch included. Mostar is the city were east and west meet. Built alongside the Neretva River is known by all thanks to the image of its beautiful “Old Bridge” (Stari Most) which is the heart and symbol of the city. Since 2005 the “Old Bridge”, as well as the old city of Mostar have been inscribed as a World Heritage by UNESCO. Walkthrough the streets, visit the Turkish house and the mosque. Tonight, enjoy Captain’s dinner and overnight in Ploče."
-        },
-        {
-            "day_headline": "Day 3 PLOČE – MLJET – DUBROVNIK, Monday (B, L)",
-            "day_summary": "In the morning head further south to the Island of Mljet. Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park. Set sail to Dubrovnik with swimming stop and relax, if weather permits, with lunch on board. In the late afternoon we arrive in Dubrovnik the “Pearl of the Adriatic”, to take a guided tour of the historical centre of city which is listed as a UNESCO World Heritage site including visits to the Franciscan Monastery’s Pharmacy. Overnight in Dubrovnik."
-        },
-        {
-            "day_headline": "Day 4 DUBROVNIK – KOTOR (Montenegro), Tuesday (B, L, T)",
-            "day_summary": "In the morning we set sail to Kotor. After lunch on board, we are going to visit Lovćen Mountain, Njeguši Village and Budva. Encounter Montenegro’s rich culture, historical heritage and natural beauty as you travel by bus up the serpentine Lovćen Hills. A beautiful view of Kotor Bay and lovely mountain scenery accompany you en route to Njeguši, where you will visit the village smokehouse. Stop for a snack of smoked ham and cheese, brandy and wine—all local specialties. Then, head down the mountains towards the city of Budva—believed to be one of the oldest settlements on the Adriatic coast. It is more than 2,000 years old. After panoramic stop above Budva you will drive back to Kotor to explore the city that is known as the jewel of Montenegro. Your guide will take you on a walking tour that will include a visit to St Tryphon’s Cathedral and you will see the Orthodox Church of St Luka from the outside. Your evening is free in Kotor."
-        },
-        {
-            "day_headline": "Day 5 KOTOR – CAVTAT – KORČULA, Wednesday (B, L)",
-            "day_summary": "In the morning after breakfast, we head to Cavtat. As we are traveling from one country to another, there will be some formalities at the border. Continue our cruise with swim stop on way to Korčula island, best known as the birthplace of Marco Polo. Afternoon arrival in Korčula followed by a guided walking tour of this enchanting town surrounded by walls, which is one of the best-preserved medieval cities in the Mediterranean. Overnight in Korčula where you can enjoy a gourmet experience at the multiple restaurants and bars."
-        },
-        {
-            "day_headline": "Day 6 KORČULA – BIŠEVO – VIS, Thursday (B, L)",
-            "day_summary": "Early in the morning we sail to small island Biševo to visit the Blue Cave, a magnificent natural phenomenon. As sometimes weather conditions can be very unpredictable, the possibility of our visit will depend on those conditions, however you will be notified of this on time. Cruise towards the island of Vis once a strategic naval Yugoslav base and restricted to the public. Due to this isolation, Vis has a special charm – “the Mediterranean as it once was” making it really interesting to visit. Try some exquisite wine sorts in one of the Vis traditional wineries. If interested, visit the remains of the Roman thermal place, City Museum or simply take a walk enjoying the views. Overnight in the port of Vis."
-        },
-        {
-            "day_headline": "Day 7 VIS – HVAR – SPLIT, Friday (B, L)",
-            "day_summary": "In the morning head further towards Hvar, the longest and sunniest island in the Adriatic, with a swim stop and lunch on board. Afternoon arrival in Hvar town followed by a tour of the town – the Renaissance cathedral with its original tower, and the oldest community theatre in Europe founded in 1612. After the tour set sail towards Split. In the afternoon join a guided tour of the city, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical center of the city is listed as a UNESCO World Heritage site. Your evening is free in Split."
-        },
-        {
-            "day_headline": "Day 8 SPLIT DEPARTURE, Saturday (B)",
-            "day_summary": "After breakfast it is time to disembark. You will be transferred to Split airport or your Split hotel."
-        },
-        {
-            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
-        }
-    ],
-    "dates_pricing" : [
-        {
-            "name" : "STELLA MARIS",
-            "dates" : {
-                "high_season" : ["06/04/2022","06/11/2022", "06/18/2022","06/25/2022", "07/02/2022", "08/27/2022", "09/03/2022","09/10/2022","09/17/2022","09/24/2022"]
-            },
-            "prices" : [
-                    {
-                        "cabin_name" : "LOWER DECK CABIN",
-                        "high_season" : 2775
-                    },
-                    {
-                        "cabin_name" : "MAIN DECK CABIN",
-                        "high_season" : 2995
-                    }
-            ]
-            
-        }
-    ],
-
-    "map" : "https://kompas.net/images/adriatic_cruises/M204/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
-},
 {
     "cruise_name" : "MINI ROUTE K240 SD",
     "short_description" : "4-day mini cruise from Split to Hvar, Mljet and Dubrovnik",
@@ -196,7 +127,7 @@
     ],
 
     "map" : "https://kompas.net/images/adriatic_cruises/K240SD/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240DS/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240SD/1 (1).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (2).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (3).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (4).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (5).png"]
 },
 {
     "cruise_name" : "MINI ROUTE K240 DS",
@@ -276,7 +207,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K240DS/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240DS/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240DS/1 (1).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (2).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (3).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (4).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (5).png"]
 },
 {
     "cruise_name" : "K200 Split return cruise via Dubrovnik",
@@ -474,8 +405,8 @@
             
         }
     ],
-    "map" : "https://kompas.net/images/adriatic_cruises/M204/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "map" : "https://kompas.net/images/adriatic_cruises/K200/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200/1 (1).png","https://kompas.net/images/adriatic_cruises/K200/1 (2).png","https://kompas.net/images/adriatic_cruises/K200/1 (3).png","https://kompas.net/images/adriatic_cruises/K200/1 (4).png","https://kompas.net/images/adriatic_cruises/K200/1 (5).png"]
 },
 {
     "cruise_name" : "K210 Split return cruise via Zadar",
@@ -582,7 +513,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K210/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K210/1 (1).png","https://kompas.net/images/adriatic_cruises/K210/1 (2).png","https://kompas.net/images/adriatic_cruises/K210/1 (3).png","https://kompas.net/images/adriatic_cruises/K210/1 (4).png","https://kompas.net/images/adriatic_cruises/K210/1 (5).png"]
 },
 {
     "cruise_name" : "K260 One way Split to Dubrovnik",
@@ -779,7 +710,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K260/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K260/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K260/1 (1).png","https://kompas.net/images/adriatic_cruises/K260/1 (2).png","https://kompas.net/images/adriatic_cruises/K260/1 (3).png","https://kompas.net/images/adriatic_cruises/K260/1 (4).png","https://kompas.net/images/adriatic_cruises/K260/1 (5).png"]
 },
 {
     "cruise_name" : "K270 One way Dubrovnik to Split",
@@ -970,7 +901,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K270/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K760/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K270/1 (1).png","https://kompas.net/images/adriatic_cruises/K270/1 (2).png","https://kompas.net/images/adriatic_cruises/K270/1 (3).png","https://kompas.net/images/adriatic_cruises/K270/1 (4).png","https://kompas.net/images/adriatic_cruises/K270/1 (5).png"]
 },
 {
     "cruise_name" : "K240 Dubrovnik return cruise",
@@ -1076,7 +1007,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K240/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1 (1).png","https://kompas.net/images/adriatic_cruises/K245/1 (2).png","https://kompas.net/images/adriatic_cruises/K245/1 (3).png","https://kompas.net/images/adriatic_cruises/K245/1 (4).png","https://kompas.net/images/adriatic_cruises/K245/1 (5).png"]
 },
 {
     "cruise_name" : "K280 Zadar to Dubrovnik",
@@ -1148,7 +1079,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K280/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K280/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K280/1 (1).png","https://kompas.net/images/adriatic_cruises/K280/1 (2).png","https://kompas.net/images/adriatic_cruises/K280/1 (3).png","https://kompas.net/images/adriatic_cruises/K280/1 (4).png","https://kompas.net/images/adriatic_cruises/K280/1 (5).png"]
 },
 {
     "cruise_name" : "K290 Dubrovnik to Zadar",
@@ -1220,7 +1151,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K290/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K290/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K290/1 (1).png","https://kompas.net/images/adriatic_cruises/K290/1 (2).png","https://kompas.net/images/adriatic_cruises/K290/1 (3).png","https://kompas.net/images/adriatic_cruises/K290/1 (4).png","https://kompas.net/images/adriatic_cruises/K290/1 (5).png"]
 },
 {
     "cruise_name" : "MINI ROUTE K200 SD",
@@ -1276,7 +1207,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K200SD/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200SD/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200SD/1 (1).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (2).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (3).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (4).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (5).png"]
 },
 {
     "cruise_name" : "MINI ROUTE K200 DS",
@@ -1336,7 +1267,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K200DS/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200DS/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200DS/1 (1).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (2).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (3).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (4).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (5).png"]
 },
 {
     "cruise_name" : "K245 Superior Dubrovnik return cruise",
@@ -1408,7 +1339,7 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K245/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1 (1).png","https://kompas.net/images/adriatic_cruises/K245/1 (2).png","https://kompas.net/images/adriatic_cruises/K245/1 (3).png","https://kompas.net/images/adriatic_cruises/K245/1 (4).png","https://kompas.net/images/adriatic_cruises/K245/1 (5).png"]
 }
     ]
 }
