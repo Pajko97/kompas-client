@@ -1341,5 +1341,711 @@
     "map" : "https://kompas.net/images/adriatic_cruises/K245/map.png",
     "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1 (1).png","https://kompas.net/images/adriatic_cruises/K245/1 (2).png","https://kompas.net/images/adriatic_cruises/K245/1 (3).png","https://kompas.net/images/adriatic_cruises/K245/1 (4).png","https://kompas.net/images/adriatic_cruises/K245/1 (5).png"]
 }
+    ],
+    "cruise_and_land" : [
+        {
+            "tour_name" : "K220 ADRIATIC CRUISE WITH ROMANTIC VENICE",
+            "short_description" : "12 days from Dubrovnik to Mljet, Korcula, Hvar, Bol, Split, Trogir, Sibenik, Sali, Zadar, Opatija and Venice",
+            "features" : {
+                "included" : "Arrival transfer from Dubrovnik Airport to hotel and departure transfer from the hotel in Venice to the Venice Airport (on the first and the last days of the tour only)#2 nights in hotel in Opatija and 2 nights in hotel in Venice#7-night accommodation on board (supreme category boat) in a cabin with private bathroom, A/C and LCD TV#Daily buffet breakfast#6 lunches (4 courses) during the cruise#Welcome Dinner and Captain’s Dinner during the cruise#Water dispenser during cruise#Complementary fresh fruits available daily during the cruise#Professional English speaking Cruise Manager#Daily cabin servicing, fresh bed linen and towels midweek during the cruise#Luggage handling#Free Wi-Fi#1 dinner at the hotel#Farewell dinner in Venice#air-conditioned motorcoach throughout#KOMPAS English speaking tour director throughout for land portion#Licensed Local Guides#Whisper technology enhanced touring#Hotel taxes",
+                "sightseeing_included" : "Local guides for sightseeing tours of Plitvice National Park, Pula, Postojna, Venice#Entrance fees to Plitvice lower lakes, Pula Amphitheater, Postojna cave, Venice glass factory, St. Mark’s Basilica, Dodge’s Palace,#City tours of Dubrovnik, Korcula, Hvar, Split, Sibenik and Zadar#Guided tour and entrance to Mljet National Park and Krka National Park and Kornati National Park#Entrances to: Church St. Donat, Maraschino liqueur tasting, Diocletian’s Palace, Cathedral of St. Mark, Rector’s Palace, Franciscan Monastery with its Pharmacy",
+                "rates_not_included": "Drinks, extra meals#Port tax + Tourist tax $44 net per person (to be paid by invoice)#Entrance Fees#All other entrance fees not mentioned in the inclusions"
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1 Dubrovnik, arrival, Saturday",
+                    "day_summary": "You will be transferred from the airport or from your hotel in Dubrovnik to Gruz Harbour, where embarkation begins at noon. Later, join your fellow travellers and your cruise manager for an onboard welcome reception with dinner. This evening, you can relax on board, or take a stroll through Dubrovnik’s Old Town."
+                },
+                {
+                    "day_headline" : "Day 2 Dubrovnik – Mljet – Korcula, Sunday",
+                    "day_summary" : "We start the day with breakfast and a walking tour of Dubrovnik, the “Pearl of Adriatic”, the UNESCO World Heritage site. We visit the Rector’s Palace and the Franciscan Monastery’s Pharmacy before returning to the ship. Lunch is served, while we set sail for Mljet Island, Mljet National Park features five types of forest, many species of birds, and two deep lakes: Veliko Jezero (Big Lake) and Malo Jezero (Small Lake). Spectacular scenery accompanies us all the way to Korcula, believed to be the birthplace of the explorer Marco Polo. Dinner tonight is on board."
+                },
+                {
+                    "day_headline": "Day 3 Korcula – Hvar, Monday",
+                    "day_summary": "This morning, after breakfast, we take a walking tour through the narrow, cobble-stone streets of Korcula town. Our visit includes a visit to the majestic Gothic-Baroque Cathedral of St. Mark. Afterward, we board our ship again and enjoy lunch. We stop for a swim en route to Hvar where we arrive late afternoon. There, during our sightseeing tour, we see the first public theatre in Europe, the Franciscan Monastery and much more. Our evening is free in Hvar so you can explore even more and dine on your own at one of the many restaurants in town.<br><i><b>Note:</b>Due to the limited capacity of the Hvar harbor (during peak season in July and August) the port of call can be substituted for Stari Grad/Jelsa. In that case, transfers by bus will be organized to and from Hvar.</i>"
+                },
+                {
+                    "day_headline": "Day 4 Hvar – Bol – Split, Tuesday",
+                    "day_summary": "We sail to Bol, home of the Golden Horn, one of the most breathtaking beaches in Croatia. This vast, golden pebble beach is unique because it changes shape and position depending on the direction of the winds. During lunch on board, we sail to Split. Here, a walking tour shows us the historic inner city, built around the Palace of the Roman Emperor Diocletian, a UNESCO World Heritage Site. We see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle, and the Cathedral. The evening is free to discover more of Split."
+                },
+                {
+                    "day_headline": "Day 5 Split – Trogir – Sibenik, Wednesday",
+                    "day_summary": "In the morning, we sail to the UNESCO-listed city of Trogir. Our time here is free to explore on own. Once back on board, enjoy lunch as we cruise to Sibenik, with a stop for a swim on the way. In Sibenik, a walking tour shows us the highlights of the city, followed by an evening at leisure."
+                },
+                {
+                    "day_headline": "Day 6 Sibenik – Sali, Thursday",
+                    "day_summary": "The Sibenik area is home to two National Parks: Krka, with its breathtaking waterfalls, and Kornati, comprised of more than 140 islands with numerous coves and crystal-clear water. The day is devoted to tour these scenic destinations before we sail to Sali. Tonight, aboard our ship, enjoy the Captain’s dinner with live entertainment and a glass of wine."
+                },
+                {
+                    "day_headline": "Day 7 Sali – Zadar, Friday",
+                    "day_summary": "As we cruise this morning, and weather permitting, we stop for a swim. After lunch, we arrive in Zadar. The city’s compact pedestrian zone is perfect to explore on foot. We admire the 16th century walls built by the Venetians as a defense against the Turks. We also see the Port Gate where the Venetian lion still guards the entrance, the Square of the Five Wells, the Church of St. Donat, the Roman Forum, and the largest Cathedral in Dalmatia, St. Anastasia. After the tour, we stop for a tasting of the traditional Maraschino liqueur. The evening is free in Zadar."
+                },
+                {
+                    "day_headline": "Day 8, Zadar – Opatija, Saturday",
+                    "day_summary": "After breakfast, we disembark and bid farewell to our crew. We journey north by motorcoach for a visit to Plitvice Lakes National Park, another UNESCO World Heritage site. Here, we enjoy the breathtaking beauty while we walk around several of the lower lakes. The Park is a natural wonder with 16 terraced lakes surrounded by wooded mountains and lush vegetation. Afterward, we continue drive to Opatija where dinner is served at our hotel."
+                },
+                {
+                    "day_headline": "Day 9, in Opatija, Sunday",
+                    "day_summary": "After breakfast, we drive to Pula for an orientation tour of this strategic port city. We visit the preserved Amphitheater, the sixth largest in the world. Then we continue to the beautiful resort of Rovinj. There’s free time to explore the old town and its narrow streets before we return to Opatija."
+                },
+                {
+                    "day_headline": "Day 10, Opatija – Postojna – Venice, Monday",
+                    "day_summary": "After breakfast, we travel to Slovenia and visit the unique and beautiful Postojna Cave, one of the largest in Europe. We tour this wondrous subterranean world by miniature electric train. Later, we continue to Italy where Venice beckons with its idyllic setting on 119 islands."
+                },
+                {
+                    "day_headline": "Day 11, Venice, Tuesday",
+                    "day_summary": "We begin our exploration of Venice with a boat ride to Murano Island, famous for its artistic glassware. In a working glass factory, we see master craftsmen demonstrate the art of traditional Venetian glassblowing. We then depart for St. Mark’s Square, for a walking tour with visits of St. Mark’s Basilica and the Doge’s Palace. We take in views of the Bell Tower and the Bridge of Sighs. The balance of the day is at leisure to enjoy Venice at your own pace, shop, or perhaps join an optional gondola ride. In the evening, we gather for a farewell dinner in a local restaurant."
+                },
+                {
+                    "day_headline": "Day 12, depart Venice, Wednesday",
+                    "day_summary": "You will be transferred to Venice’s airport for your flight home."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                {
+                    "price_per_person" : "DOUBLE OCCUPANCY, PRICES IN USD (LOWER DECK CABIN ON A SUPREME BOAT)",
+                    "dates" : ["05/28/2022","06/11/2022","06/25/2022","09/03/2022","09/17/2022","10/01/2022"],
+                    "prices" : [3362,3362,3362,3362,3362,3362],
+                    "single_use_suplement" : 1750,
+                    "main_deck_suplement" : 250,
+                    "port_tourist_tax" : 44
+                }
+            ],
+            "map" : "https://kompas.net/images/adriatic_cruises/K220/map.png",
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K220/1 (1).png","https://kompas.net/images/adriatic_cruises/K220/1 (2).png","https://kompas.net/images/adriatic_cruises/K220/1 (3).png","https://kompas.net/images/adriatic_cruises/K220/1 (4).png","https://kompas.net/images/adriatic_cruises/K220/1 (5).png"]
+        },
+        {
+            "tour_name" : "K221 DIVINE CROATIA CRUISE with SLOVENIA and VENICE",
+            "short_description" : "12 days from Dubrovnik to Mljet, Korcula, Bisevo, Vis, Hvar, Stari Grad, Trogir , Split, Opatija and Venice",
+            "features" : {
+                "included" : "Arrival shared transfer from Dubrovnik Airport to hotel and departure shared transfer from the hotel in Venice to the Venice Airport (on the first and the last days of the tour only)#2 nights in hotel in Opatija and 2 nights in hotel in Venice#7-night accommodation on board (supreme category boat) in a cabin with private bathroom, A/C and LCD TV#Daily buffet breakfast#6 lunches (4 courses) during the cruise#Welcome Dinner and Captain’s Dinner during the cruise#Water dispenser during cruise#Complementary fresh fruits available daily during the cruise#Professional English speaking Cruise Manager#Daily cabin servicing, fresh bed linen and towels midweek during the cruise#Luggage handling#Free Wi-Fi#1 dinner at the hotel#Farewell dinner in Venice#air-conditioned motorcoach throughout#KOMPAS English speaking tour director throughout for land portion#Licensed Local Guides#Whisper technology enhanced touring#Hotel taxes",
+                "sightseeing" : ["Local guides for sightseeing tours of Plitvice National Park, Pula, Postojna, Venice#Entrance fees to Plitvice lower lakes, Pula Amphitheater, Postojna cave, Venice glass factory, St. Mark’s Basilica, Dodge’s Palace.#City tours of Dubrovnik, Korcula, Hvar, Trogir and Split#Guided tour and entrance to Mljet National Park and Krka National Park#Oyster tasting in Ston."
+                ],
+                "supplements_optional" : "Entrance to the Blue Cave to be paid on the spot: up to $16 per person (depending on the season)",
+                "rates_not_included": "Drinks, extra meals#Port tax + Tourist tax $44 net per person (to be paid by invoice)#Entrance Fees#All other entrance fees not mentioned in the inclusions"
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1 Dubrovnik, arrival, Saturday",
+                    "day_summary": "You will be transferred from Dubrovnik airport or your Dubrovnik hotel to the harbour, where embarkation begins at 1 pm. Get settled in your cabin before attending a Welcome reception followed by dinner this evening."
+                },
+                {
+                    "day_headline" : "Day 2 Dubrovnik – Elafiti Islands – Slano, Sunday",
+                    "day_summary" : "Start the day with a walking tour of Dubrovnik, the “Pearl of Adriatic”. Walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After returning to ship enjoy the magic scenery as the ship cruises around Dubrovnik city walls to continue to one of the Elafiti islands for a swim stop. Afternoon arrival in Slano, a peaceful fishermen’s village and our starting point to Ston, once fortified small village famous for its oysters situated on Peljesac peninsula. Peljesac peninsula is known as one of the best wine-producing regions in Croatia. After exploring the town, we leave to a small nearby village to enjoy the authentic local oyster tasting. Overnight and Captains Dinner in Slano."
+                },
+                {
+                    "day_headline": "Day 3 Slano – Mljet – Korcula, Monday",
+                    "day_summary": "In the morning we head north to the Island of Mljet. Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park. Continue our cruise towards the Korcula island best known as the birthplace of Marco Polo. Afternoon arrival in Korcula followed by a guided walking tour of this enchanting town surrounded by walls, which is one of the best-preserved medieval cities in the Mediterranean. Overnight in Korcula where you can enjoy a gourmet experience at the multiple restaurants and bars."
+                },
+                {
+                    "day_headline": "Day 4 Korcula – Bisevo – Vis, Tuesday",
+                    "day_summary": "Early in the morning we sail to small island Bisevo to visit the Blue Cave, a magnificent natural phenomenon. As sometimes weather conditions can be very unpredictable, the possibility of our visit will depend on those conditions, however you will be notified of this on time. Cruise towards the island of Vis once a strategic naval Yugoslav base and restricted to the public. Due to this isolation, Vis has a special charm – “the Mediterranean as it once was” making it interesting to visit. Try some exquisite wine sorts in one of the Vis traditional wineries. If interested, visit the remains of the Roman thermal place, the City Museum or simply take a walk enjoying the views. Overnight in the port of Vis."
+                },
+                {
+                    "day_headline": "Day 5 Vis – Hvar – Stari Grad, Wednesday",
+                    "day_summary": "In the morning head further towards Hvar, the longest and sunniest island in the Adriatic, with a swim stop and lunch on board. Afternoon arrival in Hvar town followed by a tour of the town – the Renaissance cathedral with its original tower, and the oldest community theatre in Europe founded in 1612. After the tour set sail towards Stari Grad, one of the oldest cities in Europe where you will overnight."
+                },
+                {
+                    "day_headline": "Day 6 Stari Grad – Trogir, Thursday",
+                    "day_summary": "Early morning departure to the old Dalmatian town Trogir. Trogir is sometimes referred to as “miniature Venice” or a “mini-Dubrovnik” because of its ancient walls, or a floating museum town – as it has a masterful architecture including some stunning Venetian palaces. You will discover the beauty of the Krka National Park and the small access port of Skradin where the flora and fauna are exceptional. Overnight in Trogir."
+                },
+                {
+                    "day_headline": "Day 7 Trogir – Split, Friday",
+                    "day_summary": "In the morning join our guided tour of Trogir with a local tour guide. Set sail to Split with a stop along the way to swim and relax, if weather permits, with lunch on board. In the late afternoon we arrive at Split to spend the night. Arriving in Split, join a guided tour of the city, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical centre of the city is listed as a UNESCO World Heritage site. Your evening is free in Split."
+                },
+                {
+                    "day_headline": "Day 8, Split – Opatija, Saturday",
+                    "day_summary": "We disembark after breakfast and bid our crew farewell. We journey north by motorcoach for a visit to Plitvice Lakes National Park, a UNESCO World Heritage site. In Plitvice, we walk around several of the lower lakes. The Park is a natural wonder with 16 terraced lakes surrounded by wooded mountains and lush vegetation. After our visit, we motor on to Opatija where dinner is served at our hotel."
+                },
+                {
+                    "day_headline": "Day 9, in Opatija, Sunday",
+                    "day_summary": "After breakfast, we drive to Pula for an orientation tour of this strategic port city. We also visit the preserved Amphitheater, the sixth largest in the world. Then we continue to the beautiful resort city of Rovinj. There’s free time to explore the old town and its narrow streets before we return to our hotel in Opatija."
+                },
+                {
+                    "day_headline": "Day 10, Opatija – Postojna – Venice, Monday",
+                    "day_summary": "After breakfast, we travel to Slovenia and visit the unique and beautiful Postojna Cave, one of the largest in Europe. We tour this wondrous subterranean world by miniature electric train. Afterward, we continue to Italy where Venice beckons with its idyllic setting on 119 islands."
+                },
+                {
+                    "day_headline": "Day 11, Venice, Tuesday",
+                    "day_summary": "We begin our exploration of Venice with a boat ride to Murano Island, famous for its artistic glassware. In a working glass factory, we observe master craftsmen demonstrate the art of traditional Venetian glassblowing. We then depart for St. Mark’s Square, for a walking tour with visits of St. Mark’s Basilica and the Doge’s Palace. En route, we take in views of the Bell Tower and the Bridge of Sighs. The balance of the day is at leisure to enjoy even more of Venice. Later, we gather for a farewell dinner in a local restaurant."
+                },
+                {
+                    "day_headline": "Day 12, depart Venice, Wednesday",
+                    "day_summary": "You will be transferred to Venice’s airport for your flight home."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                {
+                    "price_per_person" : "DOUBLE OCCUPANCY, PRICES IN USD (LOWER DECK CABIN ON A SUPREME BOAT)",
+                    "dates" : ["05/28/2022","06/11/2022","06/25/2022","09/10/2022","09/24/2022","10/01/2022"],
+                    "prices" : [3206,3206,3206,3407,3407,3407],
+                    "single_use_suplement" : 1750,
+                    "main_deck_suplement" : 250,
+                    "port_tourist_tax" : 44
+                }
+            ],
+            "map" : "https://kompas.net/images/adriatic_cruises/K221/map.png",
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K221/1 (1).png","https://kompas.net/images/adriatic_cruises/K221/1 (2).png","https://kompas.net/images/adriatic_cruises/K221/1 (3).png","https://kompas.net/images/adriatic_cruises/K221/1 (4).png","https://kompas.net/images/adriatic_cruises/K221/1 (5).png"]
+        },
+        {
+            "tour_name" : "K222 Adriatic cruise with Romantic Venice",
+            "short_description" : "12 days from Split, Krka, Sibenik, Galesnjak. Zadar, Sali, Kornati, Primosten, Vis, Bisevo, Hvar, Stari Grad, Bol, Split, Opatija and Venice",
+            "features" : {
+                "included" : "Arrival shared transfer from Split Airport to hotel and departure shared transfer from the hotel in Venice to the Venice Airport (on the first and the last days of the tour only)#2 nights in hotel in Opatija and 2 nights in hotel in Venice#7-night accommodation on board (supreme category boat) in a cabin with private bathroom, A/C and LCD TV#Daily buffet breakfast#6 lunches (4 courses) during the cruise#Welcome Dinner and Captain’s Dinner during the cruise#Water dispenser during cruise#Complementary fresh fruits available daily during the cruise#Professional English speaking Cruise Manager#Daily cabin servicing, fresh bed linen and towels midweek during the cruise#Luggage handling#Free Wi-Fi#1 dinner at the hotel#Farewell dinner in Venice#air-conditioned motorcoach throughout#KOMPAS English speaking tour director throughout for land portion#Licensed Local Guides#Whisper technology enhanced touring#Hotel taxes",
+                "sightseeing" : ["Local guides for sightseeing tours of Plitvice National Park, Pula, Postojna, Venice#Entrance fees to Plitvice lower lakes, Pula Amphitheater, Postojna cave, Venice glass factory, St. Mark’s Basilica, Dodge’s Palace.#City tours of Sibenik, Zadar, Vis, Hvar, and Split#Guided tour and entrance to Krka National Park#Wine tasting in Bol."
+                ],
+                "supplements_optional" : "Entrance to the Blue Cave to be paid on the spot: up to $16 per person (depending on the season)",
+                "rates_not_included": "Drinks, extra meals#Port tax + Tourist tax $44 net per person (to be paid by invoice)#Entrance Fees#All other entrance fees not mentioned in the inclusions"
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1 Split, arrival, Saturday",
+                    "day_summary": "You will be transferred from Split airport or your Split hotel to the harbour, where embarkation begins at 1 pm. Get settled in your cabin before attending a Welcome reception followed by dinner this evening."
+                },
+                {
+                    "day_headline" : "Day 2 Split – Np Krka – Sibenik, Sunday",
+                    "day_summary" : "Depart from Split early in the morning towards Sibenik. After lunch disembark in Sibenik and take the bus to visit Krka National Park. Its magnificent waterfalls, including the famous waterfall Skradinski Buk, are one of Croatia’s most famous sights. After the sightseeing tour, we will return to Sibenik, a city of exceptional history and rich cultural heritage. Set out on a walking tour of Sibenik historical centre and visit one of the most beautiful Renaissance Cathedrals of the Adriatic. Your night is at leisure in town."
+                },
+                {
+                    "day_headline": "Day 3 Sibenik – Galesnjak – Zadar, Monday",
+                    "day_summary": "Leaving Sibenik early in the morning we set sail for Galesnjak, a typical small Dalmatian Island, where you can enjoy a swim stop in one of secluded bays. Enjoy lunch while we cruise into Zadar harbour in the afternoon. Set out on a walking tour of Zadar historical centre and admire the old walls and Port Gate built in 16th century. Visit the Square of the Five Wells, the Church of St. Donat, the Roman Forum and the largest Cathedral in Dalmatia, St. Anastasia. If there is a breeze, enjoy at the sea organ, an amazing art installation. Overnight in Zadar."
+                },
+                {
+                    "day_headline": "Day 4 Zadar – Sali – Np Kornati – Primosten, Tuesday",
+                    "day_summary": "Morning departure for Sali, a tourist town on Dugi Otok surrounded by hills, fields, bays, and islets. Enjoy swimming in one of the secluded bays. We set sail for the National Park Kornati, comprised of 89 unforgettable islands, islets, and reefs. The Kornati National Park is often mentioned as a “nautical paradise” and a rich marine eco-system. Afterwards we continue to Primosten, built on a hill and dominated by the parish Church of St. George which was built in 1485. Your evening is at leisure in town."
+                },
+                {
+                    "day_headline": "Day 5 Primošten – Vis, Wednesday",
+                    "day_summary": "We will have an early morning cruise towards the island of Vis once a strategic naval Yugoslav base and closed to the public. Due to this isolation, Vis has a special charm – “the Mediterranean as it once was” making it interesting to visit. Upon arrival in town of Vis join the walking tour to visit the remains of the Roman thermal place and views of the beautiful Villae Rusticae situated along the waterfront. Tonight, enjoy Captain’s dinner on board."
+                },
+                {
+                    "day_headline": "Day 6 Vis – Bisevo – Hvar – Stari Grad, Thursday",
+                    "day_summary": "We will have an early morning cruise towards small island of Bisevo to visit the Blue cave, a magnificent natural phenomenon. As sometimes weather conditions can be very unpredictable, the possibility of our visit will depend on those conditions, however you will be notified of this on time. Enjoy a relaxing cruise as we sail towards the island of Hvar, with swim stop in one of the secluded bays. Hvar is a favourite holiday destination for international celebrities, but it is also a charming seaside town with 8 centuries of architecture. On a walking tour visit the old town with the picturesque little streets and the first public theatre in Europe. We will continue towards Stari Grad on the Hvar Island, the sunniest Adriatic Island. The famous Stari Grad Field is the oldest in Croatia and the best-preserved example of ancient Greek system of agriculture. It is a part of world heritage protected by UNESCO. Overnight in Stari Grad."
+                },
+                {
+                    "day_headline": "Day 7 Stari Grad – Bol – Split, Friday",
+                    "day_summary": "In the morning we will continue towards our final island destination – the island of Brac where swimming is planned at the most famous beach in Dalmatia – Golden Horn near Bol – whose pebbles shifts from side to side as the wind and waves constantly change in shape. Join the visit to a Winery where you will have a guided winery tour to learn more about Dalmatian wines and enjoy a Wine tasting. We arrive in Split in the afternoon. This UNESCO World Heritage city bases the city centre in and around the stunning Diocletian’s Palace, the Roman emperor Diocletian’s retirement palace from 295–305 AD. Stroll through the palace basement filled with market stalls and outside experience the historical architecture of this beautiful palace. See the remnants of Split`s Roman heritage, it`s Renaissance and Gothic structures, Jupiter`s temple, the Peristyle, and many other unique sites. Overnight in Split."
+                },
+                {
+                    "day_headline": "Day 8 Split – Plitvice – Opatija, Saturday",
+                    "day_summary": "After breakfast, we disembark and bid farewell to our crew. We journey north by motorcoach for a visit to Plitvice Lakes National Park, a UNESCO World Heritage site. Here, we enjoy the breathtaking beauty while we walk around several of the lower lakes. The Park is a natural wonder with 16 terraced lakes surrounded by wooded mountains and lush vegetation. Afterward, we motor on to Opatija where dinner is served at our hotel."
+                },
+                {
+                    "day_headline": "Day 9, In Opatija, Sunday",
+                    "day_summary": "After breakfast, we drive to Pula for an orientation tour of this strategic port city. We visit the preserved Amphitheater, the sixth largest in the world. Then we continue to the beautiful resort of Rovinj. There’s free time to explore the old town and its narrow streets before we return to Opatija."
+                },
+                {
+                    "day_headline": "Day 10, Opatija – Postojna – Venice, Monday",
+                    "day_summary": "After breakfast, we travel to Slovenia and visit the unique and beautiful Postojna Cave, one of the largest in Europe. We tour this wondrous subterranean world by miniature electric train. Afterward, we continue to Italy where Venice beckons with its idyllic setting on 119 islands."
+                },
+                {
+                    "day_headline": "Day 11, Venice, Tuesday",
+                    "day_summary": "We begin our exploration of Venice with a boat ride to Murano Island, famous for its artistic glassware. In a working glass factory, we see master craftsmen demonstrate the art of traditional Venetian glassblowing. We then depart for St. Mark’s Square, for a walking tour with visits of St. Mark’s Basilica and the Doge’s Palace. We take in views of the Bell Tower and the Bridge of Sighs. The balance of the day is at leisure to enjoy Venice at your own pace, shop, or perhaps join an optional gondola ride. In the evening, we gather for a farewell dinner in a local restaurant."
+                },
+                {
+                    "day_headline": "Day 12, depart Venice, Wednesday",
+                    "day_summary": "You will be transferred to Venice’s airport for your flight home."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                {
+                    "price_per_person" : "DOUBLE OCCUPANCY, PRICES IN USD (LOWER DECK CABIN ON A SUPREME BOAT)",
+                    "dates" : ["05/28/2022","06/11/2022","06/25/2022","09/10/2022","09/24/2022","10/01/2022"],
+                    "prices" : [3125,3535,3535,3535,3535,3535],
+                    "single_use_suplement" : 1750,
+                    "main_deck_suplement" : 250,
+                    "port_tourist_tax" : 44
+                }
+            ],
+            "map" : "https://kompas.net/images/adriatic_cruises/K222/map.png",
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K222/1 (1).png","https://kompas.net/images/adriatic_cruises/K222/1 (2).png","https://kompas.net/images/adriatic_cruises/K222/1 (3).png","https://kompas.net/images/adriatic_cruises/K222/1 (4).png","https://kompas.net/images/adriatic_cruises/K222/1 (5).png"]
+        },
+        {
+            "tour_name" : "K223 Adriatic cruise with Romantic Venice",
+            "short_description" : "12 days from Split, Stari Grad, Hvar, Korcula, Dubrovnik, Mljet, Pucisca, Omis, Opatija and Venice",
+            "features" : {
+                "included" : "Arrival shared transfer from Split Airport to hotel and departure shared transfer from the hotel in Venice to the Venice Airport (on the first and the last days of the tour only)#2 nights in hotel in Opatija and 2 nights in hotel in Venice#7-night accommodation on board (supreme category boat) in a cabin with private bathroom, A/C and LCD TV#Daily buffet breakfast#6 lunches (4 courses) during the cruise#Welcome Dinner and Captain’s Dinner during the cruise#Water dispenser during cruise#Complementary fresh fruits available daily during the cruise#Professional English speaking Cruise Manager#Daily cabin servicing, fresh bed linen and towels midweek during the cruise#Luggage handling#Free Wi-Fi#1 dinner at the hotel#Farewell dinner in Venice#air-conditioned motorcoach throughout#KOMPAS English speaking tour director throughout for land portion#Licensed Local Guides#Whisper technology enhanced touring#Hotel taxes",
+                "sightseeing" : ["Local guides for sightseeing tours of Plitvice National Park, Pula, Postojna, Venice#Entrance fees to Plitvice lower lakes, Pula Amphitheater, Postojna cave, Venice glass factory, St. Mark’s Basilica, Dodge’s Palace.#City tours of Split, Hvar, Korcula and Dubrovnik#Guided tour and entrance to Mljet National Park#Wine tasting in Korcula"
+                ],
+                "supplements_optional" : "Omis & Cetina River Excursion – river boat ride, snack in Radman Mills (prosciutto, cheese, homemade bread, wine, water) – $31 per person",
+                "rates_not_included": "Drinks, extra meals#Port tax + Tourist tax $44 net per person (to be paid by invoice)#Entrance Fees#All other entrance fees not mentioned in the inclusions"
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1 Split, arrival, Saturday",
+                    "day_summary": "You will be transferred from Split airport or your Split hotel to the harbour, where embarkation begins at 1 pm. Get settled in your cabin before attending a Welcome Reception followed by dinner this evening."
+                },
+                {
+                    "day_headline" : "Day 2 Split – Stari Grad, Sunday",
+                    "day_summary" : "Morning sail towards Stari Grad, swimming stop and lunch on board. Stari Grad is one of the oldest towns in Europe with many friendly and cheap konobas and restaurants in the backstreets of the old town. The Stari Grad Plain and the old town centre of Stari Grad have been listed as UNESCO World Heritage Sites since 2008. Your evening is free to explore Stari Grad on your own."
+                },
+                {
+                    "day_headline": "Day 3 Stari Grad – Hvar – Korcula, Monday",
+                    "day_summary": "Morning departure towards Hvar, the most popular island in the Adriatic and a meeting point for the international jet set. A sightseeing tour of this charming town, with 8 centuries of architecture, will show you the picturesque little streets and the first public theatre in Europe (older than Shakespeare’s theatre in the UK). Afterwards we set sail for Korcula, with swimming stop in one of pristine bays and lunch on board. Early afternoon arrival to Korcula, thought to be the birthplace of the famous explorer Marco Polo. Take a walking tour through this fortified town which is one of the best-preserved medieval cities in the Mediterranean and enjoy wine tasting in one of the local wine bars. Your evening is free to discover the town and enjoy dinner on your own at one of the many good restaurants."
+                },
+                {
+                    "day_headline": "Day 4 Korcula – Dubrovnik, Tuesday",
+                    "day_summary": "In the morning sail to Dubrovnik, the “Pearl of the Adriatic”, an UNESCO World Heritage site. Upon arrival in Dubrovnik, you will enjoy a guided tour of the magnificent Old Town with a panoramic bus ride above the Old Town. After the panoramic view, we will arrive at the historical centre of Dubrovnik, walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After city tour, you will be left on your own to explore the city, visit City Walls, the Franciscan Monastery with Europe’s second oldest pharmacy, the Rector’s Palace, and the Cathedral, take a boat ride to Lokrum island or take the cable car to the top of the Mount Srđ. Overnight in Dubrovnik."
+                },
+                {
+                    "day_headline": "Day 5 Dubrovnik – Mljet, Wednesday",
+                    "day_summary": "Today we turn our compass back north towards Mljet Island, with plenty of time for morning swim along the sail. Upon arrival join the Cruise Manager for a visit to the famous salt lakes in the National Park and enjoy the boat ride to St. Mary Isle to visit an ancient Benedictine monastery, an old abbey and a Church dating back to the 12th Century. Mljet National Park encompasses five types of forest, many species of birds, and two deep lakes, Veliko Jezero (Big Lake) and Malo Jezero (Small Lake). Your evening is free in Mljet."
+                },
+                {
+                    "day_headline": "Day 6 Mljet – Pucisca, Thursday",
+                    "day_summary": "Take a break for a swim during your morning cruise. Continue sailing through lunch, arriving this afternoon in Pucisca, a beautiful little town on island of Brac. Pucisca, village of the stone sculpture, where you can visit amazing stonemason school (optional), features a spectacular steep-sided natural harbour and authentic Mediterranean architecture. Tonight, enjoy Captain’s dinner on board."
+                },
+                {
+                    "day_headline": "Day 7 Pucisca – Omis – Split, Friday",
+                    "day_summary": "Next, we head to our final port Omis with its fortresses which are silent stone reminders of the power of the pirates who once made their homes and fortunes here. You will have a possibility to book a short walking tour, followed by boarding a small boat and sail into Cetina River Canyon, a protected nature area, continuing to Radman Mills for a local specialty snack (optional). After visiting Omis set sail to Split with a stop along the way to swim, cool off and relax, if weather permits, with lunch on board. In the late afternoon we arrive in Split to take a guided tour of the historical centre of city which is listed as a UNESCO World Heritage site. Your evening is free in Split."
+                },
+                {
+                    "day_headline": "Day 8 Split – Plitvice – Opatija, Saturday",
+                    "day_summary": "After breakfast, we disembark and bid farewell to our crew. We journey north by motorcoach for a visit to the Plitvice Lakes National Park, an UNESCO World Heritage site. Here, we enjoy the breathtaking beauty while we walk around several of the lower lakes. The Park is a natural wonder with 16 terraced lakes surrounded by wooded mountains and lush vegetation. Afterward, we motor on to Opatija where dinner is served at our hotel."
+                },
+                {
+                    "day_headline": "Day 9, In OPATIJA, Sunday",
+                    "day_summary": "After breakfast, we drive to Pula for an orientation tour of this strategic port city. We visit the preserved Amphitheater, the sixth largest in the world. Then we continue to the beautiful resort of Rovinj. There’s free time to explore the old town and its narrow streets before we return to Opatija."
+                },
+                {
+                    "day_headline": "Day 10, Opatija – Postojna – Venice, Monday",
+                    "day_summary": "After breakfast, we travel to Slovenia and visit the unique and beautiful Postojna Cave, one of the largest in Europe. We tour this wondrous subterranean world by miniature electric train. Afterward, we continue to Italy where Venice beckons with its idyllic setting on 119 islands."
+                },
+                {
+                    "day_headline": "Day 11, Venice, Tuesday",
+                    "day_summary": "We begin our exploration of Venice with a boat ride to Murano Island, famous for its artistic glassware. In a working glass factory, we see master craftsmen demonstrate the art of traditional Venetian glassblowing. We then depart for St. Mark’s Square, for a walking tour with visits of St. Mark’s Basilica and the Doge’s Palace. We take in views of the Bell Tower and the Bridge of Sighs. The balance of the day is at leisure to enjoy Venice at your own pace, shop, or perhaps join an optional gondola ride. In the evening, we gather for a farewell dinner in a local restaurant."
+                },
+                {
+                    "day_headline": "Day 12, depart Venice, Wednesday",
+                    "day_summary": "You will be transferred to Venice’s airport for your flight home."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                {
+                    "price_per_person" : "DOUBLE OCCUPANCY, PRICES IN USD (LOWER DECK CABIN ON A SUPREME BOAT)",
+                    "dates" : ["05/28/2022","06/11/2022","06/25/2022","09/10/2022","09/24/2022","10/01/2022"],
+                    "prices" : [3125,3535,3535,3535,3535,3535],
+                    "single_use_suplement" : 1750,
+                    "main_deck_suplement" : 250,
+                    "port_tourist_tax" : 44
+                }
+            ],
+            "map" : "https://kompas.net/images/adriatic_cruises/K223/map.png",
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K223/1 (1).png","https://kompas.net/images/adriatic_cruises/K223/1 (2).png","https://kompas.net/images/adriatic_cruises/K223/1 (3).png","https://kompas.net/images/adriatic_cruises/K223/1 (4).png","https://kompas.net/images/adriatic_cruises/K223/1 (5).png"]
+        },
+        {
+            "tour_name" : "K225 Amazing Croatia by Land and Sea",
+            "short_description" : "10 days from Zagreb, Plitvice Lakes, Zadar, Sali, Sibenik, Trogir, Split, Bol, Hvar, Korcula, Mljet to Dubrovnik",
+            "features" : {
+                "included" : "Arrival shared transfer from Zagreb Airport to hotel and departure shared transfer from the port in Dubrovnik to the Dubrovnik Airport (on the first and the last days of the tour only)#air-conditioned motorcoach throughout#KOMPAS English speaking tour director throughout for land portion#2 nights in Zagreb#Welcome dinner at Hotel in Zagreb#Licensed Local Guides#Whisper technology enhanced touring#Hotel taxes#7-night accommodation on board (supreme category boat) in a cabin with private bathroom, A/C and LCD TV#Daily buffet breakfast#6 lunches (4 courses) during cruise#Welcome Dinner and Captain’s Dinner during cruise#Water dispenser during cruise#Complimentary coffee, tea, and fresh fruits available daily#Professional English speaking Cruise Manager#Daily cabin servicing, fresh bed linen and towels midweek during cruise#Luggage handling#Free Wi-Fi",
+                "sightseeing" : ["Local guide for sightseeing tour of Zagreb, Plitvice Lakes National Park#Entrance fees to Plitvice Lakes National Park#City tours of Zadar, Split, Hvar, Korcula and Dubrovnik#Guided tour and entrance to Mljet National Park and Krka National Park and Kornati National Park#Entrances to: Church St. Donat, Maraschino liqueur tasting, Diocletian’s Palace, Cathedral of St. Mark, rector’s Palace, Franciscan Monastery with its Pharmacy.#Guided tour and entrance to Mljet National Park, Krka National Park and Kornati National Park"
+                ],
+                "supplements_optional" : "",
+                "rates_not_included": "Drinks, extra meals#Port tax + Tourist tax $44 net per person (to be paid by invoice)#Entrance Fees#All other entrance fees not mentioned in the inclusions"
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive in Zagreb, Thursday",
+                    "day_summary": "You will be met at the airport and transferred to your hotel. The balance of the day is at leisure. Dinner is on us tonight."
+                },
+                {
+                    "day_headline" : "Day 2, in Zagreb, Friday",
+                    "day_summary" : "We enjoy a morning sightseeing tour that takes us through the historic Upper Town. We see St. Mark’s Church, St. Catherine’s Church, the Cathedral, the Parliament, and the Government Palace. The rest of the day is at leisure to explore the winding streets of the old town or perhaps take an optional excursion into the countryside."
+                },
+                {
+                    "day_headline": "Day 3, Zagreb – Plitvice Lakes – Zadar, Saturday",
+                    "day_summary": "We are headed south for a visit to the magnificent Plitvice Lakes National Park, a UNESCO World Heritage site. We enjoy the breathtaking scenery of this natural wonder with its 16 terraced lakes surrounded by forested mountains and lush vegetation. A walking tour takes us around several of the lower lakes. After our visit, we drive to Zadar to board our ship. Later, join your fellow “sailors” and cruise manager for a welcome reception and dinner on board."
+                },
+                {
+                    "day_headline": "Day 4 Zadar – Sali, Sunday",
+                    "day_summary": "We start the day with breakfast followed by a walking tour of Zadar’s historical centre. The city’s compact pedestrian zone is perfect to explore on foot. We admire the 16th century walls built by the Venetians as a defence against the Turks. We also see the Port Gate where the Venetian lion still guards the entrance, the Square of the Five Wells, the Church of St. Donat, the Roman Forum, and the largest Cathedral in Dalmatia, St. Anastasia. We stop for a tasting of traditional Maraschino liqueur. While we set sail for Sali, lunch is served. Later in the day, we explore Sali. Dinner is on your own in one of the local restaurants."
+                },
+                {
+                    "day_headline": "Day 5 Sali – Sibenik, Monday",
+                    "day_summary": "After breakfast, we take in the scenic wonderlands of two National Parks in the Sibenik area: Krka, with its breath-taking waterfalls, and Kornati, comprised of more than 140 islands with numerous coves and crystal-clear waters. The day is devoted to tour these scenic destinations. After our visit here, the evening is at leisure in Sibenik."
+                },
+                {
+                    "day_headline": "Day 6 Sibenik – Trogir – Split, Tuesday",
+                    "day_summary": "In the morning there is time for a swim before we continue sailing. After lunch, we arrive in the UNESCO-listed city of Trogir. Our time here is at leisure until we set course for Split. Here, a walking tour of the historic inner city takes us to the Palace of the Roman Emperor Diocletian, a UNESCO World Heritage Site. We see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle, and the Cathedral."
+                },
+                {
+                    "day_headline": "Day 7 Split – Bol – Hvar, Wednesday",
+                    "day_summary": "We sail to Bol, home of the Golden Horn, one of the most breath-taking beaches in Croatia. This vast, golden pebble beach is unique because it changes its shape and position depending on the direction of the winds. Before lunch, there is time for a swim in the clear blue waters. Later, we sail to the island of Hvar where we enjoy a sightseeing tour that includes the first public theatre in Europe, the Franciscan Monastery, and many more historic sights. The evening is free to explore Hvar and to dine on your own in one of the excellent restaurants.<br><b>Note:</b><i>Due to the limited capacity of the Hvar harbour (during peak season in July and August) the port of call can be substituted for Stari Grad / Jelsa. In that case transfers by bus will be organized to and from Hvar.</i>"
+                },
+                {
+                    "day_headline": "Day 8 Hvar – Korcula – Mljet, Thursday",
+                    "day_summary": "After breakfast we depart for Korcula, where we arrive in the early afternoon. Korcula town is thought to be the birthplace of the famous explorer Marco Polo. Our walking tour through its narrow, cobble-stone streets includes a visit of the majestic Gothic-Baroque Cathedral of St. Mark. We continue our cruise to the island of Mljet, where we enjoy an afternoon tour of Mljet National Park, which features five types of forest, many species of birds, and two deep lakes: Veliko Jezero (Big Lake) and Malo Jezero (Small Lake). This spectacular island was supposedly a favourite holiday spot for the Greek hero Ulysses! Tonight, on board our ship, we enjoy the Captain’s dinner with live entertainment and a glass of wine."
+                },
+                {
+                    "day_headline": "Day 9 Mljet – Dubrovnik, Friday",
+                    "day_summary": "In the morning we sail to Dubrovnik, the so called “Pearl of Adriatic,” and an UNESCO World Heritage site. While in Dubrovnik, we take a walking tour of the old town and visit the Rector’s Palace and the Franciscan Monastery with its Pharmacy. The remainder of the day is free to discover even more of this amazing city."
+                },
+                {
+                    "day_headline": "Day 10 Dubrovnik Departure, Saturday",
+                    "day_summary": "After breakfast, you will be transferred to Dubrovnik airport or to your hotel in Dubrovnik"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                {
+                    "price_per_person" : "DOUBLE OCCUPANCY, PRICES IN USD (LOWER DECK CABIN ON A SUPREME BOAT)",
+                    "dates" : ["05/19/2022","06/16/2022","07/28/2022","09/08/2022","09/22/2022","10/06/2022"],
+                    "prices" : [3050,3200,3200,3200,3200,3050],
+                    "single_use_suplement" : 1750,
+                    "main_deck_suplement" : 250,
+                    "port_tourist_tax" : 44
+                }
+            ],
+            "map" : "https://kompas.net/images/adriatic_cruises/K225/map.png",
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K225/1 (1).png","https://kompas.net/images/adriatic_cruises/K225/1 (2).png","https://kompas.net/images/adriatic_cruises/K225/1 (3).png","https://kompas.net/images/adriatic_cruises/K225/1 (4).png","https://kompas.net/images/adriatic_cruises/K225/1 (5).png"]
+        },
+        {
+            "tour_name" : "K226 Majestic Croatia from Zagreb to Dubrovnik",
+            "short_description" : "10 days from Zagreb to Plitvice Lakes, Split, Trogir, Stari Grad, Hvar, Vis, Biševo, Korcula, Mljet, Slano and Dubrovnik",
+            "features" : {
+                "included" : "Arrival shared transfer from Zagreb Airport to hotel and departure shared transfer from the port in Dubrovnik to the Dubrovnik Airport (on the first and the last days of the tour only)#air-conditioned motorcoach throughout#KOMPAS English speaking tour director throughout for land portion#2 nights in Zagreb#Welcome dinner at Hotel in Zagreb#Licensed Local Guides#Whisper technology enhanced touring#Hotel taxes#7-night accommodation on board (supreme category boat) in a cabin with private bathroom, A/C and LCD TV#Daily buffet breakfast#6 lunches (4 courses) during cruise#Welcome Dinner and Captain’s Dinner during cruise#Water dispenser during cruise#Complimentary coffee, tea, and fresh fruits available daily#Professional English speaking Cruise Manager#Daily cabin servicing, fresh bed linen and towels midweek during cruise#Luggage handling#Free Wi-Fi",
+                "sightseeing" : ["Local guide for sightseeing tour of Zagreb, Plitvice Lakes National Park#Entrance fees to Plitvice Lakes National Park#City tours of Split, Trogir, Hvar, Korcula and Dubrovnik#Guided tour and entrance to Mljet National Park and Krka National Park#Oyster tasting in Ston"
+                ],
+                "supplements_optional" : "Entrance to the Blue Cave to be paid on the spot: up to $16 per person (depending on the season)",
+                "rates_not_included": "Drinks, extra meals#Port tax + Tourist tax $44 net per person (to be paid by invoice)#Entrance Fees#All other entrance fees not mentioned in the inclusions"
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive in Zagreb, Thursday",
+                    "day_summary": "You will be met at the airport and transferred to your hotel. The balance of the day is at leisure. Dinner is on us tonight."
+                },
+                {
+                    "day_headline" : "Day 2, in Zagreb, Friday",
+                    "day_summary" : "We enjoy a morning sightseeing tour that takes us through the historic Upper Town. We see St. Mark’s Church, St. Catherine’s Church, the Cathedral, the Parliament, and the Government Palace. The rest of the day is at leisure to explore the winding streets of the old town or perhaps take an optional excursion into the countryside."
+                },
+                {
+                    "day_headline": "Day 3, Zagreb – Plitvice Lakes – Split, Saturday",
+                    "day_summary": "We head south for a visit to the magnificent Plitvice Lakes National Park, a UNESCO World Heritage site. Here, we enjoy the breathtaking scenery of this natural wonder with its 16 terraced lakes surrounded by forested mountains and lush vegetation. A walking tour takes us around several of the lower lakes. After our visit, we drive to Split harbour, where embarkation begins at 13:00h. Get settled in your cabin before attending a Welcome reception followed by dinner this evening."
+                },
+                {
+                    "day_headline": "Day 4 Split – Trogir, Sunday",
+                    "day_summary": "In the morning join a guided tour of Split, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical centre of the city is listed as a UNESCO World Heritage site. Set sail to the old Dalmatian town Trogir. Trogir is sometimes referred to as “miniature Venice” or a “mini-Dubrovnik” because of its ancient walls, or a floating museum town – as it has a masterful architecture including some stunning Venetian palaces. After disembarking in Trogir we will take the bus to visit Krka National Park. You will discover the pristine nature and waterfalls of the Krka National Park, an area extremely rich with flora and fauna. Overnight in Trogir."
+                },
+                {
+                    "day_headline": "Day 5 Trogir – Stari Grad, Monday",
+                    "day_summary": "Morning guided tour of Trogir with a local tour guide. Enjoy sailing towards Stari Grad, swimming stop and lunch on board. Stari Grad is one of the oldest towns in Europe with many friendly and cheap konobas and restaurants in the backstreets of the old town. The Stari Grad Plain and the old town centre of Stari Grad have been listed as UNESCO World Heritage Sites since 2008. Your evening is free to explore Stari Grad on your own."
+                },
+                {
+                    "day_headline": "Day 6 Stari Grad – Hvar – Vis, Tuesday",
+                    "day_summary": "Leaving Stari Grad in the morning towards city of Hvar. A sightseeing tour of Hvar town shows you the first public theatre in Europe and many more historical sites. Afterwards continue to Vis. The town of Vis is on the northern side of the island and was developed near the remains of ancient Issa, the first urban centre in Croatia, formed by the Greeks in 4th century B.C. Visit the remains of the Roman Baths, Church or Our Lady and the City Museum or take a walk enjoying the view of the beautiful Villae Rusticae situated along the coast. Your evening is free in Vis."
+                },
+                {
+                    "day_headline": "Day 7 Vis – Bisevo – Korcula, Wednesday",
+                    "day_summary": "Leaving Vis, we will have an early morning cruise towards Bisevo island to visit the Blue Cave, a magnificent natural phenomenon on the islet Bisevo just in front of the town of Komiza. As sometimes weather conditions can be very unpredictable, the possibility of our visit will depend on those conditions, however you will be notified of this on time. Afterwards cruise towards the Korcula the island’s main settlement and is known as the birthplace of Marco Polo, one of the world’s most famous explorers of all times. Stop for lunch in one of the secluded bays en route. Afternoon arrival in Korcula followed by a guided walking tour of one of the best-preserved medieval cities in the Mediterranean. Korcula has an abundant choice of restaurants to enjoy your gourmet experience and there are numerous bars and clubs for those looking for evening entertainment. Overnight in Korcula."
+                },
+                {
+                    "day_headline": "Day 8 Korcula – Mljet – Slano, Thursday",
+                    "day_summary": "In the morning head further south to the Island of Mljet. Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park. Alternatively, you can rent bicycles, scooters or kayaks to explore the National Park or island on your own. Lunch on board and departure for a small village called Slano on the mainland, a peaceful fishermen’s village, and the starting point to Ston, another once fortified small village famous for its oysters situated on Peljesac peninsula. Peljesac peninsula is known as one of the best wine-producing regions in Croatia. After exploring the town, we leave to a small nearby village to enjoy the authentic local oyster tasting. Tonight, enjoy Captain’s dinner and overnight in Slano."
+                },
+                {
+                    "day_headline": "Day 9 Slano – Elafiti Islands – Dubrovnik, Friday",
+                    "day_summary": "Early morning cruise to Elafiti islands with swimming stop on one of the secluded bays to spend the morning. Before lunch sail to Dubrovnik, before we moor at Gruz port we cruise alongside the old city walls, while lunch is served. After docking join a guided tour with panoramic ride and transfer included. After the panoramic view, we will arrive at the historical centre of Dubrovnik, walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After city tour, you will be left on your own to explore the city, visit City Walls, the Franciscan Monastery with Europe’s second oldest pharmacy, the Rector’s Palace, and the Cathedral, take a boat ride to Lokrum island or take the cable car to the top of the Mount Srđ. Overnight in Dubrovnik."
+                },
+                {
+                    "day_headline": "Day 10 Dubrovnik Departure, Saturday",
+                    "day_summary": "After breakfast, you will be transferred to Dubrovnik airport or to your hotel in Dubrovnik"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                {
+                    "price_per_person" : "DOUBLE OCCUPANCY, PRICES IN USD (LOWER DECK CABIN ON A SUPREME BOAT)",
+                    "dates" : ["05/26/2022","06/09/2022","06/23/2022","09/08/2022","09/22/2022","09/29/2022"],
+                    "prices" : [2550,2737,2737,2737,2737,2737],
+                    "single_use_suplement" : 1750,
+                    "main_deck_suplement" : 250,
+                    "port_tourist_tax" : 44
+                }
+            ],
+            "map" : "https://kompas.net/images/adriatic_cruises/K226/map.png",
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K226/1 (1).png","https://kompas.net/images/adriatic_cruises/K226/1 (2).png","https://kompas.net/images/adriatic_cruises/K226/1 (3).png","https://kompas.net/images/adriatic_cruises/K226/1 (4).png","https://kompas.net/images/adriatic_cruises/K226/1 (5).png"]
+        }
+    ],
+    "escorted_tours" :[
+        {
+            "tour_name" : "Three Balkan gems in one story 2022",
+            "short_description" : "9 days including Dubrovnik, Mostar, Sarajevo and Belgrade",
+            "features" : {
+                "included" : "Airport transfer from Dubrovnik airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome dinner in Dubrovnik (glass of wine, beer or soft drink)#3 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Departure transfer from hotel to Belgrade airport",
+                "tour_spotlights" : ["Dubrovnik, Croatia’s “Pearl of the Adriatic”#Mostar with its 16th century Ottoman bridge#Sarajevo which has many stories to tell#Belgrade Roman, Byzantine, Ottoman and Austrian influence in this vibrant city at the confluence of the Sava and Danube rivers"
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Arrive Dubrovnik, Wednesday",
+                    "day_summary": "Welcome to Dubrovnik! You will be met and transferred to your hotel. Then the day is free to get settled in or begin exploring. Later, gather for a Welcome Dinner.(D)"
+                },
+                {
+                    "day_headline" : "Day 2, in Dubrovnik, Thursday",
+                    "day_summary" : "Today we start our discovery tour of Dubrovnik with a walking tour of “Old Dubrovnik”; the Rector’s Palace, the Bell Tower Clock, Orlando’s Column and the Sponza Palace are all on our itinerary, as are the Dominican- and Franciscan Monasteries. The Pharmacy of the Franciscan Monastery is one of the oldest in the world. Later, we meet a local artisan to learn about the traditional craftsmanship that still thrives in Dubrovnik today. The remainder of the day is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 3, in Dubrovnik, Friday",
+                    "day_summary": "Day at leisure or you can join optional tour to Montenegro Travel to the Republic of Montenegro. Head to the mouth of the beautiful Bay of Kotor, the longest and deepest fjord in Southern Europe. Enjoy a boat ride to Our Lady of the Rocks, one of two islets off the coast of Perast. The Roman Catholic Church is the largest building on the islet, with a museum attached to it. Upon return to the coast, we will stop in Perast, an old charming coastal town. Visit city of Kotor before returning to Dubrovnik. Dinner and overnight. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4, Dubrovnik to Mostar, Saturday",
+                    "day_summary": "We continue our trip towards Mostar. Mostar is situated on the Neretva River and was named after the bridge keepers (mostari) who guarded the Stari Most (the Old Bridge) over the Neretva in the medieval times. The Old Bridge, built by the Ottomans in the 16th century, is one of Bosnia and Herzegovina’s most recognizable landmarks, and is considered one of the most exemplary pieces of Islamic architecture in the Balkans. After the city tour, rest of the day at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 5, Mostar to Sarajevo, Sunday",
+                    "day_summary": "Today we have a late start. Drive along the gorge of the Neretva River and through the mountains we drive to reach Sarajevo. Free afternoon to start exploring the city on your own and taste some local culinary, overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 6, in Sarajevo, Monday",
+                    "day_summary": "Sarajevo has been influenced by a number of cultures and civilizations during its long history. On a tour of the city, visit the Turkish bazaar “Bas Carsija,” Husref Bay’s Mosque, the Olympic Stadium, and Gavrilo Princip Museum. Rest of the day is free to explore the lively city at your pace. (B)"
+                },
+                {
+                    "day_headline": "Day 7, Sarajevo to Belgrade, Tuesday",
+                    "day_summary": "We begin our exploration of Venice at St. Mark’s Square with a walking tour which includes visits to the St. Mark’s Basilica and the Doge’s Palace. We take in the amazing views of the Bell Tower and the Bridge of Sighs. We also take a boat ride to Murano Island, famous for its artistic glassware. Visit a glassblowing factory, where you will watch a demonstration of traditional Venetian glassblowing by master craftsmen. The balance of the day is at leisure to enjoy Venice on your own or join an optional Gondola serenade with Aperol spritz Venetian style drink. (B)"
+                },
+                {
+                    "day_headline": "Day 8, in Belgrade, Wednesday",
+                    "day_summary": "We continue our journey to Visegrad with its Bridge on the Drina River. The bridge was built in oriental style in the 16th century and is a masterpiece of civil engineering. Our next stop is in Drvengrad (translated as ”Timber Town”), where famous director Emir Kusturica built the beautiful Ethno Village. Our final stop is in Uzice and we end our journey today in Belgrade. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9, depart Belgrade, Thursday",
+                    "day_summary": "Following breakfast, you will be transferred and dropped off at Belgrade airport for your flight home. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/balkan_gems/map.png",
+            "hotels" : ["Dubrovnik: Valamar Lacroma / Valamar Argosy or similar#Mostar: Mepas or similar#Sarajevo: Europa or similar#Belgrade: Moskva or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/balkan_gems/1 (1).png","https://kompas.net/images/escorted_tours/balkan_gems/1 (2).png","https://kompas.net/images/escorted_tours/balkan_gems/1 (3).png","https://kompas.net/images/escorted_tours/balkan_gems/1 (4).png","https://kompas.net/images/escorted_tours/balkan_gems/1 (5).png"]
+        },
+        {
+            "tour_name" : "Unforgettable Italy with Croatian spirit 2022",
+            "short_description" : "11 days including Rome, Florence, Venice, Opatija and Split",
+            "features" : {
+                "included" : "Airport transfer from Rome airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome dinner in Rome (glass of wine, beer or soft drink)#3 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Departure transfer from hotel to Split airport",
+                "tour_spotlights" : ["Rome, a magnificent eternal City with truly stunning architecture, the capital of Italy, fountains, churches, fashion and sublime food#Vatican City, seat of the Roman Catholic Church#Assisi with the Basilica of St. Francis#Florence, birthplace of the Renaissance, The Santa Maria del Fiore, culture, art and monuments#Pisa with the famous Leaning Tower#Venice, a fabled city with palazzos, bridges, masks, churches, canals and gondolas#Opatija, Adriatic sea-side city with rich history and picturesque surroundings#Split built around Dioclecian ‘s Palace"
+                ],
+                "extension" : "* This tour can be extended with Kompas Adriatic Cruise."
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive to Rome, Wednesday",
+                    "day_summary": "Arriving at Rome’s airport, you will be met and transferred to your hotel. The rest of the day is at leisure until you gather for a Welcome Dinner with your Tour Director and traveling companions. (D)"
+                },
+                {
+                    "day_headline" : "Day 2, in Rome, Thursday",
+                    "day_summary" : "This morning, we visit the Colosseum, a symbol of Rome. After our visit, we continue to see the splendid Arch of Constantine, climb the ancient Palatino Hill, overlook Circus Maximus and the Imperial Palace; and stop on the legendary Via Sacra or “Sacred way”. In the afternoon we have time at leisure for more discoveries and activities on your own or join an optional tour of the Grand Piazzas & food tour. (B)"
+                },
+                {
+                    "day_headline": "Day 3, in Rome, Friday",
+                    "day_summary": "Today we visit the Vatican Museums, located within that city’s boundaries. We see the works of Raphael & Michelangelo and admire the Sistine chapel’s magnificent frescoes. We continue to St. Peter’s Square where some of the most important Papal ceremonies take place. 14 In the afternoon you might want to visit some of the chic shops, galleries, and museums; do some more sightseeing on your own or relax in a sidewalk cafe with a glass of fine Italian wine, some refreshing gelato, or a hearty dish of pasta. (B)"
+                },
+                {
+                    "day_headline": "Day 4, Rome to Assisi and Florence, Saturday",
+                    "day_summary": "Travel through the stunning panorama of Tuscany with its iconic landscapes as you make your way to Assisi, the hometown of St. Francis. Here you will take a walking tour to see the main square and visit the impressive Basilica of St. Francis. Continue to Florence for dinner and an evening at leisure. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5, in Florence, Sunday",
+                    "day_summary": "ur morning city tour begins at the majestic Piazza del Duomo to see the Cathedral crowned by Brunelleschi’s awe-inspiring Dome, Giotto’s Bell Tower, and the Baptistery with Ghiberti’s splendid bronze “Gates of Paradise.” Then, we visit the Academy of Fine Arts, where Michelangelo’s David is displayed. The tour ends at the Piazzale Michelangelo with a spectacular view over Florence. The remainder of the day is free to savor the Renaissance splendor of the Tuscan capital on your own or take an optional tour Visit of San Gimignano with wine tasting. (B) "
+                },
+                {
+                    "day_headline": "Day 6, from Florence to Ferrara and on to Venice, Monday",
+                    "day_summary": "Drive to Pisa where you’ll view the famous Piazza del Miracoli with its Leaning Tower, Baptistery, and Duomo. Continue to Ferrara a renaissance gem in the Emilia-Romagna region, standing on the banks of the Po River. After an orientation tour of Ferrara, we continue to Venice for dinner and a free evening. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7, in Venice, Tuesday",
+                    "day_summary": "We begin our exploration of Venice at St. Mark’s Square with a walking tour which includes visits to the St. Mark’s Basilica and the Doge’s Palace. We take in the amazing views of the Bell Tower and the Bridge of Sighs. We also take a boat ride to Murano Island, famous for its artistic glassware. Visit a glassblowing factory, where you will watch a demonstration of traditional Venetian glassblowing by master craftsmen. The balance of the day is at leisure to enjoy Venice on your own or join an optional Gondola serenade with Aperol spritz Venetian style drink. (B)"
+                },
+                {
+                    "day_headline": "Day 8, from Venice to Opatija (Croatia), Wednesday",
+                    "day_summary": "Drive to the seaside town of Opatija. A gem on Croatia’s Adriatic coast, nestled along the striking Gulf of Kvarner. Afternoon is at leisure to explore the town on your own. Perhaps take a stroll along the “Lungo Mare” seaside and enjoy beautiful views of the Gulf, sheltered by soaring mountains. Enjoy dinner with your fellow travelers (B, D)"
+                },
+                {
+                    "day_headline": "Day 9, in Opatija (Croatia), Thursday",
+                    "day_summary": "Enjoy a full day at leisure in the seaside town of Opatija, with its rich history, picturesque surroundings and once a gathering spot for the Austro-Hungarian nobility. Alternatively, join the optional tour to the lstrian Peninsula that begins in Pula, a strategic port since the times of the ancient Romans. Afterwards, the tour continues to the resort town of Rovinj. Tonight, return to Opatija and explore the charming town with its wealth of fine seafood restaurants. (B)"
+                },
+                {
+                    "day_headline": "Day 10, from Opatija to Split, Friday",
+                    "day_summary": "Depart today for a drive along spectacular Adriatic coast to Split. Comfortable stop on the way for a delicious lunch included. Continue traveling passing by old fishing villages and new resorts, to the city of Split. Upon arrival, enjoy a city tour featuring the historic inner city, built around the Roman Emperor Diocletian’s Palace, a UNESCO World Cultural Heritage site. Finally, see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle and the Cathedral. The reminder of the day is at leisure. (B, L)"
+                },
+                {
+                    "day_headline": "Day 11, Split departure (Croatia), Saturday",
+                    "day_summary": "Transfer to the airport for your departure flight or continue with Adriatic Cruise."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/unforgettable_italy/map.png",
+            "hotels" : ["Rome: Starhotels Metropole or similar#Florence: Starhotels Michelangelo or similar#Venice: Carlton Grand Canal or similar# Opatija: Adriatic I or similar#Split: Hotel Corner or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/unforgettable_italy/1 (1).png","https://kompas.net/images/escorted_tours/unforgettable_italy/1 (2).png","https://kompas.net/images/escorted_tours/unforgettable_italy/1 (3).png","https://kompas.net/images/escorted_tours/unforgettable_italy/1 (4).png","https://kompas.net/images/escorted_tours/unforgettable_italy/1 (5).png"]
+        },
+        {
+            "tour_name" : "Quinessential Trio: Croatia, Montenegro & Albania 2022",
+            "short_description" : "12 days including Zagreb, Plitvice lakes, Split, Dubrovnik, Kolasin and Tirana",
+            "features" : {
+                "included" : " Airport transfer from Zagreb airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome dinner in Zagreb (glass of wine, beer or soft drink)#2 lunches and 5 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Departure transfer from hotel to Split airport",
+                "tour_spotlights" : [" Zagreb, Croatia’s capital and cultural center with rich history and 18th and 19th century Austro-Hungarian architecture#Plitvice National Park#Split built around Dioclecian ‘s Palace#Dubrovnik, Croatia’s “Pearl of the Adriatic”#National Park Durmitor located in northwestern Montenegro, part of the Dinaric Alps#Maraca Monastery, Serbian Orthodox monastery located in the valley of the Maraca River in Kolasin, central Montenegro#Tirana, the capital of Albania, is known for its colorful Ottoman-, Fascist- and Soviet-era architecture"
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Arrive Zagreb, Saturday",
+                    "day_summary": "Welcome to Zagreb! You will be met and transferred to your hotel. Then the day is free to get settled in or begin exploring. Later, gather for a Welcome Dinner. (D)"
+                },
+                {
+                    "day_headline" : "Day 2, in Zagreb, Sunday",
+                    "day_summary" : "A morning sightseeing tour includes views of the historic Upper Town, St. Mark’s Church, St. Catherine’s Church, the Cathedral, Parliament, and Government Palace. The rest of the day is at leisure to explore more of the city, browse through the shops, or take an or take an optional excursion to see the countryside. (B)"
+                },
+                {
+                    "day_headline": "Day 3, Zagreb to Plitvice lakes, Monday",
+                    "day_summary": "Travel to spectacular Plitvice Lakes National Park. Have your camera ready as you take a walking tour around several of the lower lakes. Enjoy the breathtaking scenery of this natural wonder of 16 terraced lakes surrounded by thickly wooded mountains and lush vegetation. The rest of the day is at leisure to explore more on your own. Later, gather for a dinner served at our hotel and overnight. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4, Plitvice to Trogir and Split, Tuesday",
+                    "day_summary": "After breakfast, head to Trogir, the center of artistic activities. Scholars from around the world gather here to study and paint. Continue traveling along the spectacular Adriatic coast, passing by old fishing villages and new resorts, to the city of Split. A city tour featuring the historic inner city, built around the Roman Emperor Diocletian’s Palace, a UNESCO World Cultural Heritage site. Finally, see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle and the Cathedral. The reminder of the day is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 5, in Split, Wednesday",
+                    "day_summary": "Day at leisure or you can join optional tour to Hvar Island: We board the ferry in Split and set sail for Hvar. The town of Hvar has a unique cultural and historical heritage, plus a centuries-old tradition in tourism. A walking tour includes views of the 17th century theatre, the 13th century Arsenal, and the central town square with the Cathedral. You will visit the Franciscan Monastery, famous for its collection of old art masters, including “lngoli ‘s Last Supper”. Afterward, we travel to Stari Grad for some wine tasting. A ferry returns us to Split. (B)"
+                },
+                {
+                    "day_headline": "Day 6, to Dubrovnik, Thursday",
+                    "day_summary": "Finally, travel to Dubrovnik, with its picturesque setting on the stunning Adriatic coast. A walking tour shows you the highlights of Old Dubrovnik. See the Rector’s Palace, Bell Tower Clock, Orlando’s Column and Sponza Palace. Then it’s on to see the Dominican Monastery and Franciscan Monastery with its Pharmacy, one of the oldest in the world. The rest of the day is at leisure to explore on your own, shop, stroll along the water’s edge, or simply relax and delight in your superbly scenic surroundings. (B, L)"
+                },
+                {
+                    "day_headline": "Day 7, in Dubrovnik, Friday",
+                    "day_summary": "At leisure or you can join optional tour to Montenegro Travel to the Republic of Montenegro. Head to the mouth of the beautiful Bay of Kotor, the longest and deepest fjord in Southern Europe. Enjoy a boat ride to Our Lady of the Rocks, one of two islets off the coast of Perast. The Roman Catholic Church is the largest building on the islet, with a museum attached to it. Upon return to the coast, we will stop in Perast, an old charming coastal town. Visit city of Kotor before returning to Dubrovnik. Later, gather for a Farewell Dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8, Dubrovnik to Cetinje, Podgorica and Kolasin, Saturday ",
+                    "day_summary": "Today we head to Montenegro. First, drive through the Bay of Kotor, the deepest fjord in Southern Europe. Then, drive up a spectacularly steep road to Cetinje, the historical capital of the country, set at the foot of Mount Lovcen. Stop and visit the King Nikola’s Museum, presenting the history of Montenegro. We continue to Podgorica, the capital of Montenegro and finish the day at Kolasin where the whole area is surrounded by the thick pine forest of the Bjelasica Mountain and is a popular skiing and air spa resort. Dinner and overnight in Kolasin. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9, in Kolasin, Sunday",
+                    "day_summary": "Today trip to National Park Durmitor, Zabljak and River Tara canyon the deepest canyon in Europe. Also, visit today Biogradsko Lake maybe “the most romantic lake” located in the center of Biogradska Mountain. Overnight. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 10, Kolasin to Tirana, Monday",
+                    "day_summary": "After breakfast, depart Kolas in and visit Moraca Monastery, the largest medieval Orthodox monument in Montenegro built in 1252. Then cross to Albania and travel to the town of Shkodra, a cultural center and one of Albania’s oldest cities. Drive by the ruins of Rozafa Castle, set on a hill high above the city. Continue to Tirana for dinner and overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 11, in Tirana, Tuesday",
+                    "day_summary": "A morning sightseeing tour shows you Skanderbeg Square; the Mosque of Et’hem Bey; the Clock Tower; the statue of G.K. Skanderbeg, Albania’s national hero; the Palace of Culture, built with Soviet assistance; and the National History Museum, with a mosaic on its facade portraying Albanian history. Your afternoon is free to discover the city at your own pace, shop, or join an optional tour Visit of Archaeological museum in Dures and Skanderberg distillery with cognac and wine tasting. We gather for a farewell dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 12, depart Tirana, Wednesday",
+                    "day_summary": "Following breakfast, you will be transferred and dropped off at Tirana airport for your flight home.(B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/quintessential_trio/map.png",
+            "hotels" : ["Zagreb: Sheraton or similar#Plitvice: Jezero or similar#Split: Briig or similar#Dubrovnik: Valamar Lacroma / Valamar Argosy or similar#Kolasin: Bianca resort or similar#Tirana: Colosseo or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/quintessential_trio/1 (1).png","https://kompas.net/images/escorted_tours/quintessential_trio/1 (2).png","https://kompas.net/images/escorted_tours/quintessential_trio/1 (3).png","https://kompas.net/images/escorted_tours/quintessential_trio/1 (4).png","https://kompas.net/images/escorted_tours/quintessential_trio/1 (5).png"]
+        },
+        {
+            "tour_name" : "Dalmatian Sunshine 2022",
+            "short_description" : "12 days including Venice, Bled, Ljubljana, Postojna Cave, Zagreb, Plitvice Lakes, Split and Dubrovnik",
+            "features" : {
+                "included" : "Airport transfer from Venice airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome dinner in Venice (glass of wine, beer or soft drink)#1 lunch and 4 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Departure transfer from hotel to Dubrovnik airport",
+                "tour_spotlights" : ["Venice, a fabled city with palazzos, bridges, masks, churches, canals and gondolas#Bled Alpine pearl, striking lake with a castle#Postojna Caves, part of Slovenia’s natural wonders#Ljubljana, one of Europe’s greenest capitals, a prehistoric history, scenic bridges and a rich arts scene#Zagreb, Croatia’s capital and cultural center with rich history and 18th and 19th century Austro-Hungarian architecture#Plitvice Lakes National park#Split built around Dioclecian ‘s Palace#Dubrovnik, Croatia’s “Pearl of the Adriatic”"
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrival Venice, Tuesday",
+                    "day_summary": "Welcome to Venice! You will be met at the airport and transferred to your hotel. Then the day is at leisure to get settled in or begin exploring. Later, gather for a Welcome Dinner with your traveling companions. (D)"
+                },
+                {
+                    "day_headline" : "Day 2, in Venice, Wednesday",
+                    "day_summary" : "We begin our exploration of Venice at St. Mark’s Square with a walking tour which includes visits to the St. Mark’s Basilica and the Doge’s Palace. We take in the amazing views of the Bell Tower and the Bridge of Sighs. We also take a boat ride to Murano Island, famous for its artistic glassware. Visit a glassblowing factory, where you will watch a demonstration of traditional Venetian glassblowing by master craftsmen. The balance of the day is at leisure to enjoy Venice on your own or join an optional Gondola serenade with Aperol spritz Venetian style drink. (B)"
+                },
+                {
+                    "day_headline": "Day 3, to Postojna and Bled, Thursday",
+                    "day_summary": "In the morning drive across the border into Slovenia with stop in Postojna Cave, one of the largest caves in Europe. Tour this fantastic subterranean world by miniature electric train. Afterwards continue to Bled, beautifully set in the Julian Alps. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4, in Bled, Friday ",
+                    "day_summary": "An Alpine lake surrounded by high peaks, Bled was “discovered” by 18 travelers in the middle of the 19th century. Since then, a small town of hotels, villas, and restaurants has developed around the lake, turning Bled into a lively, all-seasons resort. A sightseeing tour features the charming town and the lakeshore and visit to imposing Bled Castle, perched on a cliff high above the lake. Continue to the small island in the middle of the lake Bled with Pletna boat. Afternoon free or join optional tour dinner at country inn and live music. (B)"
+                },
+                {
+                    "day_headline": "Day 5, to Ljubljana and Zagreb, Saturday",
+                    "day_summary": "Leave the mountains and head to Ljubljana, the capital of Slovenia. See the most significant sights of the old city center on a walking tour. Highlights include the picturesque open-air Central Market, the Three Bridges, Baroque Town Hall, and Robba’s Fountain. Then, continue to Zagreb, Croatia’s capital city. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6, in Zagreb, Sunday",
+                    "day_summary": "This morning enjoy a city tour featuring the historic Upper Town, St. Mark’s Church, St. Catherine’s Church, the Cathedral, Parliament and Government Palace. The rest of the day is at leisure to explore the winding streets of the old town or take an optional excursion to see the countryside. (B)"
+                },
+                {
+                    "day_headline": "Day 7, from Zagreb to Plitvice Lakes, Monday",
+                    "day_summary": "Travel to spectacular Plitvice Lakes National Park. Have your camera ready as you take a walking tour around several of the lower lakes. Enjoy the breathtaking scenery of this natural wonder of 16 terraced lakes surrounded by thickly wooded mountains and lush vegetation. The rest of the day is at leisure to explore more on your own. Later, gather for a dinner served at our hotel and overnight. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8, to Trogir and Split, Tuesday",
+                    "day_summary": "After breakfast, head to Trogir, the center of artistic activities. Scholars from around the world gather here to study and paint. Continue traveling along the spectacular Adriatic coast, passing by old fishing villages and new resorts, to the city of Split. A city tour featuring the historic inner city, built around the Roman Emperor Diocletian’s Palace, a UNESCO World Cultural Heritage site. Finally, see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle and the Cathedral. The reminder of the day is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 9, in Split, Wednesday",
+                    "day_summary": "Day at leisure or you can join optional tour to Hvar Island: We board the ferry in Split and set sail for Hvar. The town of Hvar has a unique cultural and historical heritage, plus a centuries-old tradition in tourism. A walking tour includes views of the 17th century theatre, the 13th century Arsenal, and the central town square with the Cathedral. You will visit the Franciscan Monastery, famous for its collection of old art masters, including “lngoli ‘s Last Supper”. Afterward, we travel to Stari Grad for some wine tasting. A ferry returns us to Split. (B)"
+                },
+                {
+                    "day_headline": "Day 10, to Dubrovnik, Thursday",
+                    "day_summary": "Finally, travel to Dubrovnik, with its picturesque setting on the stunning Adriatic coast. A walking tour shows you the highlights of Old Dubrovnik. See the Rector’s Palace, Bell Tower Clock, Orlando’s Column and Sponza Palace. Then it’s on to see the Dominican Monastery and Franciscan Monastery with its Pharmacy, one of the oldest in the world. The rest of the day is at leisure to explore on your own, shop, stroll along the water’s edge, or simply relax and delight in your superbly scenic surroundings. (B, L)"
+                },
+                {
+                    "day_headline": "Day 11, in Dubrovnik, Friday",
+                    "day_summary": "At leisure or you can join optional tour to Montenegro Travel to the Republic of Montenegro. Head to the mouth of the beautiful Bay of Kotor, the longest and deepest fjord in Southern Europe. Enjoy a boat ride to Our Lady of the Rocks, one of two islets off the coast of Perast. The Roman Catholic Church is the largest building on the islet, with a museum attached to it. Upon return to the coast, we will stop in Perast, an old charming coastal town. Visit city of Kotor before returning to Dubrovnik. Later, gather for a Farewell Dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 12, departure, Saturday",
+                    "day_summary": "After breakfast, you will be transferred to the airport for your departure flight. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/dalmatian_sunshine/map.png",
+            "hotels" : ["Venice: Hotel Carlton Grand Canal or similar#Bled: Hotel Park or similar#Zagreb: Hotel Sheraton or similar#Plitvice: Hotel Jezero or similar#Split: Hotel Briig or similar#Dubrovnik: Hotel Valamar Lacroma / Valamar Argosy or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (1).png","https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (2).png","https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (3).png","https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (4).png","https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (5).png"]
+        }
     ]
 }
