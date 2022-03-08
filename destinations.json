@@ -66,7 +66,8 @@
             ],
         
             "map" : "https://kompas.net/images/adriatic_cruises/M204/map.png",
-            "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1 (1).png","https://kompas.net/images/adriatic_cruises/M204/1 (2).png","https://kompas.net/images/adriatic_cruises/M204/1 (3).png","https://kompas.net/images/adriatic_cruises/M204/1 (4).png","https://kompas.net/images/adriatic_cruises/M204/1 (5).png"]
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1 (1).png","https://kompas.net/images/adriatic_cruises/M204/1 (2).png","https://kompas.net/images/adriatic_cruises/M204/1 (3).png","https://kompas.net/images/adriatic_cruises/M204/1 (4).png","https://kompas.net/images/adriatic_cruises/M204/1 (5).png"],
+            "pdf": "https://kompas.net/images/adriatic_cruises/M204/brochure.pdf"
         },
 {
     "cruise_name" : "MINI ROUTE K240 SD",
@@ -127,7 +128,8 @@
     ],
 
     "map" : "https://kompas.net/images/adriatic_cruises/K240SD/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240SD/1 (1).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (2).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (3).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (4).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240SD/1 (1).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (2).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (3).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (4).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K240SD/brochure.pdf"
 },
 {
     "cruise_name" : "MINI ROUTE K240 DS",
@@ -207,7 +209,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K240DS/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240DS/1 (1).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (2).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (3).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (4).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240DS/1 (1).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (2).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (3).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (4).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K240DS/brochure.pdf"
 },
 {
     "cruise_name" : "K200 Split return cruise via Dubrovnik",
@@ -406,7 +409,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K200/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200/1 (1).png","https://kompas.net/images/adriatic_cruises/K200/1 (2).png","https://kompas.net/images/adriatic_cruises/K200/1 (3).png","https://kompas.net/images/adriatic_cruises/K200/1 (4).png","https://kompas.net/images/adriatic_cruises/K200/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200/1 (1).png","https://kompas.net/images/adriatic_cruises/K200/1 (2).png","https://kompas.net/images/adriatic_cruises/K200/1 (3).png","https://kompas.net/images/adriatic_cruises/K200/1 (4).png","https://kompas.net/images/adriatic_cruises/K200/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K200/brochure.pdf"
 },
 {
     "cruise_name" : "K210 Split return cruise via Zadar",
@@ -513,7 +517,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K210/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K210/1 (1).png","https://kompas.net/images/adriatic_cruises/K210/1 (2).png","https://kompas.net/images/adriatic_cruises/K210/1 (3).png","https://kompas.net/images/adriatic_cruises/K210/1 (4).png","https://kompas.net/images/adriatic_cruises/K210/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K210/1 (1).png","https://kompas.net/images/adriatic_cruises/K210/1 (2).png","https://kompas.net/images/adriatic_cruises/K210/1 (3).png","https://kompas.net/images/adriatic_cruises/K210/1 (4).png","https://kompas.net/images/adriatic_cruises/K210/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K210/brochure.pdf"
 },
 {
     "cruise_name" : "K260 One way Split to Dubrovnik",
@@ -710,7 +715,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K260/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K260/1 (1).png","https://kompas.net/images/adriatic_cruises/K260/1 (2).png","https://kompas.net/images/adriatic_cruises/K260/1 (3).png","https://kompas.net/images/adriatic_cruises/K260/1 (4).png","https://kompas.net/images/adriatic_cruises/K260/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K260/1 (1).png","https://kompas.net/images/adriatic_cruises/K260/1 (2).png","https://kompas.net/images/adriatic_cruises/K260/1 (3).png","https://kompas.net/images/adriatic_cruises/K260/1 (4).png","https://kompas.net/images/adriatic_cruises/K260/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K260/brochure.pdf"
 },
 {
     "cruise_name" : "K270 One way Dubrovnik to Split",
@@ -901,7 +907,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K270/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K270/1 (1).png","https://kompas.net/images/adriatic_cruises/K270/1 (2).png","https://kompas.net/images/adriatic_cruises/K270/1 (3).png","https://kompas.net/images/adriatic_cruises/K270/1 (4).png","https://kompas.net/images/adriatic_cruises/K270/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K270/1 (1).png","https://kompas.net/images/adriatic_cruises/K270/1 (2).png","https://kompas.net/images/adriatic_cruises/K270/1 (3).png","https://kompas.net/images/adriatic_cruises/K270/1 (4).png","https://kompas.net/images/adriatic_cruises/K270/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K270/brochure.pdf"
 },
 {
     "cruise_name" : "K240 Dubrovnik return cruise",
@@ -1007,7 +1014,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K240/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1 (1).png","https://kompas.net/images/adriatic_cruises/K245/1 (2).png","https://kompas.net/images/adriatic_cruises/K245/1 (3).png","https://kompas.net/images/adriatic_cruises/K245/1 (4).png","https://kompas.net/images/adriatic_cruises/K245/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240/1 (1).png","https://kompas.net/images/adriatic_cruises/K240/1 (2).png","https://kompas.net/images/adriatic_cruises/K240/1 (3).png","https://kompas.net/images/adriatic_cruises/K240/1 (4).png","https://kompas.net/images/adriatic_cruises/K240/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K240/brochure.pdf"
 },
 {
     "cruise_name" : "K280 Zadar to Dubrovnik",
@@ -1079,7 +1087,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K280/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K280/1 (1).png","https://kompas.net/images/adriatic_cruises/K280/1 (2).png","https://kompas.net/images/adriatic_cruises/K280/1 (3).png","https://kompas.net/images/adriatic_cruises/K280/1 (4).png","https://kompas.net/images/adriatic_cruises/K280/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K280/1 (1).png","https://kompas.net/images/adriatic_cruises/K280/1 (2).png","https://kompas.net/images/adriatic_cruises/K280/1 (3).png","https://kompas.net/images/adriatic_cruises/K280/1 (4).png","https://kompas.net/images/adriatic_cruises/K280/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K280/brochure.pdf"
 },
 {
     "cruise_name" : "K290 Dubrovnik to Zadar",
@@ -1151,7 +1160,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K290/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K290/1 (1).png","https://kompas.net/images/adriatic_cruises/K290/1 (2).png","https://kompas.net/images/adriatic_cruises/K290/1 (3).png","https://kompas.net/images/adriatic_cruises/K290/1 (4).png","https://kompas.net/images/adriatic_cruises/K290/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K290/1 (1).png","https://kompas.net/images/adriatic_cruises/K290/1 (2).png","https://kompas.net/images/adriatic_cruises/K290/1 (3).png","https://kompas.net/images/adriatic_cruises/K290/1 (4).png","https://kompas.net/images/adriatic_cruises/K290/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K290/brochure.pdf"
 },
 {
     "cruise_name" : "MINI ROUTE K200 SD",
@@ -1207,7 +1217,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K200SD/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200SD/1 (1).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (2).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (3).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (4).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200SD/1 (1).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (2).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (3).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (4).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K200SD/brochure.pdf"
 },
 {
     "cruise_name" : "MINI ROUTE K200 DS",
@@ -1267,7 +1278,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K200DS/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200DS/1 (1).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (2).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (3).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (4).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200DS/1 (1).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (2).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (3).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (4).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K200DS/brochure.pdf"
 },
 {
     "cruise_name" : "K245 Superior Dubrovnik return cruise",
@@ -1339,7 +1351,8 @@
         }
     ],
     "map" : "https://kompas.net/images/adriatic_cruises/K245/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1 (1).png","https://kompas.net/images/adriatic_cruises/K245/1 (2).png","https://kompas.net/images/adriatic_cruises/K245/1 (3).png","https://kompas.net/images/adriatic_cruises/K245/1 (4).png","https://kompas.net/images/adriatic_cruises/K245/1 (5).png"]
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1 (1).png","https://kompas.net/images/adriatic_cruises/K245/1 (2).png","https://kompas.net/images/adriatic_cruises/K245/1 (3).png","https://kompas.net/images/adriatic_cruises/K245/1 (4).png","https://kompas.net/images/adriatic_cruises/K245/1 (5).png"],
+    "pdf": "https://kompas.net/images/adriatic_cruises/K245/brochure.pdf"
 }
     ],
     "cruise_and_land" : [
@@ -1415,7 +1428,8 @@
                 }
             ],
             "map" : "https://kompas.net/images/adriatic_cruises/K220/map.png",
-            "gallery" : ["https://kompas.net/images/adriatic_cruises/K220/1 (1).png","https://kompas.net/images/adriatic_cruises/K220/1 (2).png","https://kompas.net/images/adriatic_cruises/K220/1 (3).png","https://kompas.net/images/adriatic_cruises/K220/1 (4).png","https://kompas.net/images/adriatic_cruises/K220/1 (5).png"]
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K220/1 (1).png","https://kompas.net/images/adriatic_cruises/K220/1 (2).png","https://kompas.net/images/adriatic_cruises/K220/1 (3).png","https://kompas.net/images/adriatic_cruises/K220/1 (4).png","https://kompas.net/images/adriatic_cruises/K220/1 (5).png"],
+            "pdf": "https://kompas.net/images/adriatic_cruises/K220/brochure.pdf"
         },
         {
             "tour_name" : "K221 DIVINE CROATIA CRUISE with SLOVENIA and VENICE",
@@ -1491,7 +1505,8 @@
                 }
             ],
             "map" : "https://kompas.net/images/adriatic_cruises/K221/map.png",
-            "gallery" : ["https://kompas.net/images/adriatic_cruises/K221/1 (1).png","https://kompas.net/images/adriatic_cruises/K221/1 (2).png","https://kompas.net/images/adriatic_cruises/K221/1 (3).png","https://kompas.net/images/adriatic_cruises/K221/1 (4).png","https://kompas.net/images/adriatic_cruises/K221/1 (5).png"]
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K221/1 (1).png","https://kompas.net/images/adriatic_cruises/K221/1 (2).png","https://kompas.net/images/adriatic_cruises/K221/1 (3).png","https://kompas.net/images/adriatic_cruises/K221/1 (4).png","https://kompas.net/images/adriatic_cruises/K221/1 (5).png"],
+            "pdf": "https://kompas.net/images/adriatic_cruises/K221/brochure.pdf"
         },
         {
             "tour_name" : "K222 Adriatic cruise with Romantic Venice",
@@ -1567,7 +1582,8 @@
                 }
             ],
             "map" : "https://kompas.net/images/adriatic_cruises/K222/map.png",
-            "gallery" : ["https://kompas.net/images/adriatic_cruises/K222/1 (1).png","https://kompas.net/images/adriatic_cruises/K222/1 (2).png","https://kompas.net/images/adriatic_cruises/K222/1 (3).png","https://kompas.net/images/adriatic_cruises/K222/1 (4).png","https://kompas.net/images/adriatic_cruises/K222/1 (5).png"]
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K222/1 (1).png","https://kompas.net/images/adriatic_cruises/K222/1 (2).png","https://kompas.net/images/adriatic_cruises/K222/1 (3).png","https://kompas.net/images/adriatic_cruises/K222/1 (4).png","https://kompas.net/images/adriatic_cruises/K222/1 (5).png"],
+            "pdf": "https://kompas.net/images/adriatic_cruises/K222/brochure.pdf"
         },
         {
             "tour_name" : "K223 Adriatic cruise with Romantic Venice",
@@ -1643,7 +1659,8 @@
                 }
             ],
             "map" : "https://kompas.net/images/adriatic_cruises/K223/map.png",
-            "gallery" : ["https://kompas.net/images/adriatic_cruises/K223/1 (1).png","https://kompas.net/images/adriatic_cruises/K223/1 (2).png","https://kompas.net/images/adriatic_cruises/K223/1 (3).png","https://kompas.net/images/adriatic_cruises/K223/1 (4).png","https://kompas.net/images/adriatic_cruises/K223/1 (5).png"]
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K223/1 (1).png","https://kompas.net/images/adriatic_cruises/K223/1 (2).png","https://kompas.net/images/adriatic_cruises/K223/1 (3).png","https://kompas.net/images/adriatic_cruises/K223/1 (4).png","https://kompas.net/images/adriatic_cruises/K223/1 (5).png"],
+            "pdf": "https://kompas.net/images/adriatic_cruises/K223/brochure.pdf"
         },
         {
             "tour_name" : "K225 Amazing Croatia by Land and Sea",
@@ -1711,7 +1728,8 @@
                 }
             ],
             "map" : "https://kompas.net/images/adriatic_cruises/K225/map.png",
-            "gallery" : ["https://kompas.net/images/adriatic_cruises/K225/1 (1).png","https://kompas.net/images/adriatic_cruises/K225/1 (2).png","https://kompas.net/images/adriatic_cruises/K225/1 (3).png","https://kompas.net/images/adriatic_cruises/K225/1 (4).png","https://kompas.net/images/adriatic_cruises/K225/1 (5).png"]
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K225/1 (1).png","https://kompas.net/images/adriatic_cruises/K225/1 (2).png","https://kompas.net/images/adriatic_cruises/K225/1 (3).png","https://kompas.net/images/adriatic_cruises/K225/1 (4).png","https://kompas.net/images/adriatic_cruises/K225/1 (5).png"],
+            "pdf": "https://kompas.net/images/adriatic_cruises/K225/brochure.pdf"
         },
         {
             "tour_name" : "K226 Majestic Croatia from Zagreb to Dubrovnik",
@@ -1779,7 +1797,8 @@
                 }
             ],
             "map" : "https://kompas.net/images/adriatic_cruises/K226/map.png",
-            "gallery" : ["https://kompas.net/images/adriatic_cruises/K226/1 (1).png","https://kompas.net/images/adriatic_cruises/K226/1 (2).png","https://kompas.net/images/adriatic_cruises/K226/1 (3).png","https://kompas.net/images/adriatic_cruises/K226/1 (4).png","https://kompas.net/images/adriatic_cruises/K226/1 (5).png"]
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/K226/1 (1).png","https://kompas.net/images/adriatic_cruises/K226/1 (2).png","https://kompas.net/images/adriatic_cruises/K226/1 (3).png","https://kompas.net/images/adriatic_cruises/K226/1 (4).png","https://kompas.net/images/adriatic_cruises/K226/1 (5).png"],
+            "pdf": "https://kompas.net/images/adriatic_cruises/K226/brochure.pdf"
         }
     ],
     "escorted_tours" :[
@@ -2046,6 +2065,495 @@
             "hotels" : ["Venice: Hotel Carlton Grand Canal or similar#Bled: Hotel Park or similar#Zagreb: Hotel Sheraton or similar#Plitvice: Hotel Jezero or similar#Split: Hotel Briig or similar#Dubrovnik: Hotel Valamar Lacroma / Valamar Argosy or similar"
             ],
             "gallery" : ["https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (1).png","https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (2).png","https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (3).png","https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (4).png","https://kompas.net/images/escorted_tours/dalmatian_sunshine/1 (5).png"]
+        },
+        {
+            "tour_name" : "Bulgaria and Romania 2022",
+            "short_description" : "12 days including Sofia, Veliko Trnovo, Bucharest, Sibiu, Neamt, Brasov and Sinaia",
+            "features" : {
+                "included" : "Airport transfer from Sofia airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome dinner in Sofia (glass of wine, beer or soft drink)#4 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Departure transfer from hotel to Bucharest airport",
+                "tour_spotlights" : [" Sofia, Bulgaria’s capital with 2000 years of historyRila, the highest mountain range of Bulgaria#Plovdiv is the second-largest city in Bulgaria standing on the banks of the Maritsa river in the historical region of Thrace#Veliko Tarnovo is situated on several hills and known for around 50 caves and rock niches around the city#Bucharest, communist-era buildings, art-nouveau and wide boulevards#Sibiu, city known for Germanic architecture in its old town, the legacy of 12th-century Saxon settlers and remains of medieval walls and towers#Sighisoara, Unesco-protected old town is the history of Vlad Tepe, the bloodthirsty, 15th-century Wallachian prince#Bucovina, historical region, located on the northern slopes of the central Eastern Carpathians and the adjoining plains, today divided between Romania and Ukraine#Brasov, city known for its medieval Saxon walls and bastions, the towering Gothic-style Black Church and lively cafes#Bran city, known for its medieval Bran Castle, home of Dracula in Transylvania#Sinaia, a town in central Romania’s Bucegi Mountains, surrounded by ski trails"
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive Sofia, Thursday",
+                    "day_summary": "Arrival in Sofia and transfer to the hotel. The rest of the day is to relax or perhaps begin your independent discovery of the fabled city. Tonight, a briefing by your Tour Director on the fascinating tour that awaits you, followed by a Welcome Dinner. Overnight. (D)"
+                },
+                {
+                    "day_headline" : "Day 2, in Sofia, Friday",
+                    "day_summary" : "Today we will enjoy a complete tour of the city of Sofia and get to know the highlights of the capital. Among the most emblematic places are the Alexander Nevski Cathedral that dominates the city, the Church of St. George, considered the best-preserved Byzantine church, the Russian Church of St. Nicholas, the Banya Bashi Mosque and the ruins of ancient Serdica among others. In the afternoon we travel to Rila Mountains to visit one of the most famous places in Bulgaria – the Rila Monastery. Founded in the middle of the 10th century by Saint Ivan of Rila it played a key role in the preservation of the Bulgarian culture and language of the centuries. Visit the monastery church with its impressive fresco paintings, painted by the most famous Bulgarian artists since the 19th century AD and the museum that houses a collection of exhibits related to the history of the monastery and the spread of Christianity in the Bulgarian lands. Return to Sofia for overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 3, to Plovdiv and Veliko Tarnovo, Saturday",
+                    "day_summary": "Leaving Sofia behind, we head to the second largest city in Bulgaria -Plovdiv. This is a city of millenary history with ruins from the Roman, Ottoman, and Bulgarian Renaissance period having been preserved. During our tour of the city we will see the Roman Forum and the stadium, as well as the Roman amphitheater. We will walk through the cobbled streets of the small and old city surrounded by houses and beautiful churches. We will visit the church of St. Constantine and Helena, as well as the Ethnographic Museum, which is located in the home of a wealthy merchant from the 19th century BC. After the visit we will cross the Balkan Mountains through the historic Shipka Pass, which played a key role in the Russo-Turkish war. Arrival in Veliko Tarnovo – the medieval capital of Bulgaria. We finish the day with dinner included. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4, in Veliko Tarnovo, Sunday",
+                    "day_summary": "In the morning we go on a panoramic tour of the city of Veliko Tarnovo with a walk to Tsarevets, where the kings of Bulgaria once lived. We will walk along the oldest street in the city which is called Samovodska Charshia. We will proceed to Arbanassi, a small town in Bulgaria located 4 km from Veliko Tarnovo. Arbanassi is interesting for its architecture. In the village we can see the Konstantsalieva house and the Church of the Nativity, where you can see wall paintings that are truly a work of art. Return to Veliko Tarnovo for overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 5, to Russe and Bucharest, Monday",
+                    "day_summary": "Today we head towards Romania, passing through the city of Russe. In the afternoon arrival to the capital of Romania, Bucharest and overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 6, in Bucharest, Tuesday",
+                    "day_summary": "We will visit the Romanian capital, once known as the “Little Paris”. During the tour we will visit the Palace of Parliament, the second largest building in the world after the Pentagon and the National Village Museum. We will hear how the Romanian people finally managed to overthrow the last communist dictator of Eastern Europe at the Revolution Square. The tour will also take us to the Romanian Athenaeum, the Opera House, the National Military Club, the Military Academy and the Arch of Triumph. Overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 7, to Curtea de Arges and Sibiu, Wednesday",
+                    "day_summary": "After breakfast we continue to Curtea de Arges and visit Cozia Monastery, built in 1386. The route to Sibiu crosses the Transylvanian Alps through the scenic valley of the Olt river. In the afternoon we will do an extensive walking tour of the city of Sibiu. In Sibiu we can see many medieval shops and houses and visit the Lutheran Cathedral of Saint Mary, where the son of Vlad the Impaler (another of Dracula’s nicknames) was assassinated. Dinner and Overnight. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8, to Sighisoara, Red Lake and Piatra Neamt, Thursday",
+                    "day_summary": "Departure for Piatra Neamt crossing the Bicaz gorge, the largest gorge in Romania, admiring the beauty of the landscape, the Red Lake and its mountain station. En route we will visit Sighisoara, one of the most beautiful medieval towns in Europe and the hometown of the famous Wallachian prince, Vlad Tepes “the Impaler”, who inspired the legend of Dracula. You will visit its old town, including the Clock Tower, which houses the Museum of the History of the City, the Medieval Weapon Museum, and the chamber of torture. In the afternoon departure for the city of Piatra Neamt. Dinner and Overnight. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9, to Bucovina region, Friday",
+                    "day_summary": "Breakfast at the hotel. Drive to the Bucovina region to visit its monasteries, the most representative monuments of Moldovan art. Declared a World Heritage Site, these monasteries are one of the most important legacies of Byzantine art in the world, in which their interior and exterior fresco paintings in bright colors stand out. Visit the Sucevita Monastery and the Marginea black pottery workshops. In the afternoon visit the Voronet Monastery, considered to be the best architectural and pictorial example in the region, called the “Sistine Chapel” of the East. Return to Piatra Neamt for overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 10, to Brasov, Saturday",
+                    "day_summary": "In the morning we leave Piatra Neamt and travel south to Brasov. In the afternoon arrival in Brasov. Overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 11, to Bran and Sinaia, Sunday",
+                    "day_summary": "Breakfast at the hotel followed by a tour of the fascinating medieval city of Brasov. Visit the old town, the Black Church, the most representative Gothic monument in Romania. Continue to the town of Bran. Visit its famous Castle, also known as Dracula’s Castle. In the afternoon, arrival in the city of Sinai a, known for its beauty as “the pearl of the Carpathians”. In the afternoon we will visit the wonderful Peles Palace, a former summer residence and retreat of the royal family, built in the second half of the 19th century by the first King of Romania, Carlos I. Tonight, join your fellow travelers in a farewell dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 12, depart Sinaia, Monday",
+                    "day_summary": "Transfer to Bucharest airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/bulgaria_romania/map.png",
+            "hotels" : ["Sofia: Hotel Anel / Palace or similar#Veliko Tarnovo: Hotel Yantra / Meridian Bolyarski or similar#Bucharest: Hotel Athenee Palace Hilton / Hilton Garden Inn /Capitol or similar#Sibiu: Hotel Golden Tulip/ Continental Forum or similar#Piatra Neamt: Hotel Central Plaza or similar#Brasov: Hotel Aro Palace/ Ambient/ Belvedere or similar#Sinaia: Hotel Palace/ Rina Sinaia or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/bulgaria_romania/1 (1).png","https://kompas.net/images/escorted_tours/bulgaria_romania/1 (2).png","https://kompas.net/images/escorted_tours/bulgaria_romania/1 (3).png","https://kompas.net/images/escorted_tours/bulgaria_romania/1 (4).png","https://kompas.net/images/escorted_tours/bulgaria_romania/1 (5).png"]
+        },
+        {
+            "tour_name" : "Little Tour of Russia 2022",
+            "short_description" : "7 days from Moscow to St. Petersburg",
+            "features" : {
+                "included" : "Airport transfer from Moscow airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome dinner in Moscow (glass of wine, beer or soft drink)#l lunch and 2 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#High-speed train from Moscow to St. Petersburg#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Departure transfer from hotel to St. Petersburg airport",
+                "tour_spotlights" : ["Moscow’s history, architecture and artistry#Sergiev Posad and the Trinity St. Sergius Lavra#St. Petersburg, city of palaces and museums#*This tour can be extended with Kompas Helsinki with Baltic countries escorted tour."
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Arrive Moscow, Tuesday",
+                    "day_summary": "Upon arrival in Moscow, you will be met and transferred to your hotel. The rest of the day is to relax or perhaps begin your independent discovery of the fabled capital of Russia. Tonight, a briefing by your Tour Director on the fascinating tour that awaits you, followed by a Welcome Dinner. (D)"
+                },
+                {
+                    "day_headline" : "Day 2, in Moscow, Wednesday",
+                    "day_summary" : "Moscow, one of the largest cities in the world, is the symbolic heart and soul of the country. Your sightseeing tour begins at Red Square, dominated by colorful St. Basil’s Cathedral and by the massive red walls of the Kremlin. Visit the Armory Museum, with its impressive collection of Tsarist, Russian, and foreign jewelry, armor, and other artifacts. Walk along the wide boulevards and a stroll through GUM, Russia’s largest department store, following the drive by Moscow University. Further on the north bank of the River Moskva, passing by baroque Novodevichy convent; ending the tour at the popular Arbat shopping district, time to shop or enjoy lunch on your own. The rest of the day is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 3, in Moscow, excursion to Sergiev Posad, Thursday",
+                    "day_summary": "Today we travel 75 km North of Moscow, to a small town of Sergiev Posad, former Zagorsk – founded in the 14th century and renowned as a center of ancient Russian art and architecture. For centuries it served as a place of pilgrimage and the religious capital of Russia. Within the old walled city admire the fairy-tale golden and blue domes of the Holy Trinity St. Sergius Lavra, one of the most beautiful of all monasteries. After lunch at a popular restaurant, return to Moscow, the rest of the day at leisure. This evening take an Optional tour Moscow by night & Subway, to see the metro stations which Stalin called “Palaces for the People.” (B, L)"
+                },
+                {
+                    "day_headline": "Day 4, Moscow to St. Petersburg, Friday",
+                    "day_summary": "Time at leisure in Moscow, before transfer to the railway station for our four hours high-speed Sapsan train ride to St. Petersburg. Upon arrival at the St. Petersburg train station, transfer to your hotel. Dinner at the hotel. Join an optional Russian Folklore evening. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5, in St. Petersburg, Saturday",
+                    "day_summary": "There are not many cities in the world that can match the grace of St. Petersburg. When Peter the Great founded the city in 1703, he hired Europe’s best architects, craftsmen, and artists to build and decorate it. Spread over 100 islands and linked by over 600 bridges, it is often referred to as the ‘Venice of the North.” Today the main sites to be visited on the tour are Palace Square with the Winter Palace, Senate Square with the monument to Russian Emperor Peter the Great, the founder of the city, St. Isaac’s Square with St. Isaac’s Cathedral, Smolny Cathedral, Cruiser Aurora, Field of Mars, and Nevsky Prospect. Visit the Peter and Paul Fortress, built in 1703 to protect the city from enemy attacks. Visit Peter and Paul Cathedral, which towers in the center of the fortress served as the burial place for Russian Emperors from Peter I. Your evening is free or join an optional Evening Canal Cruise. (B)"
+                },
+                {
+                    "day_headline": "Day 6, in St. Petersburg, Sunday",
+                    "day_summary": "This morning you’ll make a highlight visit to the world-famous Hermitage, housing more than four million works of art. It ranks among one of the largest and oldest museums of the world, founded in 1764 by Catherine the Great. Admire the world-famous masterpieces by Leonardo da Vinci, Rafael, Titian, Rembrandt, El Greco, Velasquez, Rubens, Van Dyck, Goya, and French Impressionists. The Hermitage occupies five buildings, the largest is the Winter Palace, the former residence of Russian Emperors. Spend the rest of the day at leisure exploring the city on your own or perhaps you may choose to take an optional tour to Petrodvorets, Peterhof Summer Palace of Peter the Great. Tonight, join your fellow travelers in a farewell dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7, Depart St. Petersburg, Monday",
+                    "day_summary": "After breakfast, you will be transferred to the airport for your departure flight. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/little_tour_of_russia/map.png",
+            "hotels" : ["Moscow: Hotel Marriott Courtyard or similar#St. Petersburg: Hotel Radisson Sonya or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/little_tour_of_russia/1 (1).png","https://kompas.net/images/escorted_tours/little_tour_of_russia/1 (2).png","https://kompas.net/images/escorted_tours/little_tour_of_russia/1 (3).png","https://kompas.net/images/escorted_tours/little_tour_of_russia/1 (4).png","https://kompas.net/images/escorted_tours/little_tour_of_russia/1 (5).png"]
+        },
+        {
+            "tour_name" : "Experience Slovenia the story of a Green Country 2022",
+            "short_description" : "7 days including Ljubljana, Postojna cave, Piran, Goriska Brda, Soca Valley, Bled and Bohinj",
+            "features" : {
+                "included" : "Centrally located first class hotels#Breakfast daily#2 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Airport transfers",
+                "tour_spotlights" : ["Ljubljana, one of Europe’s greenest capitals, a prehistoric history, scenic bridges and a rich arts scene#Postojna Caves, part of Slovenia’s natural wonders#Pi ran, one of the best-preserved historical towns anywhere in the Mediterranean, it’s a gem of Venetian Gothic architecture#Goriska Brda, Sun-kissed wine country between the Alps and the Mediterranean#Soca Valley, Paradise for Active Vacation in Nature with its Emerald green Soca river#Bled Alpine pearl, striking lake with a castle#Bohinj with the most recognizable and astonishing natural site Lake Bohinj, the biggest lake in Slovenia"
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive Ljubljana or Venice, Sunday",
+                    "day_summary": "Upon arrival in Venice or Ljubljana, you will be met and transferred to your Ljubljana hotel. The rest of the day is free to relax or to begin exploring. This evening meet your fellow travelers for the orientation meeting including a Welcome Drink. (WD)"
+                },
+                {
+                    "day_headline" : "Day 2, in Ljubljana, Monday",
+                    "day_summary" : "In the morning enjoy a sightseeing tour of Ljubljana followed by lunch. After some free time take a cable car to Ljubljana castle and enjoy wine tasting of some excellent Slovenian wines with an amazing view of Ljubljana. (B, WT)"
+                },
+                {
+                    "day_headline": "Day 3, to Postojna and Piran, Tuesday",
+                    "day_summary": "Travel to the Karst region. Your first stop is at the Postojna Cave, one of the largest in Europe. Tour this unique subterranean world by miniature electric train. After the tour, proceed to a nearby wine producer for Teran wine and prosciutto tasting. Finally, drive to Pi ran on the Slovenian coast. (B, WT)"
+                },
+                {
+                    "day_headline": "Day 4, in Piran, to Portoroz & Cioriska Brda, Wednesday",
+                    "day_summary": "See the highlights of Piran this morning, then head to Portoroz, a popular tourist resort. Continue to the hilly region of Goriska Brda. Discover the charming town of Smartno and have a delicious dinner at a local tourist farm. Overnight in Nova Gori ca. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5, to Soca Valley & Bled, Thursday",
+                    "day_summary": "A sightseeing tour shows you the highlights of this charming town on the shores of Lake Bled. You’ll also visit imposing Bled Castle, perched on a cliff high above the lake. We will return to the lake shore and taste the famous Bled cream cake. In the afternoon, tour to the other Alpine beauty, Lake Bohinj, enjoy a relaxing walk along the lake shore and take a cable car to Mt. Vogel. Enjoy some cheese tasting and admire the stoning Julian Alps. Tonight, celebrate the wonderfully scenic vacation with a Farewell Dinner at a local restaurant. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6, in Bled, Friday",
+                    "day_summary": "A sightseeing tour shows you the highlights of this charming town on the shores of Lake Bled. You'll also visit imposing Bled Castle, perched on a cliff high above the lake. We will return to the lake shore and taste the famous Bled cream cake. In the afternoon, tour to the other Alpine beauty, Lake Bohinj, enjoy a relaxing walk along the lake shore and take a cable car to Mt. Vogel. Enjoy some cheese tasting and admire the stoning Julian Alps. Tonight, celebrate the wonderfully scenic vacation with a Farewell Dinner at a local restaurant. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7, depart Ljubljana or Venice, Saturday",
+                    "day_summary": "After breakfast, you will be transferred to Ljubljana or Venice airport for your departure flight."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/experience_slovenia/map.png",
+            "hotels" : ["Ljubljana: Hotel Slon or similar#Piran: Hotel Piran or similar#Nova Gorica: Hotel Perla or similar#Bled: Hotel Park or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/experience_slovenia/1 (1).png","https://kompas.net/images/escorted_tours/experience_slovenia/1 (2).png","https://kompas.net/images/escorted_tours/experience_slovenia/1 (3).png","https://kompas.net/images/escorted_tours/experience_slovenia/1 (4).png","https://kompas.net/images/escorted_tours/experience_slovenia/1 (5).png"]
+        },
+        {
+            "tour_name" : "Jewels of Dalmatia 2022",
+            "short_description" : "8 days including Zagreb, Plitvice lakes, Split and Dubrovnik",
+            "features" : {
+                "included" : "Airport transfer from Zagreb airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome dinner in Zagreb (glass of wine, beer or soft drink)#1 lunch and 2 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Departure transfer from hotel to Dubrovnik airport",
+                "tour_spotlights" : ["Zagreb, Croatia’s capital and cultural center with rich history and 18th and 19th century Austro-Hungarian architecture#Plitvice Lakes National Park#Split built around Diocletian’s Palace#Hvar, the sunniest Croatian island#Dubrovnik, Croatia’s “Pearl of the Adriatic”#*  This tour can be joined from “Capitals of the Habsburg empire” escorted tour."
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive Zagreb, Saturday",
+                    "day_summary": "Welcome to Zagreb! You will be met and transferred to your hotel. The rest of the day is free to get settled in or begin exploring. Later, gather for a Welcome Dinner. (D)"
+                },
+                {
+                    "day_headline" : "Day 2, in Zagreb, Sunday",
+                    "day_summary" : "A morning sightseeing tour includes views of the historic Upper Town, St. Mark’s Church, St. Catherine’s Church, the Cathedral, Parliament, and Government Palace. The rest of the day is at leisure to explore more of the city, browse through the shops, or take an optional excursion to see the countryside. (B)"
+                },
+                {
+                    "day_headline": "Day 3, Zagreb to Plitvice lakes, Monday",
+                    "day_summary": "Travel to spectacular Plitvice Lakes National Park. Have your camera ready as you take a walking tour around several of the lower lakes. Enjoy the breathtaking scenery of this natural wonder of 16 terraced lakes surrounded by thickly wooded mountains and lush vegetation. The rest of the day is at leisure to explore more on your own. Later, gather for a dinner served at our hotel and overnight. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4, to Trogir and Split, Tuesday",
+                    "day_summary": "After breakfast, head to Trogir, the center of artistic activities. Scholars from around the world gather here to study and paint. Continue traveling along the spectacular Adriatic coast, passing by old fishing villages and new resorts, to the city of Split. A city tour featuring the historic inner city, built around the Roman Emperor Diocletian’s Palace, a UNESCO World Cultural Heritage site. Finally, see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle and the Cathedral. The reminder of the day is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 5, in Split, Wednesday",
+                    "day_summary": "Day at leisure or you can join optional tour to Hvar Island: We board the ferry in Split and set sail for Hvar. The town of Hvar has a unique cultural and historical heritage, plus a centuries-old tradition in tourism. A walking tour includes views of the 17th century theatre, the 13th century Arsenal, and the central town square with the Cathedral. You will visit the Franciscan Monastery, famous for its collection of old art masters, including “lngoli ‘s Last Supper”. Afterward, we travel to Stari Grad for some wine tasting. A ferry returns us to Split. (B)"
+                },
+                {
+                    "day_headline": "Day 6, to Dubrovnik, Thursday",
+                    "day_summary": "After breakfast we finally travel to Dubrovnik, with its picturesque setting on the stunning Adriatic coast. After arrival a walking tour of Old Dubrovnik. Visit the Rector’s Palace, and see the Bell Tower Clock, Orlando’s Column and Sponza Palace. Next, see the Dominican Monastery and Franciscan Monastery with its Pharmacy, one of the oldest in the world. The rest of the day is at leisure to explore on your own, shop, stroll along the water’s edge, or simply relax and delight in your superbly scenic surroundings. Your evening is free to enjoy your way.(B, L)"
+                },
+                {
+                    "day_headline": "Day 7, in Dubrovnik, Friday",
+                    "day_summary": "At leisure or you can join optional tour to Montenegro Travel to the Republic of Montenegro. Head to the mouth of the beautiful Bay of Kotor, the longest and deepest fjord in Southern Europe. Enjoy a boat ride to Our Lady of the Rocks, one of two islets off the coast of Perast. The Roman Catholic Church is the largest building on the islet, with a museum attached to it. Upon return to the coast, we will stop in Perast, an old charming coastal town. Visit city of Kotor before returning to Dubrovnik. Later, gather for a Farewell Dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8, depart Dubrovnik, Saturday",
+                    "day_summary": "After breakfast, you will be transferred to the airport for your departure flight. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/jewels_of_dalmatia/map.png",
+            "hotels" : ["Zagreb: Hotel Sheraton or similar#Plitvice: Hotel Jezero or similar#Split: Hotel Briig or similar#Dubrovnik: Hotel Valamar Lacroma / Valamar Argosy or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/jewels_of_dalmatia/1 (1).png","https://kompas.net/images/escorted_tours/jewels_of_dalmatia/1 (2).png","https://kompas.net/images/escorted_tours/jewels_of_dalmatia/1 (3).png","https://kompas.net/images/escorted_tours/jewels_of_dalmatia/1 (4).png","https://kompas.net/images/escorted_tours/jewels_of_dalmatia/1 (5).png"]
+        },
+        {
+            "tour_name" : "Maritime Discoveries, Viticulture and Faith in Portugal 2022",
+            "short_description" : "8 days from Lisbon to Fatima, Coimbra, and Porto",
+            "features" : {
+                "included" : "Arrival transfer from Lisbon airport to the hotel#Centrally located first class hotels#Breakfast daily#A welcome reception in Lisbon (heavy hors d’oeuvres, a glass of wine, beer or soft drink)#One dinner (coffee or tea included)#One lunch with wine tasting in the Douro Valley#Hotel taxes and service charges#Touring by modern air-conditioned motor-coach#Professional English-speaking tour director#Sightseeing tours with licensed local guides#Admission included where indicated in bold letters#Luggage handling at the hotels#Whisper technology enhanced touring#Departure transfer from Porto to Porto airport",
+                "tour_spotlights" : ["Cabo da Roca, wild and rugged headland marking the most western point of Continental Europe#Lisbon, a pastel-colored city on seven hills, ceramic tiles, Fado, and colonialism#The medieval walled city of Obidos, also known as the Wedding Town#Nazaré, Portugal’s most famous fishing village#Coimbra’s University and Library#Aveiro, canals and colorful boats, also known as the Portuguese Venice#Porto, the town that gave the country its very name"
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive in Lisbon, Saturday",
+                    "day_summary": "You will be met and transferred to your hotel. The day is at leisure to begin exploring on your own. Later, gather with your tour director and your fellow travelers for a welcome reception. (WR)"
+                },
+                {
+                    "day_headline" : "Day 2, in Lisbon, Sunday",
+                    "day_summary" : "This morning we stroll through Baixa, Lisbon’s historic heart and commercial center. We then drive to Belem to view Belem Tower and the Discovery Monument. The Vasco de Gama tomb in the Jeronimos Monastery is next on our journey. After our tour, enjoy beautiful streets of Lisbon on own or join option tour Dinner with Fado show. The evening is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 3, in Lisbon, Monday",
+                    "day_summary": "This morning we depart on a half-day private sightseeing tour to Sintra, Cascais, Estoril, and Cabada Roca. Sintra boasts a historic Centre that is listed as a UNESCO World Heritage site. After our visit to the Sintra National Palace, we continue to Cabo da Roca, the westernmost cape in Continental Europe. Thereafter, we travel to Cascais, a picturesque fishing town with some quirky museums, beautiful gardens, and a lively fish market. Then we’re off to Estoril, a former fishing town turned cosmopolitan destination for well-heeled travelers. We return to Lisbon early in the afternoon. Rest of the day at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 4, to Fatima, Tuesday",
+                    "day_summary": "After breakfast, we leave Lisbon and depart towards the north.  Our first destination is Obidos, a charming village of white houses on a hill, surrounded by fourteenth century’s walls. Here we stop for a tasting of cherry liquor. We proceed to Nazara after the tasting.  Nazara is a popular tourist attraction and picturesque village located on the Atlantic coast. Our next stop is the Monastery of Batalha, a Dominican Convent. We finish the day in Fatima, a Catholic pilgrimage destination and home to sacred sites and religious artifacts.  (B)"
+                },
+                {
+                    "day_headline": "Day 5, to Coimbra, Wednesday",
+                    "day_summary": "In the morning, we travel to Tomar for a half-day sightseeing tour and visit of the Luso-Hebrew Museum. We then proceed towards Buçaco to visit the famous Buçaco Forest and for an outside view of Buçaco Palace.  In Coimbra, our half day sightseeing tour includes a visit to the University and Library. (B)"
+                },
+                {
+                    "day_headline": "Day 6, to Porto, Thursday",
+                    "day_summary": "We continue to Aveiro and Costa Nova for an orientation tour and then travel through the Douro Valley, classified by UNESCO as a World Heritage Site. Traditionally, the wines from this region were transported down-river in flat-bottomed boats called “rabelos”.  The wine was stored in barrels in cellars of the Vila Nova de Gaia, just across the river from Porto. After our lunch with wine tasting in the Douro Valley, we continue to Porto. (B, L)"
+                },
+                {
+                    "day_headline": "Day 7, in Porto, Saturday",
+                    "day_summary": "During our half-day sightseeing tour of Porto, we visit the Palacio de Bolsa (the stock exchange palace), and end our tour in one of the famous wine cellars where we have another tasting. After this, we continue with a boat excursion, one of the most spectacular experiences in the city. Our afternoon is free, at leisure. In the evening gather with your fellow travelers and your tour director for our farewell dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8, depart Porto, Sunday",
+                    "day_summary": "Breakfast followed by our transfer to the airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/maritime_discoveries_portugal/map.png",
+            "hotels" : ["Lisbon: Lisbon Marriott Hotel or similar#Fatima: Aurea/Estrela De Fatima/Regina or similar#Coimbra: Vila Gale Coimbra or similar#Porto: Vila Gale Porto/Vila Gale Porto Ribeira or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/maritime_discoveries_portugal/1 (1).png","https://kompas.net/images/escorted_tours/maritime_discoveries_portugal/1 (2).png","https://kompas.net/images/escorted_tours/maritime_discoveries_portugal/1 (3).png","https://kompas.net/images/escorted_tours/maritime_discoveries_portugal/1 (4).png","https://kompas.net/images/escorted_tours/maritime_discoveries_portugal/1 (5).png"]
+        },
+        {
+            "tour_name" : "Helsinki with Baltic countries 2022",
+            "short_description" : "13 days including Helsinki, Tallinn, Riga, Vilnius, Warsaw and Krakow",
+            "features" : {
+                "included" : "Arrival transfer from Helsinki airport to the hotel#Centrally located first class hotels:#2 lunches and 4 dinners (coffee or tea included)#Breakfast daily#A welcome dinner in Helsinki (a glass of wine, beer or soft drink)#Licensed Local Guides#Hotel taxes and service charges#Touring by modern air-conditioned motor-coach#Professional English-speaking tour director#Admission included where indicated in bold letters#Luggage handling at the hotels#Whisper technology enhanced touring#Departure transfer from hotel to Krakow airport",
+                "tour_spotlights" : ["Helsinki’s imposing landmarks#Tallinn and its Toompea Castle#Riga· s magnificent old Town#Vilnius, medieval quarters and baroque architecture#Warsaw and its charming Old Town#Yasna Gora Monastery, home to Poland· s Black Madonna#Auschwitz-Birkenau memorial and Museum#Karkow· s medieval care and Jewish quarter#* This tour can be joined from tour Little tour of Russia#* This tour can be extended with Kompas “Capitals of the Habsburg empire” escorted tour."
+                ],
+                "extension" : "This tour can be extended with Kompas’ “Grandeur and History of Poland” tour"
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Arrive in Helsinki, Monday",
+                    "day_summary": "Upon arrival in Helsinki, you will be met and transferred to your hotel. The rest of the day is to relax or perhaps begin your own discovery. Tonight, your tour director is hosting a welcome reception and will introduce you to your fellow travelers and to the fascinating tour that awaits you. (WR)"
+                },
+                {
+                    "day_headline" : "Day 2, Helsinki, Tuesday",
+                    "day_summary" : "Helsinki, the capital of Finland lies in the far south of the country, on a peninsula that is home to the busiest passenger port in the world. Our comprehensive sightseeing covers the most important and interesting areas such as the historical center, the Senate Square, the Cathedral, City Hall, the Presidential Palace, Finlandia Hall, and the Opera House. We stop at the Sibelius Monument and, whenever possible, at the Temppeliaukio church (known also as Rock church).  Enjoy the rest of the day at leisure. (B)<br><b>Optional tour: Excursion to Suomenlinna Island</b>"
+                },
+                {
+                    "day_headline": "Day 3, to Tallinn, Wednesday",
+                    "day_summary": "We board a ferry to Tallinn, Estonia’s capital, situated on the southern coast of the Gulf of Finland. Afterward, we transfer to our hotel and enjoy the rest of the day at leisure.<br><b>Optional tour: Visit the Kadriorg Palace (B, D)</b>"
+                },
+                {
+                    "day_headline": "Day 4, in Tallinn, Thursday",
+                    "day_summary": "On a walking tour of Tallinn’s Upper and Lower Old Town, we visit the Alexander Nevsky Cathedral. Next up is a visit of Toompea Castle and the 14th-century Gothic Town Hall there. After the tour, we taste some Schnapps in a medieval house. The rest of the day is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 5, to Riga, Friday",
+                    "day_summary": "We travel by motor-coach to Riga, the capital of Latvia. On the way, we make a stop in Pärnu, located on the coast of Pärnu Bay. The city is known for its 19th-century timber villas and sandy Pärnu Beach, with its shallow waters and promenade. There is free time to stroll along the beach, have a cup of coffee or even a lunch break. We then continue to Riga where the afternoon is free to explore the city.<br><b>Optional tour: Food Market experience</b>"
+                },
+                {
+                    "day_headline": "Day 6, in Riga, Saturday",
+                    "day_summary": "On our tour, we see the 700-year-old Riga Castle on the banks of the Daugava River, the magnificent Dome Cathedral, the St. Jacobs Cathedral, the St. Peter’s Church, the Parliament building, Liberty Monument, and the eclectic Art Nouveau buildings. After the tour, we sample Black Balsam, a dark and astringent liqueur made of 24 herbs and based on a 250-year-old recipe. The rest of the day is free to explore more of Riga, shop, or savor some Latvian crêpes. (B)"
+                },
+                {
+                    "day_headline": "Day 7, to Vilnius, Sunday",
+                    "day_summary": "This morning, we set course for Vilnius, the capital of Lithuania. On the way, we stop at the baroque and rococo Rundale Palace Museum.  Built in the 18th century and surrounded by a French garden, the palace is an architectural marvel and a triumph of art over nature. After a lunch break here, we continue our journey to Vilnius with a stop at the Hill of Crosses in Siauliai. It represents Lithuania’s unique national and religious identity. The balance of the day is at leisure to begin exploring the city with its interesting architecture. (B, L)"
+                },
+                {
+                    "day_headline": "Day 8, in Vilnius, Monday",
+                    "day_summary": "Vilnius is located on the confluence of the Neris and Velnele Rivers. In Old Vilnius, we visit the baroque St. Peter and St. Paul’s Church and the striking St. Anne’s Church. We also see Vilnius University, dating back to 1570, famous Gediminas’ Tower and Vilnius Castle. The afternoon is free to explore even more.<br><b>Optional tour: Visit of the Trakai castle</b>"
+                },
+                {
+                    "day_headline": "Day 9, to Warsaw, Tuesday",
+                    "day_summary": "Drive through the landscapes of Lithuania on your way to cross the border into Poland. Then take in the Polish countryside, cities, and towns. Before you head the Warsaw we will enjoy a lunch break. Afternoon· s arrival to the capital of Poland and free to explore city on your own before ending this day with a dinner. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 10, in Warsaw, Wednesday",
+                    "day_summary": "The 700-year-old capital of Poland has been called the “Phoenix City” because it rose again after being destroyed during World War II. Your sightseeing tour here includes a drive along the famous Royal Route from superb Castle Square to Lazienki Park and Palace, the summer residence of the last king of Poland. Then see the Palace of Science and Culture (known as a “wedding cake”), the Saxon Gardens, Tomb of the Unknown Soldier, Monument to the Heroes of the Warsaw Ghetto, and the Barbican. Next, on a walking tour, see the Old Town, Old Market Square, and St. John’s Cathedral. The rest of the day is free to stroll through a park, shop, relax, or perhaps attend an optional late afternoon Chopin concert. (B)"
+                },
+                {
+                    "day_headline": "Day 11, to Krakow, Thursday",
+                    "day_summary": "This morning, our journey continues to Czestochowa, famous for the blackened picture of St. Mary in the Yasna Gora Monastery, popularly called the “Black Madonna”. In the afternoon, we solemnly visit the Auschwitz-Birkenau Memorial and Museum. This former German Nazi concentration and extermination camp is now a UNESCO World Heritage site. After our visit, we continue to Krakow where we have dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 12, in Krakow, Friday",
+                    "day_summary": "A sightseeing tour today starts with a visit to Wawel Hill, where you’ll view the Royal Castle and visit the Royal Cathedral. Then take a walking tour of the Old Town, and see the Main Market Square, Renaissance Cloth Hall, and St. Mary’s Church. The afternoon is free. You might want to go for a stroll, shop, or relax over some szarlotka. In the evening gather with your fellow travelers and tour director for farewell dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 13, depart Krakow, Saturday",
+                    "day_summary": "After breakfast, you will be transferred to Krakow airport. Alternatively, you can continue your journey and join Kompas’ “Prague to Budapest’ Tour. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/helsinki_with_baltic/map.png",
+            "hotels" : ["Helsinki: Hotel Clarion or similar#Tallinn: Park Inn by Radisson Meriton or similar#Riga: Radisson Blu Latvija  or similar#Vilnius: Radisson Blu Lietuva (F) or similar#Warsaw: Mercure Grand or similar#Krakow: Novotel Centrum or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/helsinki_with_baltic/1 (1).png","https://kompas.net/images/escorted_tours/helsinki_with_baltic/1 (2).png","https://kompas.net/images/escorted_tours/helsinki_with_baltic/1 (3).png","https://kompas.net/images/escorted_tours/helsinki_with_baltic/1 (4).png","https://kompas.net/images/escorted_tours/helsinki_with_baltic/1 (5).png"]
+        },
+        {
+            "tour_name" : "Capitals of the Habsburg empire 2022",
+            "short_description" : "8 days in Prague, Vienna and Budapest",
+            "features" : {
+                "included" : "Airport transfer from Prague airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome dinner in Prague (glass of wine, beer or soft drink)#2 dinners (coffee or tea included)#Touring by modern air-conditioned motor coach#Professional English-Speaking Tour Director throughout#Licensed Local Guides#Baggage handling at hotels#Whisper technology enhanced touring#Admission included where indicated in bold letters#Hotel taxes and service taxes#Departure transfer from hotel to Budapest airport",
+                "tour_spotlights" : ["Romanesque, Gothic, Renaissance and Baroque architecture in Prague#Vienna’s Imperial sights, coffee houses and music#Budapest, city of thermal springs and fairytale beauty"
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive in Prague, Sunday",
+                    "day_summary": "You will be met and transferred to your hotel. There’s time to relax before meeting your fellow travelers and Tour Director for a Welcome Dinner. (D)"
+                },
+                {
+                    "day_headline" : "Day 2, in Prague, Monday",
+                    "day_summary" : "This morning, we tour the old part of the city to view the Old Town Square, the famous Astronomical Clock, the Jewish Quarter, St. Nicholas Church, the Charles Bridge, and more. The afternoon is at leisure. (B) Optional tour: Visit the Strahov monastery and its brewery"
+                },
+                {
+                    "day_headline": "Day 3, in Prague, Tuesday",
+                    "day_summary": "We cross the Vltava River to see the Royal Castle of Hradcany and visit the Cathedral of St. Vitus, the Old Royal Palace, St. George’s Basilica and the Golden Lane with the Daliborka Tower. The balance of the day is at leisure. (B<br><b>Optional tour: Visit of the Strahov monastery and its brewery</b>"
+                },
+                {
+                    "day_headline": "Day 4, to Vienna, Wednesday",
+                    "day_summary": "We travel by motor coach to Vienna, the “City of Waltz.” There is free time to start discovering the city’s delights, from shopping to architecture to pastries. After a free afternoon, enjoy an evening Concert of Strauss’s & Mozart’s music. (B)"
+                },
+                {
+                    "day_headline": "Day 5, in Vienna, Thursday",
+                    "day_summary": "We start the day with a visit of St. Stephen’s Cathedral and the Hofburg Palace; then on to view Belvedere Palace, Prater Amusement Park, and the UN Buildings. (B)<br><b>Optional tour: Visit of the Schönbrunn castle</b>"
+                },
+                {
+                    "day_headline": "Day 6, to Budapest, Friday",
+                    "day_summary": "Today, we depart for Budapest. The afternoon is free to explore the “Paris of the East”, shop along the Vaci Utca, nibble a delicious slice of apple strudel, sip some Hungarian wine, or perhaps join one of the optional excursions available. Rest day at leisure. (B) Optional tour: Market tour with food tasting."
+                },
+                {
+                    "day_headline": "Day 7, in Budapest, Saturday",
+                    "day_summary": "Our morning sightseeing tour includes views of all the main attractions: The Parliament, the Royal Palace, the Castle Hill area, Fisherman’s Bastion, the Matthias Church, Heroes’ Square, and Gellert Hill with its Citadel. The rest of the day is at leisure to explore this exciting city. In the evening, join your fellow travelers and your tour director for our farewell dinner. (B, D)<br><b>Optional tour: Market tour with food tasting</b>"
+                },
+                {
+                    "day_headline": "Day 8, depart from Budapest, Sunday",
+                    "day_summary": "After breakfast, you will be transferred to the airport. Alternatively, you can continue your journey and join KompasKlOl “Jewels of Dalmatia” Tour or Kl03 Quintessential trio Croatia, Montenegro & Albania. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                
+            ],
+            "map" : "https://kompas.net/images/escorted_tours/capitals_of_habsburg_empire/map.png",
+            "hotels" : ["Prague: : Adria (F) or similar#Vienna: Hilton Vienna (SF) or similar#Budapest: Radisson Blu (F) or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/capitals_of_habsburg_empire/1 (1).png","https://kompas.net/images/escorted_tours/capitals_of_habsburg_empire/1 (2).png","https://kompas.net/images/escorted_tours/capitals_of_habsburg_empire/1 (3).png","https://kompas.net/images/escorted_tours/capitals_of_habsburg_empire/1 (4).png","https://kompas.net/images/escorted_tours/capitals_of_habsburg_empire/1 (5).png"]
+        },
+        {
+            "tour_name" : "Elegance, Culture and Reconquista in Spain 2022",
+            "short_description" : "13 days from Madrid to Santiago de Compostela, Oviedo, Bilbao, Pamplona, and Barcelona",
+            "features" : {
+                "included" : "Airport transfer from Madrid airport to the hotel#Centrally located first class hotels#Breakfast daily#Welcome reception in Madrid (heavy hors d’oeuvres, a glass of wine, beer or soft drink)#3 dinners (coffee or tea included)#Hotel taxes and service taxes#Touring by modern air-conditioned motor-coach#Professional English-speaking tour director#Licensed Local Guides#Whisper technology enhanced touring#Admission included where indicated in bold letters#Luggage handling at the hotels#Departure transfer from Barcelona to Barcelona airport",
+                "tour_spotlights" : ["Madrid: grand open squares, late dinners#Toledo, crafts, marzipan, captivating monuments#Sandstone architecture, prolific university and the Plaza Mayor in Salamanca#Santiago de Compostela, a major pilgrim destination#Altamira caves, prehistoric art#Bilbao, Frank Gehry’s designed Guggenheim museum#Pamplona, legendary “Running of the Bulls” festival, gothic style churches#Barcelona, fantastical Sagrada Familia, modernist landmarks by Gaudi"
+                ],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Arrive in Madrid, Saturday",
+                    "day_summary": "You will be met and transferred to your hotel. The day is at leisure to begin exploring. Later, join your fellow travelers and your tour director for a welcome reception. (WR)"
+                },
+                {
+                    "day_headline" : "Day 2, in Madrid, Sunday",
+                    "day_summary" : "We begin with a guided half-day city tour of Madrid. Our drive takes us through the Gran Vía and the Passeo de Castellana, past the Plaza de España, Plaza de Oriente, Plaza Mayor, Puerta del Sol, Atocha Station, the fountain of Neptune, Cibeles fountain, the Bullring, the Santiago Bernabeu soccer stadium, and many more. The afternoon is at leisure. (B)<br><b>Optional tour: Prado Museum</b>"
+                },
+                {
+                    "day_headline": "Day 3, in Madrid: Excursion to Toledo, Monday",
+                    "day_summary": "We visit Toledo, a city with a wealth of monuments. It is known as the “city of the three cultures”, because Christians, Arabs and Jews lived here together for centuries. During our guided tour we visit the Santo Tome Church and the Synagogue of Santa María. From Toledo we return to Madrid where the afternoon is at leisure. (B)<br><b>Optional tour: Flamenco show with dinner</b>"
+                },
+                {
+                    "day_headline": "Day 4, to Santiago de Compostela, Tuesday",
+                    "day_summary": "We Depart for Santiago de Compostela. On the way, we stop in Salamanca, an ancient city famous for its university founded by Alfonso IX in the early 1200’s. There is time for lunch on your own and thereafter, we continue to Santiago de Compostela along the Camino. Many pilgrims follow this ancient route also known as the Way of St. James. In Santiago de Compostela, the evening is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 5, in Santiago de Compostela, Wednesday",
+                    "day_summary": "Santiago de Compostela’s center is called “Casco Histórico” (old town), an area once surrounded by walls in the 11th-century. We visit the Cathedral and the Cathedral museum and view the tomb of St James the Great. In the afternoon we visit Cap Finisterre where pilgrims ceremoniously burn their boots. The day finishes with an early seafood dinner accompanied by Albariño wine. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6, to Oviedo, Thursday",
+                    "day_summary": "After breakfast we head to North Galicia. Our scenic drive takes us past the Cabo Ortegal and the Asturian coast to Oviedo. (B)"
+                },
+                {
+                    "day_headline": "Day 7, in Oviedo, Friday",
+                    "day_summary": "A half-day guided city tour of Oviedo takes us to the Cathedral, the Palacio de Valdecarzana, the ruins of the San Tirso Church, and the Porlier Plaza which is flanked by the El Conde de Toreno and Camposagrado Palaces. The afternoon is at leisure. (B)<br><b>Optional tour: Visit of the cider house with dinner</b>"
+                },
+                {
+                    "day_headline": "Day 8, to Bilbao, Saturday",
+                    "day_summary": "After breakfast we continue our journey towards Bilbao. On the way, we stop in Santillana del Mar, one of the North Coast’s most picturesque villages. Its architecture dates to the Middle Ages. In its vicinity we visit the famous Altamira Caves where prehistoric art is well preserved. After our visit, we proceed to Santander where we have free time for lunch on your own. From there, we continue to Bilbao where we have a tasting of local tapas called pintxos. (B)"
+                },
+                {
+                    "day_headline": "Day 9, in Bilbao, Sunday",
+                    "day_summary": "On our visit of Bilbao, we see the vibrant old town with many shops, squares and typical Basque tavernas. We enter the Guggenheim Museum, an architectural masterpiece designed by Frank Gehry. The collection includes large-scale and site-specific art by such contemporary artist as Jeff Koons and Willem de Kooning. The reminder of the day is free. (B)<br><b>Optional tour: Visit of the Basque coast</b>"
+                },
+                {
+                    "day_headline": "Day 10, to Pamplona, Monday",
+                    "day_summary": "After breakfast, we depart for San Sebastian. En route, we visit Getaria, a charming Basque coastal village. Upon arrival in San Sebastian we see the Maria Cristina Hotel. It is at here, at the Kursaal, that the film festival takes place. We also see La Concha beach, a crescent shaped urban seaboard. In the afternoon we arrive in Pamplona. Dinner is served later that night. (B, D)"
+                },
+                {
+                    "day_headline": "Day 11, to Barcelona, Tuesday",
+                    "day_summary": "After breakfast, we have a half-day guided sightseeing tour of Pamplona featuring the Ciudadela, the City Walls, parks and gardens. We will hear about the ‘Running of the Bulls’ race, part of the San Fermin festival. From Pamplona we continue to Zaragoza for lunch on your own. Later that afternoon, we arrive in Barcelona and the rest of the day is at leisure. (B)<br><b>Optional tour: visit of Montserrat</b>"
+                },
+                {
+                    "day_headline": "Day 12, in Barcelona, Wednesday",
+                    "day_summary": "Our guided half-day sightseeing tour includes Barcelona’s most important artistic sights: Gaudi’s Batlló, Casa Milá, the Cathedral Sagrada Familia, and Guell Park, declared an artistic monument and mankind’s heritage by the UNESCO. In the afternoon you are free to explore more on your own. Join your fellow travelers and your tour director for the farewell dinner. (B, D)"
+                },
+                {
+                    "day_headline": "Day 13, depart Barcelona, Thursday",
+                    "day_summary": "Transfer to Barcelona airport after breakfast. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [{
+                "start_date" : "23/07/2022",
+                "end_date" : "25/07/2022",
+                "price_per_person_double" : "2389",
+               "single_room_supplement" : "1025"
+              },
+              {
+                "start_date" : "23/07/2022",
+                "end_date" : "25/07/2022",
+                "price_per_person_double" : "2389",
+               "single_room_supplement" : "1025"
+              }],
+            "map" : "https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/map.png",
+            "hotels" : ["Madrid: Santos Agumar or similar#Santiago de Compostela: Gran Hotel Santiago or similar#Oviedo: Gran Hotel España or similar#Bilbao: Ercilla (F) or similar#Pamplona: Maisonnave (F) or similar#Barcelona: EXE Cristal Palace or similar"
+            ],
+            "gallery" : ["https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (1).png","https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (2).png","https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (3).png","https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (4).png","https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (5).png"]
         }
     ]
 }
