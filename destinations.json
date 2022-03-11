@@ -1853,7 +1853,66 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "05/18/2022",
+                    "end_date" : "05/26/2022",
+                    "price_per_person_double" : 2273,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "06/01/2022",
+                    "end_date" : "06/09/2022",
+                    "price_per_person_double" : 2400,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "06/15/2022",
+                    "end_date" : "06/23/2022",
+                    "price_per_person_double" : 2400,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "06/29/2022",
+                    "end_date" : "07/07/2022",
+                    "price_per_person_double" : 2400,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "07/13/2022",
+                    "end_date" : "09/21/2022",
+                    "price_per_person_double" : 2477,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "08/10/2022",
+                    "end_date" : "08/18/2022",
+                    "price_per_person_double" : 2477,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "08/31/2022",
+                    "end_date" : "09/08/2022",
+                    "price_per_person_double" : 2477,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "09/21/2022",
+                    "end_date" : "09/29/2022",
+                    "price_per_person_double" : 2527,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "10/05/2022",
+                    "end_date" : "10/13/2022",
+                    "price_per_person_double" : 2273,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "10/19/2022",
+                    "end_date" : "10/27/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 876
+                  }
             ],
             "map" : "https://kompas.net/images/escorted_tours/balkan_gems/map.png",
             "hotels" : ["Dubrovnik: Valamar Lacroma / Valamar Argosy or similar#Mostar: Mepas or similar#Sarajevo: Europa or similar#Belgrade: Moskva or similar"
@@ -1919,7 +1978,60 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                "start_date" : "05/11/2022",
+                "end_date" : "05/21/2022",
+                "price_per_person_double" : 4178,
+               "single_room_supplement" : 1207
+              },
+              {
+                "start_date" : "05/25/2022",
+                "end_date" : "06/04/2022",
+                "price_per_person_double" : 4255,
+               "single_room_supplement" : 1207
+              },
+              {
+                "start_date" : "06/08/2022",
+                "end_date" : "06/18/2022",
+                "price_per_person_double" : 4255,
+               "single_room_supplement" : 1207
+              },
+              {
+                "start_date" : "07/06/2022",
+                "end_date" : "07/16/2022",
+                "price_per_person_double" : 3797,
+               "single_room_supplement" : 1207
+              },
+              {
+                "start_date" : "08/17/2022",
+                "end_date" : "08/27/2022",
+                "price_per_person_double" : 3747,
+               "single_room_supplement" : 1207
+              },
+              {
+                "start_date" : "08/24/2022",
+                "end_date" : "09/03/2022",
+                "price_per_person_double" : 3747,
+               "single_room_supplement" : 1207
+              },
+              {
+                "start_date" : "08/31/2022",
+                "end_date" : "09/10/2022",
+                "price_per_person_double" : 4051,
+               "single_room_supplement" : 1207
+              },
+              {
+                "start_date" : "09/14/2022",
+                "end_date" : "09/24/2022",
+                "price_per_person_double" : 4255,
+               "single_room_supplement" : 1207
+              },
+              {
+                "start_date" : "09/28/2022",
+                "end_date" : "10/08/2022",
+                "price_per_person_double" : 4178,
+               "single_room_supplement" : 1207
+              }
             ],
             "map" : "https://kompas.net/images/escorted_tours/unforgettable_italy/map.png",
             "hotels" : ["Rome: Starhotels Metropole or similar#Florence: Starhotels Michelangelo or similar#Venice: Carlton Grand Canal or similar# Opatija: Adriatic I or similar#Split: Hotel Corner or similar"
@@ -1989,7 +2101,68 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "05/14/2022",
+                    "end_date" : "05/25/2022",
+                    "price_per_person_double" : 3162,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "05/28/2022",
+                    "end_date" : "06/08/2022",
+                    "price_per_person_double" : 3239,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "06/11/2022",
+                    "end_date" : "06/22/2022",
+                    "price_per_person_double" : 3239,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "06/25/2022",
+                    "end_date" : "07/06/2022",
+                    "price_per_person_double" : 3239,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "07/09/2022",
+                    "end_date" : "07/20/2022",
+                    "price_per_person_double" : 3289,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "08/06/2022",
+                    "end_date" : "08/17/2022",
+                    "price_per_person_double" : 3289,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "08/27/2022",
+                    "end_date" : "09/07/2022",
+                    "price_per_person_double" : 3289,
+                   "single_room_supplement" : 876
+                  },
+                  {
+                    "start_date" : "09/17/2022",
+                    "end_date" : "09/28/2022",
+                    "price_per_person_double" : 3289,
+                   "single_room_supplement" : 876
+                  }
+                  ,
+                  {
+                    "start_date" : "10/01/2022",
+                    "end_date" : "10/12/2022",
+                    "price_per_person_double" : 3112,
+                   "single_room_supplement" : 876
+                  } 
+                  ,
+                  {
+                    "start_date" : "10/15/2022",
+                    "end_date" : "10/26/2022",
+                    "price_per_person_double" : 2985,
+                   "single_room_supplement" : 876
+                  } 
             ],
             "map" : "https://kompas.net/images/escorted_tours/quintessential_trio/map.png",
             "hotels" : ["Zagreb: Sheraton or similar#Plitvice: Jezero or similar#Split: Briig or similar#Dubrovnik: Valamar Lacroma / Valamar Argosy or similar#Kolasin: Bianca resort or similar#Tirana: Colosseo or similar"
@@ -2059,7 +2232,66 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "05/10/2022",
+                    "end_date" : "05/21/2022",
+                    "price_per_person_double" : 3747,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "05/24/2022",
+                    "end_date" : "06/04/2022",
+                    "price_per_person_double" : 3747,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "06/07/2022",
+                    "end_date" : "06/18/2022",
+                    "price_per_person_double" : 3747,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "06/21/2022",
+                    "end_date" : "07/02/2022",
+                    "price_per_person_double" : 3747,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "07/05/2022",
+                    "end_date" : "07/16/2022",
+                    "price_per_person_double" : 3797,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "08/02/2022",
+                    "end_date" : "08/13/2022",
+                    "price_per_person_double" : 3797,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "08/23/2022",
+                    "end_date" : "09/03/2022",
+                    "price_per_person_double" : 3797,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "09/13/2022",
+                    "end_date" : "09/24/2022",
+                    "price_per_person_double" : 3924,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "09/27/2022",
+                    "end_date" : "10/08/2022",
+                    "price_per_person_double" : 3797,
+                   "single_room_supplement" : 1130
+                  },
+                  {
+                    "start_date" : "10/11/2022",
+                    "end_date" : "10/22/2022",
+                    "price_per_person_double" : 3670,
+                   "single_room_supplement" : 1130
+                  }
             ],
             "map" : "https://kompas.net/images/escorted_tours/dalmatian_sunshine/map.png",
             "hotels" : ["Venice: Hotel Carlton Grand Canal or similar#Bled: Hotel Park or similar#Zagreb: Hotel Sheraton or similar#Plitvice: Hotel Jezero or similar#Split: Hotel Briig or similar#Dubrovnik: Hotel Valamar Lacroma / Valamar Argosy or similar"
@@ -2129,7 +2361,42 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "05/05/2022",
+                    "end_date" : "05/16/2022",
+                    "price_per_person_double" : 2654,
+                   "single_room_supplement" : 661
+                  },
+                  {
+                    "start_date" : "06/09/2022",
+                    "end_date" : "06/20/2022",
+                    "price_per_person_double" : 2654,
+                   "single_room_supplement" : 661
+                  },
+                  {
+                    "start_date" : "07/14/2022",
+                    "end_date" : "07/25/2022",
+                    "price_per_person_double" : 2654,
+                   "single_room_supplement" : 661
+                  },
+                  {
+                    "start_date" : "08/11/2022",
+                    "end_date" : "08/22/2022",
+                    "price_per_person_double" : 2654,
+                   "single_room_supplement" : 661
+                  },
+                  {
+                    "start_date" : "09/08/2022",
+                    "end_date" : "09/19/2022",
+                    "price_per_person_double" : 2654,
+                   "single_room_supplement" : 661
+                  },
+                  {
+                    "start_date" : "10/06/2022",
+                    "end_date" : "10/17/2022",
+                    "price_per_person_double" : 2654,
+                   "single_room_supplement" : 661
+                  }
             ],
             "map" : "https://kompas.net/images/escorted_tours/bulgaria_romania/map.png",
             "hotels" : ["Sofia: Hotel Anel / Palace or similar#Veliko Tarnovo: Hotel Yantra / Meridian Bolyarski or similar#Bucharest: Hotel Athenee Palace Hilton / Hilton Garden Inn /Capitol or similar#Sibiu: Hotel Golden Tulip/ Continental Forum or similar#Piatra Neamt: Hotel Central Plaza or similar#Brasov: Hotel Aro Palace/ Ambient/ Belvedere or similar#Sinaia: Hotel Palace/ Rina Sinaia or similar"
@@ -2229,7 +2496,48 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "05/14/2022",
+                    "end_date" : "05/21/2022",
+                    "price_per_person_double" : 2226,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "05/28/2022",
+                    "end_date" : "06/04/2022",
+                    "price_per_person_double" : 2350,
+                   "single_room_supplement" : 521
+                },
+                {
+                    "start_date" : "05/15/2022",
+                    "end_date" : "05/21/2022",
+                    "price_per_person_double" : 2056,
+                   "single_room_supplement" : 521
+                },
+                {
+                    "start_date" : "05/15/2022",
+                    "end_date" : "05/21/2022",
+                    "price_per_person_double" : 2056,
+                   "single_room_supplement" : 521
+                },
+                {
+                    "start_date" : "05/15/2022",
+                    "end_date" : "05/21/2022",
+                    "price_per_person_double" : 2056,
+                   "single_room_supplement" : 521
+                },
+                {
+                    "start_date" : "05/15/2022",
+                    "end_date" : "05/21/2022",
+                    "price_per_person_double" : 2056,
+                   "single_room_supplement" : 521
+                },
+                {
+                    "start_date" : "05/15/2022",
+                    "end_date" : "05/21/2022",
+                    "price_per_person_double" : 2056,
+                   "single_room_supplement" : 521
+                }
             ],
             "map" : "https://kompas.net/images/escorted_tours/experience_slovenia/map.png",
             "hotels" : ["Ljubljana: Hotel Slon or similar#Piran: Hotel Piran or similar#Nova Gorica: Hotel Perla or similar#Bled: Hotel Park or similar"
@@ -2283,7 +2591,66 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "05/14/2022",
+                    "end_date" : "05/21/2022",
+                    "price_per_person_double" : 2226,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "05/28/2022",
+                    "end_date" : "06/04/2022",
+                    "price_per_person_double" : 2350,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "06/11/2022",
+                    "end_date" : "06/18/2022",
+                    "price_per_person_double" : 2350,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "06/25/2022",
+                    "end_date" : "07/02/2022",
+                    "price_per_person_double" : 2350,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "07/09/2022",
+                    "end_date" : "07/16/2022",
+                    "price_per_person_double" : 2350,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "08/06/2022",
+                    "end_date" : "08/13/2022",
+                    "price_per_person_double" : 2350,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "08/27/2022",
+                    "end_date" : "09/03/2022",
+                    "price_per_person_double" : 2350,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "09/17/2022",
+                    "end_date" : "09/24/2022",
+                    "price_per_person_double" : 2400,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "10/01/2022",
+                    "end_date" : "10/08/2022",
+                    "price_per_person_double" : 2273,
+                   "single_room_supplement" : 749
+                },
+                {
+                    "start_date" : "10/15/2022",
+                    "end_date" : "10/22/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 749
+                }
             ],
             "map" : "https://kompas.net/images/escorted_tours/jewels_of_dalmatia/map.png",
             "hotels" : ["Zagreb: Hotel Sheraton or similar#Plitvice: Hotel Jezero or similar#Split: Hotel Briig or similar#Dubrovnik: Hotel Valamar Lacroma / Valamar Argosy or similar"
@@ -2337,7 +2704,24 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "07/02/2022",
+                    "end_date" : "07/09/2022",
+                    "price_per_person_double" : 2153,
+                   "single_room_supplement" : 756
+                },
+                {
+                    "start_date" : "09/17/2022",
+                    "end_date" : "09/24/2022",
+                    "price_per_person_double" : 2153,
+                   "single_room_supplement" : 756
+                },
+                {
+                    "start_date" : "10/22/2022",
+                    "end_date" : "10/29/2022",
+                    "price_per_person_double" : 2153,
+                   "single_room_supplement" : 756
+                }
             ],
             "map" : "https://kompas.net/images/escorted_tours/maritime_discoveries_portugal/map.png",
             "hotels" : ["Lisbon: Lisbon Marriott Hotel or similar#Fatima: Aurea/Estrela De Fatima/Regina or similar#Coimbra: Vila Gale Coimbra or similar#Porto: Vila Gale Porto/Vila Gale Porto Ribeira or similar"
@@ -2554,6 +2938,687 @@
             "hotels" : ["Madrid: Santos Agumar or similar#Santiago de Compostela: Gran Hotel Santiago or similar#Oviedo: Gran Hotel España or similar#Bilbao: Ercilla (F) or similar#Pamplona: Maisonnave (F) or similar#Barcelona: EXE Cristal Palace or similar"
             ],
             "gallery" : ["https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (1).png","https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (2).png","https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (3).png","https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (4).png","https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/1 (5).png"]
+        }
+    ],
+    "city_stays" :[
+        {
+            "tour_name" : "Dubrovnik, Croatia",
+            "short_description" : "The Pearl of the Adriatic",
+            "description": "Known as “the pearl of the Adriatic,” Dubrovnik is surely one of the most famous and beautiful towns in the world. It is a medieval town, founded in the 17th century and has many treasures. The entire coastal belt called Dubrovnik Rivera, from southern Cavtat to Peljesac peninsula is full of secluded beaches, small bays and tiny villages. Dubrovnik is a MUST SEE destination.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Dubrovnik",
+                    "day_summary": "Upon your arrival you will be met and transferred to your hotel. The rest of the day is free for you to get to know Dubrovnik."
+                },
+                {
+                    "day_headline" : "Day 2, Dubrovnik",
+                    "day_summary" : "There is a walking tour of “Old Dubrovnik” this morning. We will visit the Franciscan Monastery, housing one of the world’s oldest pharmacies, the old harbor, St. Laurence Fortress, the Sponza and Rector’s Palaces and other points of interest. The rest of the day is at leisure."
+                },
+                {
+                    "day_headline": "Day 3, Dubrovnik",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Grand Villa Argentina",
+                    "hotel_link" : "https://www.adriaticluxuryhotels.com/grand-villa-argentina/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Hotel Excelsior",
+                    "hotel_link" : "http://www.adriaticluxuryhotels.com/en/hotel-excelsior-dubrovnik/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Hotel Lapad",
+                    "hotel_link" : "https://www.hotel-lapad.hr/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Grand Hotel Park",
+                    "hotel_link" : "http://www.grandhotel-park.hr/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Valamar President",
+                    "hotel_link" : "https://www.valamar.com/en/hotels-dubrovnik/valamar-dubrovnik-president-hotel",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Hotel Neptun",
+                    "hotel_link" : "http://www.neptunhoteldubrovnik.com/",
+                    "stars" : 3
+                 }
+            ],
+            "excursions":["Dubrovnik Sightseeing Tour#Three Island Cruise#Island of Mljet#Island of Korcula#Village of Cilipi – Folklore Tour#Trsteno – Ston#Cilipi & Konavoski Dvori#Fish Picnic#Neretva River Delta#Peljesac Wine Tour#Canoe Safari#Jeep Safari#Medugorje#Mostar#Montenegro#Montenegro Blue"],
+            "gallery" : ["https://kompas.net/images/city_stays/dubrovnik/1 (1).png","https://kompas.net/images/city_stays/dubrovnik/1 (2).png","https://kompas.net/images/city_stays/dubrovnik/1 (3).png","https://kompas.net/images/city_stays/dubrovnik/1 (4).png","https://kompas.net/images/city_stays/dubrovnik/1 (5).png"]
+        },
+        {
+            "tour_name" : "Zagreb, Croatia",
+            "short_description" : "The Capital of Croatia",
+            "description": "Zagreb – Capital of Republic of Croatia, cultural, political, industrial and business center. Its history dates back to 1094 and became the Croatian capital in 1557. Today it is a very popular tourist center. Upper Town is one of the best-maintained medieval cities in Europe with museums, galleries, monuments, antique and souvenir shops. Lower Town with its beautiful parks will make your visit worthwhile.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Zagreb",
+                    "day_summary": "On your arrival to Zagreb you will be met and transferred to your hotel. The rest of the day is free for you to get to know the capital city of Croatia."
+                },
+                {
+                    "day_headline" : "Day 2, Zagreb",
+                    "day_summary" : "A morning private walking tour will take us to “Upper Town” to see the Cathedral of Mary’s Assumption and Gothic Church of St. Mark, and “Lower Town” featuring the main square of Jelacic. The rest of the day is at leisure."
+                },
+                {
+                    "day_headline": "Day 3, Zagreb",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Esplanade",
+                    "hotel_link" : "https://www.esplanade.hr/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Sheraton",
+                    "hotel_link" : "https://www.marriott.com/default.mi?redirectFrom=www.starwoodhotels.com",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Dubrovnik",
+                    "hotel_link" : "https://www.hotel-dubrovnik.hr/?l=en",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Palace",
+                    "hotel_link" : "https://palace.hr/eng/index.html",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Laguna",
+                    "hotel_link" : "https://hotel-laguna.hr/",
+                    "stars" : 3
+                 }
+            ],
+            "excursions":["Opatija Riviera#Dubrovnik#Zagreb Costumed Sightseeing#Cycling Tour in Maksimir#Zelina and Wine Tasting#Trakoscan Archery Tournament#Kumrovec & Gresna Gorica#Samobor#Plitvice Lakes#The Castles of Hrvatsko Zagorje#Varazdin#Museum of Peasant Rebellion &Orsic Castle#Podravina Center of Naive Art"],
+            "gallery" : ["https://kompas.net/images/city_stays/zagreb/1 (1).png","https://kompas.net/images/city_stays/zagreb/1 (2).png","https://kompas.net/images/city_stays/zagreb/1 (3).png","https://kompas.net/images/city_stays/zagreb/1 (4).png","https://kompas.net/images/city_stays/zagreb/1 (5).png"]
+        },
+        {
+            "tour_name" : "Split, Croatia",
+            "short_description" : "Roman Emperor's Retreat",
+            "description": "Split – The biggest city in Dalmatia, world famous Roman core of the Old City, makes Split one of the most interesting places to see. Roman core belongs to UNESCO protected heritage of the world. There are many beautiful towns, picturesque villages and islands around Split that are worth paying visit to.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Split",
+                    "day_summary": "Upon your arrival you will be met and transferred to your hotel. The rest of the day is free for you to get to know Split."
+                },
+                {
+                    "day_headline" : "Day 2, Split",
+                    "day_summary" : "A sightseeing tour provides a look at the city’s Roman heritage, its Renaissance and Gothic structures, and its contemporary attractions. The rest of the day is at leisure."
+                },
+                {
+                    "day_headline": "Day 3, Split",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Atrium",
+                    "hotel_link" : "http://www.hotel-atrium.hr/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Le Meridien",
+                    "hotel_link" : "https://www.marriott.com/default.mi?redirectFrom=www.starwoodhotels.com",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Marmont",
+                    "hotel_link" : "https://dlhv.hr/hotels/marmont-heritage-hotel/#top",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "President",
+                    "hotel_link" : "https://hotelpresident.hr/hr/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Peristil",
+                    "hotel_link" : "https://hotelperistil.com/",
+                    "stars" : 3
+                 }
+            ],
+            "excursions":["Grand Diocletian’s Walking & Hop On/Off Tour"],
+            "gallery" : ["https://kompas.net/images/city_stays/split/1 (1).png","https://kompas.net/images/city_stays/split/1 (2).png","https://kompas.net/images/city_stays/split/1 (3).png","https://kompas.net/images/city_stays/split/1 (4).png","https://kompas.net/images/city_stays/split/1 (5).png"]
+        },
+        {
+            "tour_name" : "Bled, Slovenia",
+            "short_description" : "The Alpine Jewel",
+            "description": "Bled – An Alpine lake surrounded by the high peaks, Bled was discovered by tourists in the middle of the century, after a Swiss, Mr. Arnold Rikli, has built a climatic health center. Since then, a small town of beautiful hotels, restaurants, villas has developed around the lake, turning Bled into a lively place all year round. For the winter, part from the skating on the frozen surface of the lake, there are numerous ski runs in the neighborhood. In the Summer Bled offers swimming, rowing, trekking and one of the most beautiful golf courses in this part of Europe.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Bled",
+                    "day_summary": "Upon your arrival you will be met and transferred to your hotel. The rest of the day is free for you to get to know Bled."
+                },
+                {
+                    "day_headline" : "Day 2, Bled",
+                    "day_summary" : "Our morning sightseeing tour of this resort features the town of Bled with the lake shore, and includes a visit to Bled Castle, perched on the cliff high above the lake. Balance of the day at leisure for optional activities."
+                },
+                {
+                    "day_headline": "Day 3, Bled",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Hotel Golf",
+                    "hotel_link" : "https://www.sava-hotels-resorts.com/en/sava-hoteli-bled/accommodations/rikli-balance-hotel",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Toplice",
+                    "hotel_link" : "https://www.sava-hotels-resorts.com/en/sava-hoteli-bled/accommodations/grand-hotel-toplice",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Hotel Park",
+                    "hotel_link" : "https://www.sava-hotels-resorts.com/en/sava-hoteli-bled/accommodations/hotel-park",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Astoria",
+                    "hotel_link" : "https://www.hotelastoria-bled.com/",
+                    "stars" : 4
+                 }
+            ],
+            "excursions":["Grand Diocletian’s Walking & Hop On/Off Tour"],
+            "gallery" : ["https://kompas.net/images/city_stays/bled/1 (1).png","https://kompas.net/images/city_stays/bled/1 (2).png","https://kompas.net/images/city_stays/bled/1 (3).png","https://kompas.net/images/city_stays/bled/1 (4).png","https://kompas.net/images/city_stays/bled/1 (5).png"]
+        },
+        {
+            "tour_name" : "Ljubljana, Slovenia",
+            "short_description" : "The Loveliest European Capital",
+            "description": "Ljubljana – Founded by Illyrian between 1000 and 500 BC as Emona, Ljubljana offers a lot to a visitor. Its edifices and monuments witness a long history of its existence. There are numerous shops with excellent shopping, rich and diversified cultural life and good traffic connection with neighboring countries. Discover the baroque old town with its bridges, churches and buildings, taste the exquisite Slovenian cuisine and wines, and join the people strolling along the streets.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Ljubljana",
+                    "day_summary": "On your arrival to Airport Ljubljana you will be met and transferred to your hotel. The rest of the day is free to you to get to know the capital of Slovenia."
+                },
+                {
+                    "day_headline" : "Day 2, Ljubljana",
+                    "day_summary" : "A sightseeing tour begins with a visit to the open-air market, the City Hall, Robba’s Fountain, the Three Bridges and the Parliament. The rest of the day is at leisure."
+                },
+                {
+                    "day_headline": "Day 3, Ljubljana",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Lev",
+                    "hotel_link" : "https://www.uhcollection.si/hotel-lev",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Austria Trend",
+                    "hotel_link" : "https://www.austria-trend.at/en/hotels/hotel-ljubljana",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Best Western Premier",
+                    "hotel_link" : "https://www.hotelslon.com//",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Hotel Central",
+                    "hotel_link" : "https://www.uhcollection.si/central-hotel",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Hotel Union",
+                    "hotel_link" : "https://www.uhcollection.si/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "M Hotel",
+                    "hotel_link" : "https://www.m-hotel.si/",
+                    "stars" : 3
+                 }
+            ],
+            "excursions":["The romantic capital of the World#Alpine Pearl#Medieval Cities#Underground Treasures#Unique Region#Breathe Mediterranean#Where the medieval meets the present#Unesco Spot#Golf Excursion#Alpine Lakes#Unlimited Experience#Flowers of Slovenia#Feel the nature#Tito’s cars#Adrenaline Seekers#Cradle of Lipizzaner &Human Fish#The Stories &Legends of Ljubljana#Slovene Istria – Taste of Countryside#Traditional Slovenian Night#Wine Region of Slovenia"],
+            "gallery" : ["https://kompas.net/images/city_stays/ljubljana/1 (1).png","https://kompas.net/images/city_stays/ljubljana/1 (2).png","https://kompas.net/images/city_stays/ljubljana/1 (3).png","https://kompas.net/images/city_stays/ljubljana/1 (4).png","https://kompas.net/images/city_stays/ljubljana/1 (5).png"]
+        },
+        {
+            "tour_name" : "Florence, Italy",
+            "short_description" : "The Birthplace of the Italian Renaissance",
+            "description": "Gorgeous Florence is an absolute pearl of Renaissance art and architecture. The best-known site and crowning jewel is the magnificent domed cathedral of Santa Maria del Fiore, known as the Duomo. At the heart of the city in Piazza della Signoria is the Fountain of Neptune, a masterpiece of marble sculpture at the end of a still working Roman aqueduct. Spoil yourself in this romantic UNESCO world heritage list city of streets, squares and charming restaurants.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Florence",
+                    "day_summary": "Upon your arrival in Florence you will be met and transferred to your hotel. Balance of the day at leisure."
+                },
+                {
+                    "day_headline" : "Day 2, Florence",
+                    "day_summary" : "A morning tour of Florence featuring a visit to a splendid Duomo and Michelangelo’s David in the Academia. View the Baptistery and Giotto’s magnificent Bell Tower. The afternoon is yours to further explore this beautiful city. Additional sightseeing tours and excursions are available."
+                },
+                {
+                    "day_headline": "Day 3, Florence",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Regency",
+                    "hotel_link" : "https://www.regency-hotel.com/en/10/hotel_florence.aspx",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Albani",
+                    "hotel_link" : "http://www.summithotels.com/summit/hotels/index.aspx?src=2605338&id=43245",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "NH Anglo American",
+                    "hotel_link" : "https://www.nh-hotels.com/hotels/florence",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Donatello",
+                    "hotel_link" : "https://www.hoteldonatellofirenze.com/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Hotel Michelangelo",
+                    "hotel_link" : "https://www.starhotels.com/en/our-hotels/michelangelo-florence/",
+                    "stars" : 4
+                 }
+            ],
+            "excursions":["Visit of Florence – Morning#Visit of Florence – Afternoon#Pisa#Siena & San Gimignano"],
+            "gallery" : ["https://kompas.net/images/city_stays/florence/1 (1).png","https://kompas.net/images/city_stays/florence/1 (2).png","https://kompas.net/images/city_stays/florence/1 (3).png","https://kompas.net/images/city_stays/florence/1 (4).png","https://kompas.net/images/city_stays/florence/1 (5).png"]
+        },
+        {
+            "tour_name" : "Rome, Italy",
+            "short_description" : "The Eternal City",
+            "description": "",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Rome",
+                    "day_summary": "Upon your arrival you will be met and transferred to your hotel. The rest of the day is free for you to get to know Rome."
+                },
+                {
+                    "day_headline" : "Day 2, Rome",
+                    "day_summary" : "A morning departure from Piazza Esquilino (bus terminal) through Venezia square we will reach St. Peter’s Square (visit) of the square and St.Peter’s Basilica – Navona Square, a typical baroque square, originally a stadium built by Caesar Domiziano in the 1st C.A.D. Today it is known as the square of the artists and the “Four Rivers Fountain” – the pantheon, a real architectonical wonder of the ancient Rome, also admired and studied by Michelangelo, which is also today it’s the burial place of Raffaello and of the Italian kings (visit). – Trevi Fountain a work masterpiece by Nicola Salvi (visit). The tour ends here."
+                },
+                {
+                    "day_headline": "Day 3, Rome",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Grand Hotel De La Minerve",
+                    "hotel_link" : "https://www.grandhoteldelaminerve.com/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Hotel Lord Byron",
+                    "hotel_link" : "https://www.lordbyronhotel.com/en/6/hotel_lord_byron.aspx",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Hotel Diana",
+                    "hotel_link" : "https://www.hoteldianaroma.com/en/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Una Hotel ",
+                    "hotel_link" : "https://www.gruppouna.it/en/unahotels/unahotels-deco-roma",
+                    "stars" : 4
+                 }
+            ],
+            "excursions":["Visit of Florence – Morning#Visit of Florence – Afternoon#Pisa#Siena & San Gimignano"],
+            "gallery" : ["https://kompas.net/images/city_stays/florence/1 (1).png","https://kompas.net/images/city_stays/florence/1 (2).png","https://kompas.net/images/city_stays/florence/1 (3).png","https://kompas.net/images/city_stays/florence/1 (4).png","https://kompas.net/images/city_stays/florence/1 (5).png"]
+        },
+        {
+            "tour_name" : "Venice, Italy",
+            "short_description" : "The Most Romantic City",
+            "description": "For many, its canals, bridges, art and architecture make 1,500-year-old Venice the most beautiful and most romantic city in the world. It is also a perfect venue for magical culture and music. There is so much to see from the charming famous gondolas. First-timers start with Piazza San Marco and the exquisite views from the bell tower, and the Bridge of Sighs, where a local legend says that lovers will be assured eternal love if they kiss under the bridge on a gondola at sunset.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Venice",
+                    "day_summary": "Upon your arrival in Venice you will be met and transferred to your hotel. Balance of the day at leisure."
+                },
+                {
+                    "day_headline" : "Day 2, Venice",
+                    "day_summary" : "Your morning tour is highlighted by the visits to the Golden Basilica of San Marco, the Bridge of Sighs and the Piombi Prison. A remainder of the day is free. Additional sightseeing tours and excursions are available."
+                },
+                {
+                    "day_headline": "Day 3, Venice",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Amadeus",
+                    "hotel_link" : "https://www.gardenahotels.it/hotel_amadeus/eng/home.htm",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Carlton On The Grand Canal ",
+                    "hotel_link" : "https://www.carltongrandcanal.com/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Cavalletto & Doge Orseolo ",
+                    "hotel_link" : "https://www.hotelcavallettovenice.com/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Kette",
+                    "hotel_link" : "https://www.hotelkette.com/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Principe",
+                    "hotel_link" : "http://hotelprincipe.hotelinvenice.com/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Olimpia",
+                    "hotel_link" : "https://www.hotel-olimpia.com/",
+                    "stars" : 3
+                 }
+            ],
+            "excursions":["Walking Historical City Tour#Gondola Serenade#Tour to Murano, Burano &Torcello"],
+            "gallery" : ["https://kompas.net/images/city_stays/venice/1 (1).png","https://kompas.net/images/city_stays/venice/1 (2).png","https://kompas.net/images/city_stays/venice/1 (3).png","https://kompas.net/images/city_stays/venice/1 (4).png","https://kompas.net/images/city_stays/venice/1 (5).png"]
+        },
+        {
+            "tour_name" : "Moscow, Russia",
+            "short_description" : "New European Metropolitan",
+            "description": "Moscow – one of the largest cities in the world and is the symbolic heart and soul of Russia. Famous are the historical sights and monuments like Red Square dominated by St. Basil’s Cathedral and by massive walls of the Kremlin, and the Armory. The Moscow University represents a unique style, and very interesting also are the popular shopping district Arbat, GUM – the largest Russian department store, and the richly decorated subway. Moscow is also known for its cultural life. There are operas, concerts, theaters, ballets, the world renowned Circus, and a variety of museums and galleries.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Moscow",
+                    "day_summary": "Upon your arrival to Moscow you will be met and transferred to your hotel. The rest of the day is free for you to get to know the heart and soul of Russia."
+                },
+                {
+                    "day_headline" : "Day 2, Moscow",
+                    "day_summary" : "Sightseeing begins at Red Square, dominated by St. Basil’s Cathedral and by the massive red walls of the Kremlin. We will visit the Moscow University and the popular Arbat shopping district; drive on wide boulevards and stroll through GUM, the largest Russian department store. The afternoon is free for independent sightseeing."
+                },
+                {
+                    "day_headline": "Day 3, Moscow",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Peter I",
+                    "hotel_link" : "http://www.petr-hotel.ru/eng/main/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Marriott Grand",
+                    "hotel_link" : "https://www.marriott.com/en-us/hotels/mowgr-moscow-marriott-grand-hotel/overview/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Park Inn Sadu",
+                    "hotel_link" : "https://www.radissonhotels.com/en-us/hotels/park-inn-moscow-sadu",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Budapest",
+                    "hotel_link" : "https://www.hotel-budapest.ru/en/",
+                    "stars" : 3
+                 }
+            ],
+            "excursions":["Private City Tour#Zagorsk#Private City Tour with Christ the Savior Cathedral#Private City Tour with Kremlin &one Cathedral#Kremlin with one Cathedral &Armory Chambers#Kremlin with one Cathedral &Diamond Fund#Tretyakov Gallery#Pushkin Fine Art Museum#Museum of Andrey Rublev#Kolomenskoye Estate#Private City Tour with Novodevichy Convent"],
+            "gallery" : ["https://kompas.net/images/city_stays/moscow/1 (1).png","https://kompas.net/images/city_stays/moscow/1 (2).png","https://kompas.net/images/city_stays/moscow/1 (3).png","https://kompas.net/images/city_stays/moscow/1 (4).png","https://kompas.net/images/city_stays/moscow/1 (5).png"]
+        },
+        {
+            "tour_name" : "St. Petersburg, Russia",
+            "short_description" : "City of Czars",
+            "description": "St. Petersburg – the former capital of the Russian Czars. The city was founded by Peter the Great as he laid the foundation for the first fortress on the Peter & Paul Island in 1703. This has become the chief monuments to its founder’s reign. Peter and Paul Fortress today houses the crypt of Russian Emperors. Many places of the “Venice of the North” are reminders of the Russian Czars like Petrodvorets, the Summer Palace of Peter the Great. In St. Petersburg you will find one of the world’s finest museums in the Hermitage, which houses many treasures from the era of the czars.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, St. Petersburg",
+                    "day_summary": "Upon your arrival to St. Petersburg you will be met and transferred to your hotel. The rest of the day is free for you to get to know the former capital of Russian Czars."
+                },
+                {
+                    "day_headline" : "Day 2, St. Petersburg",
+                    "day_summary" : "Morning tour features Petrodvorets, Peter the Great’s summer palace, St. Isaac’s Cathedral, and some other sights of this city rich in history."
+                },
+                {
+                    "day_headline": "Day 3, St. Petersburg",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Astoria",
+                    "hotel_link" : "http://www.thehotelastoria.com/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Angleterre",
+                    "hotel_link" : "https://www.angleterrehotel.com/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Park Inn Pulkovskaya",
+                    "hotel_link" : "http://www.rezidorparkinn.com/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Holiday Inn Moskovskye Vorota",
+                    "hotel_link" : "https://www.ihg.com/holidayinn/hotels/us/en/st-petersburg/ledmp/hoteldetail",
+                    "stars" : 4
+                 }
+            ],
+            "excursions":["Private City Tour#Alexander Nevsky Lavra#Private City Tour with St. Isaac Cathedral#Private City Tour with Peter &Paul Fortr. &St. Isaac Cath.#St. Isaac Cathedral#Cathedrals of St. Petersburg#Peter &Paul Fortress#Hermitage#Palace &Park in Pavlovsk#Private Tour of Summer Palace &Gardens of Peter the Great#Russian Museum#Novgorod – City Tour, Museums &Lunch#'White Nights' Night City Tour#In the Footsteps of Art Celebrities#Palace &Park in Pushkin#Private City Tour with Peter &Paul Fortress#Pushkin &Pavlovsk#Grand Palace &Park in Peterhof#Yusupov Palace including Rasputin Room#Palace in Gatchina &Mihailovsky Castle"],
+            "gallery" : ["https://kompas.net/images/city_stays/st_petersburg/1 (1).png","https://kompas.net/images/city_stays/st_petersburg/1 (2).png","https://kompas.net/images/city_stays/st_petersburg/1 (3).png","https://kompas.net/images/city_stays/st_petersburg/1 (4).png","https://kompas.net/images/city_stays/st_petersburg/1 (5).png"]
+        },
+        {
+            "tour_name" : "Vienna, Austria",
+            "short_description" : "The City of Waltz",
+            "description": "Vienna is where east meets west, a focal point of art and culture in Central Europe. Stroll on the “Ringstrasse,” one of the most beautiful boulevards in the world. Visit the sights, particularly the magnificent Hofburg and Schoenbrunn Palace or experience a performance at the State Opera or Spanish Riding School. This city abounds in museums, galleries, castles, palaces and churches and is arguably the most elegant destination in Europe. The range of activities and tours available is limitless, and don’t forget, Vienna is the home of “Sacher torte,” an indulgence not to be missed.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Vienna",
+                    "day_summary": "Upon your arrival you will be met and transferred to your hotel. The rest of the day is at leisure."
+                },
+                {
+                    "day_headline" : "Day 2, Vienna",
+                    "day_summary" : "A morning sightseeing tour features the Hofburg, once the seat of the Austro-Hungarian Empire, St. Stephen’s Cathedral and a visit to the magnificent Schoenbrunn Palace. Afternoon is at leisure. Additional sightseeing tours and excursions are available."
+                },
+                {
+                    "day_headline": "Day 3, Vienna",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Radisson SAS Palais",
+                    "hotel_link" : "https://www.radissonhotels.com/en-us/hotels/radisson-blu-vienna",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Renaissance",
+                    "hotel_link" : "https://www.marriott.com/en-us/hotels/viehw-renaissance-wien-hotel/overview/",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "NH Atterseehaus",
+                    "hotel_link" : "https://www.nh-hotels.com/hotel/nh-collection-wien-zentrum",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Savoyen",
+                    "hotel_link" : "https://www.austria-trend.at/en",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Atlantis",
+                    "hotel_link" : "https://www.artewien.aten/",
+                    "stars" : 4
+                 }
+            ],
+            "excursions":["City Tour & Schönbrunn#Following Sisi’s Footsteps#City Tour &Boatride#Vienna Woods – Mayerling#Romantic Danube Valley#Burgenland#Grinzing – Vienna Heurigenshow#Salzburg – Sound of Music#Budapest#Prague#Spanish Riding School#Mozart in Vienna#Mozart/Johann Strauss Concert#Operettas – Potpourri#Sound of Johann Strauss"],
+            "gallery" : ["https://kompas.net/images/city_stays/vienna/1 (1).png","https://kompas.net/images/city_stays/vienna/1 (2).png","https://kompas.net/images/city_stays/vienna/1 (3).png","https://kompas.net/images/city_stays/vienna/1 (4).png","https://kompas.net/images/city_stays/vienna/1 (5).png"]
+        },
+        {
+            "tour_name" : "Budapest, Hungary",
+            "short_description" : "Paris of the East",
+            "description": "Enchanting Budapest is one of Europe’s grandest cities. The mighty River Danube divides it into hilly Buda and Obuda, from where the many picturesque views are best and sprawling Pest on the eastern side. Lovely Castle Hill, the Danube embankments and Andrassy ut are all on UNESCO’s world heritage list, while Budapest is famous for its arts, culture, markets and nightlife. It’s also a great spot for shopping, both stylishly modern and quaint traditional.",
+            "features" : {
+                "included" : "Arrival transfer#2 nights hotel accommodation#Breakfast daily#Half day city tour#Entrance fees, service charges and local taxes",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Budapest",
+                    "day_summary": "Upon your arrival to Budapest you will be met and transferred to your hotel. The rest of the day is free for you to get to know the “Paris of the East.”"
+                },
+                {
+                    "day_headline" : "Day 2, Budapest",
+                    "day_summary" : "Our morning sightseeing tour includes all the main attractions: the Parliament, Royal Palace, Castle Hill area, Fisherman’s Bastion, Coronation Church, Hero’s Square and Gellert Hill. Balance of the day is at leisure."
+                },
+                {
+                    "day_headline": "Day 3, Budapest",
+                    "day_summary": "Stay ends this morning."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this City Stay, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "hotels" : [
+                {
+                    "hotel_name" : "Intercontinental Hotel",
+                    "hotel_link" : "https://www.ihg.com/intercontinental/hotels/gb/en/reservation",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Kempinski Corvinus",
+                    "hotel_link" : "https://www.kempinski.com/en/budapest/hotel-corvinus/welcome/",
+                    "stars" : 5
+                 },
+                 {
+                    "hotel_name" : "Mercure Korona",
+                    "hotel_link" : "https://mercure.accor.com/gb/europe/index.shtml",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Astoria",
+                    "hotel_link" : "https://www.danubiushotels.com/en/our-hotels-budapest/danubius-hotel-astoria",
+                    "stars" : 4
+                 },
+                 {
+                    "hotel_name" : "Hotel Ibis Heroes Square",
+                    "hotel_link" : "http://www.ibis.com/gb/northamerica/discovering-ibis-hotel/index.shtml",
+                    "stars" : 3
+                 }
+            ],
+            "excursions":["City Tour & Schönbrunn#Following Sisi’s Footsteps#City Tour &Boatride#Vienna Woods – Mayerling#Romantic Danube Valley#Burgenland#Grinzing – Vienna Heurigenshow#Salzburg – Sound of Music#Budapest#Prague#Spanish Riding School#Mozart in Vienna#Mozart/Johann Strauss Concert#Operettas – Potpourri#Sound of Johann Strauss"],
+            "gallery" : ["https://kompas.net/images/city_stays/vienna/1 (1).png","https://kompas.net/images/city_stays/vienna/1 (2).png","https://kompas.net/images/city_stays/vienna/1 (3).png","https://kompas.net/images/city_stays/vienna/1 (4).png","https://kompas.net/images/city_stays/vienna/1 (5).png"]
         }
     ]
 }
