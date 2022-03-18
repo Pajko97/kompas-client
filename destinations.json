@@ -2795,7 +2795,42 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "05/23/2022",
+                    "end_date" : "06/04/2022",
+                    "price_per_person_double" : 3416,
+                   "single_room_supplement" : 876
+                },
+                {
+                    "start_date" : "06/20/2022",
+                    "end_date" : "07/02/2022",
+                    "price_per_person_double" : 3366,
+                   "single_room_supplement" : 876
+                },
+                {
+                    "start_date" : "07/18/2022",
+                    "end_date" : "07/30/2022",
+                    "price_per_person_double" : 3289,
+                   "single_room_supplement" : 876
+                },
+                {
+                    "start_date" : "08/08/2022",
+                    "end_date" : "08/20/2022",
+                    "price_per_person_double" : 3289,
+                   "single_room_supplement" : 876
+                },
+                {
+                    "start_date" : "09/12/2022",
+                    "end_date" : "09/24/2022",
+                    "price_per_person_double" : 3416,
+                   "single_room_supplement" : 876
+                },
+                {
+                    "start_date" : "09/26/2022",
+                    "end_date" : "10/08/2022",
+                    "price_per_person_double" : 3416,
+                   "single_room_supplement" : 876
+                }
             ],
             "map" : "https://kompas.net/images/escorted_tours/helsinki_with_baltic/map.png",
             "hotels" : ["Helsinki: Hotel Clarion or similar#Tallinn: Park Inn by Radisson Meriton or similar#Riga: Radisson Blu Latvija  or similar#Vilnius: Radisson Blu Lietuva (F) or similar#Warsaw: Mercure Grand or similar#Krakow: Novotel Centrum or similar"
@@ -2849,7 +2884,66 @@
                 }
             ],
             "dates_pricing" : [
-                
+                {
+                    "start_date" : "05/07/2022",
+                    "end_date" : "05/14/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "05/21/2022",
+                    "end_date" : "05/28/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "06/04/2022",
+                    "end_date" : "06/11/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "06/18/2022",
+                    "end_date" : "06/25/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "07/02/2022",
+                    "end_date" : "07/09/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "07/30/2022",
+                    "end_date" : "08/06/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "08/20/2022",
+                    "end_date" : "08/27/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "09/10/2022",
+                    "end_date" : "09/17/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "09/24/2022",
+                    "end_date" : "10/01/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                },
+                {
+                    "start_date" : "10/08/2022",
+                    "end_date" : "10/15/2022",
+                    "price_per_person_double" : 2146,
+                   "single_room_supplement" : 826
+                }
             ],
             "map" : "https://kompas.net/images/escorted_tours/capitals_of_habsburg_empire/map.png",
             "hotels" : ["Prague: : Adria (F) or similar#Vienna: Hilton Vienna (SF) or similar#Budapest: Radisson Blu (F) or similar"
@@ -2923,17 +3017,24 @@
                 }
             ],
             "dates_pricing" : [{
-                "start_date" : "23/07/2022",
-                "end_date" : "25/07/2022",
-                "price_per_person_double" : "2389",
-               "single_room_supplement" : "1025"
+                "start_date" : "07/09/2022",
+                "end_date" : "07/21/2022",
+                "price_per_person_double" : 3715,
+               "single_room_supplement" : 1022
               },
               {
-                "start_date" : "23/07/2022",
-                "end_date" : "25/07/2022",
-                "price_per_person_double" : "2389",
-               "single_room_supplement" : "1025"
-              }],
+                "start_date" : "09/24/2022",
+                "end_date" : "10/06/2022",
+                "price_per_person_double" : 3804,
+               "single_room_supplement" : 1022
+              },
+              {
+                "start_date" : "10/29/2022",
+                "end_date" : "11/10/2022",
+                "price_per_person_double" : 3651,
+               "single_room_supplement" : 1022
+              }
+            ],
             "map" : "https://kompas.net/images/escorted_tours/elegance_culture_reconquista_spain/map.png",
             "hotels" : ["Madrid: Santos Agumar or similar#Santiago de Compostela: Gran Hotel Santiago or similar#Oviedo: Gran Hotel España or similar#Bilbao: Ercilla (F) or similar#Pamplona: Maisonnave (F) or similar#Barcelona: EXE Cristal Palace or similar"
             ],
@@ -3619,6 +3720,1533 @@
             ],
             "excursions":["City Tour & Schönbrunn#Following Sisi’s Footsteps#City Tour &Boatride#Vienna Woods – Mayerling#Romantic Danube Valley#Burgenland#Grinzing – Vienna Heurigenshow#Salzburg – Sound of Music#Budapest#Prague#Spanish Riding School#Mozart in Vienna#Mozart/Johann Strauss Concert#Operettas – Potpourri#Sound of Johann Strauss"],
             "gallery" : ["https://kompas.net/images/city_stays/vienna/1 (1).png","https://kompas.net/images/city_stays/vienna/1 (2).png","https://kompas.net/images/city_stays/vienna/1 (3).png","https://kompas.net/images/city_stays/vienna/1 (4).png","https://kompas.net/images/city_stays/vienna/1 (5).png"]
+        }
+    ],
+    "customized_groups" :[
+        {
+            "tour_name" : "Bespoke Tour Beyond Dracula",
+            "short_description" : "6-day tour from Bucharest to Cozia, Sibiu, Biertan, Sighisoara, Brasov, Bran, Targoviste, Snagov, and back to Bucharest",
+            "description": "Welcome to Romania, a dynamic country rich in history, arts and scenic beauty. Romania offers countless unique travel experiences for you to discover. This journey will take you from the capital Bucharest to Medieval towns, to perfectly preserved hilltop citadel of Sighisoara, a UNESCO World Heritage site to beautiful Brasov, founded by the Teutonic Knights in 1211 and to Sibiu’s like Sighisoara and Brasov, who has a distinctly Germanic look, built in the 12th century by German settlers known as Transylvanian Saxons. Explore Romania’s many architectural treasures and experience its vibrant and flourishing arts scene. Discover Bucharest, Romania’s capital city, also known as the “Little Paris of the East” founded in the year 1459 on the banks of the Dambovita River by ruler Vlad the Impaler. Though Dracula is a purely fictional creation, Stoker named his infamous character after a real person who happened to have a taste for blood: Vlad III, Prince of Wallachia or, as he is better known, Vlad the Impaler.",
+            "features" : {
+                "included" : "Selected class hotels, rooms with private facilities#Breakfast daily#Service charges and hotel taxes#Private transfers as per below itinerary#Private sightseeing tours as per itinerary, with English speaking certified local guides#Entrance fees are included: Curtea de Arges Monastery, Biertan Fortified church, Bran Castle, Rasnov Citadel, Targoviste Princely court, Snagov Monastery",
+                "tour_spotlights" : [],
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, Bucharest",
+                    "day_summary": "Arrival at the International Airport Otopeni where you will be greeted by your English-speaking guide. Further private transfer to Bucharest hotel. Start the private tour with the Victoria Square where the Romanian government has its seat, down the Victoria Boulevard with its Belle Epoque buildings an continue to the Revolution Square where Nicolae Ceausescu was toppled during the 1989 Romanian Revolution. During the tour you will also see the University Square, the Romanian Opera House, the Unirii Square built during Ceausescu’s rule and the Constitution Square with the Parliament Palace which is the second largest building in the world after the Pentagon. Evening you will have a stroll through the oldest district of Bucharest, known as Lipscani, which now houses  lots of popular cafes and restaurants and listen about the founding of this city by Vlad Dracul. Overnight."
+                },
+                {
+                    "day_headline" : "Day 2, Bucharest – Cozia – Sibiu",
+                    "day_summary" : "After breakfast we will drive along the Wallachian plains towards the historical region of Transylvania and on the way stop in Curtea de Arges which was the first capital of Wallachia, certified since 1330. The Princely Court was built at the middle of the 13th century and restored in 1340. The Episcopal Church, one of the most famous monuments of architecture from Walachia, better known under the name of the Arges Court Monastery, was built between 1512-1517. Continue to the Cozia Monastery, one of the earliest Medieval edifices of great importance in Wallachian History. Some original frescoes are still very well preserved and inside the church you find the tomb of the ruler who built the monastery in the year 1388, Mircea cel Batran who was the grandfather of Vlad the Impaler. Cross the Carpathian Mountains North along the scenic Olt Valley into Transylvania and continue to the village of Sibiel, founded during Medieval Times by Wallachian shepherds, where you will serve dinner at a local farmhouse with traditional dishes. After enjoying the hospitality of the local you will drive to today’s final destination, the city of Sibiu, which was European capital of Culture In the year 2007. (B,D)"
+                },
+                {
+                    "day_headline": "Day 3, Sibiu – Biertan – Sighisoara – Brasov",
+                    "day_summary": "Sibiu built in the 12th century and was protected by walls and brick towers, the buildings were joined by tunnels and narrow passageways, with heavily grated windows to cover the stairways and corners where intruders might be ambushed. Everywhere you look, there is evidence of Sibiu’s historical past. Enjoy a walking tour during which you will see the baroque style Roman Catholic Cathedral, the Evangelical Cathedral, the Liar’s bridge and the Old Squares.Continue your journey to Biertan to visit the local fortified church which is one of Romania’s most important historical and architectural monuments, being included in the UNESCO list of World Heritage. It was built in the place of an old basilica at the end of the 15th century with architectural elements from the late-Gothic and Renaissance style while from 1572 to 1867 was the seat of the Lutheran Evangelical Bishop. Next you will stop in Sighisoara, an inhabited medieval city which is part of the UNESCO World Heritage. In the architectonic fortress, situated on a hill, there are 14 towers out of which the most impressive and famous is the 64 m high “Clock-Tower”. You will see the Church on the Hill, the Covered Stairs, the Venetian House and the “House with the Deer”, “Casa Vlad Dracul” where the famous Prince Vlad Tepes was presumably born. Continue to Brasov, city founded in the year 1211 by the Teutonic Knights. Overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 4, Brasov – Bran – Rasnov – Brasov",
+                    "day_summary": "Morning walking tour in the old center seeing among others the Council Square with the former city hall, the city’s defenses, the St. Nicholas Church with the First Romanian School and the Black Church which is the largest Gothic style edifice in Eastern Europe. Continue to Bran to visit the castle made famous by Bram Stoker’s novel as the residence of the vampire count Dracula. In fact, this castle has been erected on a hill to guard the trade route between Transylvania and Wallachia. On the way back to Brasov you will stop in Rasnov where you can view the largest rural fortress in the country being built on a rocky hill around 1215 by the Teutonic Knights. It was meant to be a place of refuge for the commoners from sieges over long periods of time and thus it also had a school, a chapel and almost 30 houses. Remainder of the day free time in Brasov and overnight. (B)"
+                },
+                {
+                    "day_headline": "Day 5, Brasov – Targoviste – Snagov – Bucharest",
+                    "day_summary": "Cross the Carpathians back South into Wallachia and transfer to Targoviste which was the former Wallachian capital city. Here we will visit in the museum complex “the Princely Court” the Chindia tower which has been built by Vlad the Impaler during his second reign for military purposes. The defensive tower is 27 meters high and has a diameter of 9 meters. Late evening, we will reach Romania’s Capital city of Bucharest, formerly known as the “Little Paris of the East”, which was founded in the year 1459 on the banks of the Dambovita River by ruler Vlad the Impaler. Next head to the Snagov Monastery, a rustic cloister from 1364, on a small isolated island in the middle of Snagov Lake, is the reputed burial place of Vlad Tepes, also known as Dracula, who, it is claimed, lies beneath the floor of the church. Don’t let yourself be taken in by the imposing forest and the nice lake surrounding the island or by the generous architecture of the monastery. The secrets are there and when the strong winds rummage the deep waters the frightful sound of ringing bells of the old sunk church (built here by Vlad the Impaler’s grandfather, Mircea Cel Batran) reveal them to a cautioned ear. The island and the monastery witnessed throughout the centuries lots of crimes and dramas. Transfer to Bucharest and free time at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 6, Departure",
+                    "day_summary": "Breakfast at the hotel, time at leisure after which you will be transferred to the International Airport Bucharest for the departure flight. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "https://kompas.net/images/customized/romania_dracula/map.png",
+            "hotels" : [
+                {
+                    "hotel_name" : "Bucharest: Cismigiu hotel or similar",
+                    "hotel_link" : "https://www.hotelcismigiu.ro/en/"
+                 },
+                 {
+                    "hotel_name" : "Sibiu: Continental Forum hotel or similar",
+                    "hotel_link" : "https://continental-forum-sibiu.continentalhotels.ro/en"
+                 },
+                 {
+                    "hotel_name" : "Brasov: Aro Palace hotel or similar",
+                    "hotel_link" : "https://aro-palace.ro/?lang=en"
+                 }
+            ],
+            "gallery" : ["https://kompas.net/images/customized/romania_dracula/1 (1).png","https://kompas.net/images/customized/romania_dracula/1 (2).png","https://kompas.net/images/customized/romania_dracula/1 (3).png","https://kompas.net/images/customized/romania_dracula/1 (4).png","https://kompas.net/images/customized/romania_dracula/1 (5).png"]
+        },
+        {
+            "tour_name" : "Food & Ski Tour in Slovenia",
+            "short_description" : "10-day small group program - experience food & skiing in Slovenia",
+            "description": "",
+            "features" : {
+                "included" : "Centrally located 4-star and 3-star superior hotels#Tourist taxes#Buffet breakfast daily#All transfers as per program#Skipass for 6 days (sports gear included)",
+                "special" : "One bottle of wine in your hotel in Bovec#Schnapps tasting#Bled cream cake#Food tour in Ljubljana#Early dinner at a local tourist farm",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive Venice, Sunday",
+                    "day_summary": "Upon arrival in Venice, you will be met and transferred to your hotel. The rest of the day is free to relax or to begin exploring."
+                },
+                {
+                    "day_headline" : "Day 2, Venice, Monday",
+                    "day_summary" : "We begin our exploration of Venice at St. Mark’s Square, for the walking tour, visiting St. Mark’s Basilica and the Doge’s Palace, and enjoying views of the Bell Tower and Bridge of Sighs. The optional gondola ride is available (additional cost). The balance of the day is at leisure to enjoy Venice at your own pace. (B)"
+                },
+                {
+                    "day_headline": "Day 3, Venice – Bovec, Tuesday",
+                    "day_summary": "Continue to Bovec. Upon arrival a short tour of the area where you will hear about local legends and stories, followed by schnapps tasting. (B)"
+                },
+                {
+                    "day_headline": "Day 4, in Bovec, Wednesday",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 5, in Bovec, Thursday",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 6, in Bovec, Friday",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 7, Bovec – Bled – Ljubljana, Saturday",
+                    "day_summary": "Continue to Bled, beautifully set in the Julian Alps. A sightseeing tour shows you the highlights of this charming town on the shores of Lake Bled. You’ll also visit imposing Bled Castle, perched on a cliff high above the lake. We will return to the lake shore and taste the famous Bled cream cake. Continue to Ljubljana, the capital of Slovenia. (B)"
+                },
+                {
+                    "day_headline": "Day 8, in Ljubljana, Sunday",
+                    "day_summary": "Taste your way through Ljubljana on a culinary walking tour. Explore the lovely Old Town and experience a variety of traditional foods and local beer and wine. The afternoon is at leisure. (B)"
+                },
+                {
+                    "day_headline": "Day 9, Ljubljana to Nova Gorica, Monday",
+                    "day_summary": "Your first stop is at the Postojna Cave, one of the largest in Europe. Tour this unique subterranean world by miniature electric train. Continue to the hilly region of Goriška Brda. Discover the charming town of Smartno and have a delicious early dinner at a local tourist farm. Overnight in Nova Gorica. (B, D)"
+                },
+                {
+                    "day_headline": "Day 10, depart Ljubljana or Venice, Tuesday",
+                    "day_summary": "After breakfast, you will be transferred to Ljubljana or Venice airport for your flight home. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "https://kompas.net/images/customized/food_ski_slovenia/map.png",
+            "hotels" : [
+                {
+                    "hotel_name" : "Venice: Carlton on the Grand Canal",
+                    "hotel_link" : "https://www.carltongrandcanal.com/hotel/"
+                 },
+                 {
+                    "hotel_name" : "Bovec: Hotel Alp",
+                    "hotel_link" : "https://hotel-alp-bovec.com/en/"
+                 },
+                 {
+                    "hotel_name" : "Ljubljana: Grand Hotel Union",
+                    "hotel_link" : "https://www.uhcollection.si/grand-hotel-union/our-story"
+                 },
+                 {
+                    "hotel_name" : "Nova Gorica: Perla",
+                    "hotel_link" : "https://thecasinoperla.com/en/hotel-spa"
+                 }
+            ],
+            "location" : "Bovec#A small town at the threshold of Triglav national park, surrounded by the high peaks of Julian Alps, the center of outdoor activities, is particularly inviting with a colorful array of sports adventures.#Kanin Ski Resort#Kanin – Sella Nevea offers skiers and snowboards a very special experience. Most of the slopes are more suitable for experienced skiers, however, both sides of the ski area also offer flatter terrain for beginners.",
+            "gallery" : ["https://kompas.net/images/customized/food_ski_slovenia/1 (1).png","https://kompas.net/images/customized/food_ski_slovenia/1 (2).png","https://kompas.net/images/customized/food_ski_slovenia/1 (3).png","https://kompas.net/images/customized/food_ski_slovenia/1 (4).png","https://kompas.net/images/customized/food_ski_slovenia/1 (5).png"]
+        },
+        {
+            "tour_name" : "Ski & SPA in Slovenia & Croatia",
+            "short_description" : "10-day program for skiing adventures in Bovec and SPA experience in Ljubljana & Opatija",
+            "description": "",
+            "features" : {
+                "included" : "Centrally located 4-star and 3-star superior hotels#Tourist taxes#Buffet breakfast daily#One bottle of wine in your hotel in Bovec#All transfers as per program#Skipass for 6 days (sports gear included)#Complimentary visit of saunas and swimming pools#Wine, cheese and prosciutto tasting in Istria",
+                "special" : "",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive Venice (Mestre)",
+                    "day_summary": "Upon arrival in Venice, you will be met and transferred to your hotel. The rest of the day is free to relax or to begin exploring."
+                },
+                {
+                    "day_headline" : "Day 2, Venice – Bovec",
+                    "day_summary" : "Continue to your hotel in Bovec. You can relax in one of the saunas: Finnish, infrared, and steam bath. (B)"
+                },
+                {
+                    "day_headline": "Day 3, in Bovec",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 4, in Bovec",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 5, in Bovec",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 6, Bovec – Bled – Ljubljana",
+                    "day_summary": "Continue to Bled, beautifully set in the Julian Alps. An Alpine lake surrounded by high peaks, Bled was “discovered” by travelers in the middle of the 19th century. Since then, a small town of hotels, villas, and restaurants has developed around the lake, turning Bled into a lively, all-seasons resort. Free time to stroll around the lake, then continue to Ljubljana, the capital of Slovenia. Upon arrival at your hotel, relax at the hotel’s wellness center, with swimming, Finnish/bio and infrared saunas (included in your price). (B)"
+                },
+                {
+                    "day_headline": "Day 7, Ljubljana – Opatija",
+                    "day_summary": "Leaving Ljubljana behind, you will continue to Opatija. En-route we will stop in two Istrian villages for a wine tasting and savor local produce such as cheese and prosciutto. (B)"
+                },
+                {
+                    "day_headline": "Day 8, in Opatija",
+                    "day_summary": "Full day at leisure to enjoy spa and relaxation. (B)"
+                },
+                {
+                    "day_headline": "Day 9, in Opatija",
+                    "day_summary": "Full day at leisure to enjoy spa and relaxation. (B)"
+                },
+                {
+                    "day_headline": "Day 10, depart from Ljubljana or Venice",
+                    "day_summary": "After breakfast, you will be transferred to Ljubljana or Venice airport for your flight home. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                {
+                    "hotel_name" : "Venice-Mestre: Hilton Garden Inn Venice Mestre San Giuliano",
+                    "hotel_link" : "https://www.hilton.com/en/hotels/vcegigi-hilton-garden-inn-venice-mestre-san-giuliano/"
+                 },
+                 {
+                    "hotel_name" : "Bovec: Hotel Alp",
+                    "hotel_link" : "https://hotel-alp-bovec.com/en/"
+                 },
+                 {
+                    "hotel_name" : "Ljubljana: Grand Hotel Union",
+                    "hotel_link" : "https://www.uhcollection.si/grand-hotel-union/our-story"
+                 },
+                 {
+                    "hotel_name" : "Opatija: Amadria Park Grand Hotel 4 opatijska cvijeta",
+                    "hotel_link" : "https://www.amadriapark.com/hotel/amadria-park-grand-hotel-4-opatijska-cvijeta-opatija-beach-family-hotel"
+                 }
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/ski_spa_slovenia/1 (1).png","https://kompas.net/images/customized/ski_spa_slovenia/1 (2).png","https://kompas.net/images/customized/ski_spa_slovenia/1 (3).png","https://kompas.net/images/customized/ski_spa_slovenia/1 (4).png","https://kompas.net/images/customized/ski_spa_slovenia/1 (5).png"]
+        },
+        {
+            "tour_name" : "Ski Break in Slovenia",
+            "short_description" : "8-day program for skiing adventures in Bovec, Slovenia",
+            "description": "",
+            "features" : {
+                "included" : "Centrally located 3-star superior hotel#Tourist taxes#Buffet breakfast daily#One bottle of wine in your hotel in Bovec#Airport transfers#Skipass for 6 days (sports gear included)",
+                "special" : "",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1, arrive Ljubljana or Venice",
+                    "day_summary": "Upon arrival in Venice or Ljubljana, you will be met and transferred to your hotel in Bovec. The rest of the day is free to relax or to begin exploring."
+                },
+                {
+                    "day_headline" : "Day 2, in Bovec",
+                    "day_summary" : "Continue to your hotel in Bovec. You can relax in one of the saunas: Finnish, infrared, and steam bath. (B)"
+                },
+                {
+                    "day_headline": "Day 3, in Bovec",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 4, in Bovec",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 5, in Bovec",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 6, in Bovec",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 7, in Bovec",
+                    "day_summary": "Full day at leisure for your skiing adventures. (B)"
+                },
+                {
+                    "day_headline": "Day 8, depart Ljubljana or Venice",
+                    "day_summary": "After breakfast, you will be transferred to Ljubljana or Venice airport for your flight home. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                 {
+                    "hotel_name" : "Bovec: Hotel Alp or Sanje ob Soci",
+                    "hotel_link" : ["https://hotel-alp-bovec.com/en/","https://sanjeobsoci.com/?lang=en"]
+                 }
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/ski_break_slovenia/1 (1).png","https://kompas.net/images/customized/ski_break_slovenia/1 (2).png","https://kompas.net/images/customized/ski_break_slovenia/1 (3).png","https://kompas.net/images/customized/ski_break_slovenia/1 (4).png","https://kompas.net/images/customized/ski_break_slovenia/1 (5).png"]
+        },
+        {
+            "tour_name" : "Wonders of Slovenia & Croatia",
+            "short_description" : "13 days: Ljubljana – Postojna – Bled – Zagreb – Plitvice – Split – Dubrovnik – Montenegro",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Postojna Caves – world-famous cave system#Plitvice Lakes – listed by UNESCO#Island of Korcula – birthplace of the adventurer and traveller Marco Polo#Dubrovnik, a UNESCO World Heritage site#Traditional food and local wines, including lobster dinner and oyster tasting",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Ljubljana",
+                    "day_summary": "You will be met at Ljubljana airport and transferred to a selected hotel."
+                },
+                {
+                    "day_headline" : "Day 2: Ljubljana – Postojna – Nova Gorica",
+                    "day_summary" : "After breakfast, city tour of Ljubljana with its open air market, City Hall, Three Bridges and the Parliament. After lunch, we take you to the world-famous and biggest Slovenian cave system – the Postojna Caves, and Predjama Castle, hanging dramatically in the middle of a rocky cliff. Continue to Nova Gorica to gamble your night away at Casino. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Nova Gorica – Kobarid – Kranjska Gora",
+                    "day_summary": "After breakfast, drive through the wonderful valley of the Soca river to Kobarid, where you will visit the stunning First World War museum. Afterwards your journey takes you over the mountain pass of Vrsic, where you can enjoy breathtaking panoramic views of the valley, to the picturesque alpine resort of Kranjska Gora. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Kranjska Gora – Bohinj – Bled",
+                    "day_summary": "Continue to Bled, the pearl of the Alpine region, with its magnificent lake. After a bus ride around the lake, a guided tour of Bled castle will start. Then you will be taken by a special Bled “pletna” boat to the island. Afterwards, you visit Lake Bohinj and Mt. Vogel above it. From here you can have a view of the highest Slovene peak, Mt. Triglav. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Bled – Zagreb",
+                    "day_summary": "Afternoon drive to Skofja Loka, and follow its narrow streets from the 15th century. Afterwards, you will be transferred to Zagreb. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Zagreb – Plitvice",
+                    "day_summary": "Experience the past and present of Zagreb by passing through the streets of the Lower and Upper Town, by visiting the famous arcades and sculptures in Mirogoj Park Cemetery, by entering Zagreb Cathedral, or by taking in the everyday lively atmosphere of Dolac Market. Continue to Plitvice National Park, protected by UNESCO. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Plitvice – Trogir – Split",
+                    "day_summary": "After we reach the coast, we have lunch in Trogir. The heart of this beautiful city full of history is a small islet lying between gentle hills on the mainland and the coast of the island of Ciovo. Afterwards, we continue to Split. We tour the 3rd century Diocletian Palace, where we visit the cellars, the Peristyle, the Golden and Silver Gates, the Cathedral, the Temple of Jupiter and other historical sights. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 8: Split – Korcula island",
+                    "day_summary": "We take a ferry ride to the island of Korcula, known for its beauty and for being the birth place of the world’s most famous traveler, Marco Polo. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Korcula island",
+                    "day_summary": "After breakfast, we will take you through the old town of Korcula.The beautifully preserved main town is undoubtedly the main highlight of this lush green Adriatic island, with its cluster of lovely beaches. After lunch at a local restaurant, we take you to a boat ride. Leaving the town of Korcula behind, we sail towards the Korcula archipelago, consisting of some twenty islands and islets. Badija, with its 15th century monastery; Vrnik, famous for its two quarries, and Majsan with prehistoric remains, are among the best known islands in the archipelago. Most of the islands are uninhabited, boasting lush vegetation and a crystal clear sea. The boat takes you to the town of Lumbarda in a picturesque cove, where the summer residences of former patrician families can be seen. Enjoy fresh lobster at a local restaurant. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 10: Korcula island – Dubrovnik",
+                    "day_summary": "Morning ride by ferry and coach to Dubrovnik, with a short stop at the town of Ston. After a snack in a Dalmatian cellar, we continue to Dubrovnik. A pleasant walk through the old part of Dubrovnik will show you the city’s highlights, its exceptional beauty and rich cultural heritage. (B, D)"
+                },
+                {
+                    "day_headline": "Day 11: Dubrovnik",
+                    "day_summary": "We begin the the morning with a walking tour of the city, which is on UNESCO’s List of Cultural Heritage. This ancient town surrounded by ramparts and fortresses is a treasure trove of architectural and cultural master places, scrupulously preserved over the centuries. A pleasant walk will take you to the Rector’s Palace, the Franciscan Monastery with its pharmacy, as well as to the other places of interest. Lunch and afternoon free. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 12: Dubrovnik – Montenegro",
+                    "day_summary": "Hardly one hour from Dubrovnik, the neighboring country of Montenegro provides incomparable natural beauties and an abundance of historical sites. Our drive takes us to the mouth of the Bay of Kotor and along the curving road through the towns of Risan and Perast to Kotor. Our descent from the heights will take us to Cetinje, the former seat of Montenegro’s ruler, today a city museum. Afterwards, we return to the coast with a short stop above Sveti Stefan and Budva. Our return drive to Dubrovnik will be shortened by a ferry ride across the bay. (B, D)"
+                },
+                {
+                    "day_headline": "Day 13: Dubrovnik",
+                    "day_summary": "After breakfast, transfer to Dubrovnik airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "https://kompas.net/images/customized/wonders_of_slovenia_croatia/map.png",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/wonders_of_slovenia_croatia/1 (1).png","https://kompas.net/images/customized/wonders_of_slovenia_croatia/1 (2).png","https://kompas.net/images/customized/wonders_of_slovenia_croatia/1 (3).png","https://kompas.net/images/customized/wonders_of_slovenia_croatia/1 (4).png","https://kompas.net/images/customized/wonders_of_slovenia_croatia/1 (5).png"]
+        },
+        {
+            "tour_name" : "The Best of Bulgaria",
+            "short_description" : "8 days: Sofia – Plovdiv – Kazanlak – Shipka Pass – Tryavna – Arbanassi – Sofia",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Sofia, Rila Monastery, Plovdiv, Bachkovo Monastery, Kazanlak, Shipka Pass, Tryavna, Veliko Turnovo, Arbanassi#Typical Bulgarian delicacies at local restaurants",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Sofia",
+                    "day_summary": "Arrival in Sofia, transfer to selected hotel and overnight."
+                },
+                {
+                    "day_headline" : "Day 2: Sofia",
+                    "day_summary" : "Sightseeing tour of 7000-year-old Sofia, exploring many of the fine cultural and historical monuments, including the lovely Nevsky Cathedral, with its rich icon collection, the fabulous 4th century St George’s Rotunda, St Sofia’s Basilica and the ruins of Serdica. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Sofia – Plovdiv",
+                    "day_summary": "A visit to the 10th century UNESCO World Heritage Rila Monastery, Bulgaria’s largest and most impressive monastery, with a lavish collection of precious antiquities, then on to Plovdiv via Rila, the highest Bulgarian mountain. Overnight in Plovdiv. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Plovdiv – Kazanlak",
+                    "day_summary": "Sightseeing in ancient Plovdiv, with superb architecture and fine Roman ruins, such as the amphitheatre, with impressive marble statues, decorative columns and arcades. On to the 11th century Bachkovo Monastery and Kazanlak in the famous Rose Valley. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Kazanlak – Shipka Pass – Tryavna",
+                    "day_summary": "Visit the newly discovered Thracian golden treasures in Kazanlak Museum. On to Golyamata Kosmatka Tomb and the UNESCO World Heritage 4th century BC Thracian Tomb, then on to lovely Tryavna, via the historical Shipka Pass. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Tryavna – Veliko Turnovo",
+                    "day_summary": "Walking tour of Tryavna, featuring 17th century vaulted stone bridges, houses, churches and a square with a clocktower. Sightseeing of the royal city of Veliko Turnovo and gorgeous Tsarevets Hill, with amazing views and dramatic medieval fortifications. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Veliko Turnovo – Arbanassi – Sofia",
+                    "day_summary": "After an overnight in Veliko Turnovo, on to the museum town of Arbanassi, boasting a fantastic gallery of art in its Church of the Nativity. Return to Sofia. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Sofia",
+                    "day_summary": "Breakfast, followed by transfer to Sofia airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "https://kompas.net/images/customized/best_of_bulgaria/map.png",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/best_of_bulgaria/1 (1).png","https://kompas.net/images/customized/best_of_bulgaria/1 (2).png","https://kompas.net/images/customized/best_of_bulgaria/1 (3).png","https://kompas.net/images/customized/best_of_bulgaria/1 (4).png","https://kompas.net/images/customized/best_of_bulgaria/1 (5).png"]
+        },
+        {
+            "tour_name" : "The Art Circle Tour",
+            "short_description" : "8 days: Rome – Assisi – Siena – Florence - Padua – Venice – Verona – Lake Como – Milan – San Marino - Perugia – Rome",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Vatican and Ancient Rome#Wonderful Assisi#Siena’s historic centre#Glorious Florence#Padua, a city of fine basilicas and piazzas#World-famous Venice#Milan, famous for fashion and architecture#Bologna#Mountainous San Marino#Fascinating, atmospheric Perugia",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Rome",
+                    "day_summary": "After arrival in Rome, our sightseeing tour will take us on a visit to the Vatican and Ancient Rome. Transfer to a selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Rome – Assisi – Siena – Florence",
+                    "day_summary" : "We leave Rome for lovely walled Assisi, hometown of St. Francis. We visit the St Francis Basilica with early Renaissance masterpieces by Giotto and Cimabue. We continue to Siena, the beautiful medieval city famous for its Romanesque architecture, and then on to glorious Florence. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Florence",
+                    "day_summary": "A morning guided sightseeing tour of the cradle of the Renaissance to see its best sights, including the Piazza del Duomo, the Cathedral of Santa Maria del Fiore, Giotto’s Bell Tower, the Baptistery of St. John and much more. The rest of the day is free for optional sightseeing or shopping. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Florence – Padua – Venice",
+                    "day_summary": "We visit fabulous Padua to see the famous Cathedral of St. Anthony, protected by Donatello’s ‘Gattamelata’, then go on to world-famous Venice to enjoy a guided walking tour of this unique city. You will see the stunning St. Mark’s Piazza and Basilica, the Doge’s Palace and the Bridge of Sighs, then visit a glass factory to see glass moulding. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Venice",
+                    "day_summary": "After breakfast, a free day to further explore the wonders of Venice, or take an optional tour to the attractive islands of Murano, Burano and Torcello by motor-launch. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Venice – Verona – Lake Como",
+                    "day_summary": "Morning departure for spectacular Verona to see the town of Romeo and Juliet, famous for the lovely Piazza delle Erbe, Roman Arena and Castelvecchio Bridge. Our tour then continues to pretty Como on the shore of the lake of the same name. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Lake Como – Milan – San Marino",
+                    "day_summary": "Today, we head for beautiful Milan and a panoramic tour of the city’s sights, then on to fascinating medieval Bologna, one of Italy’s most important art cities, with its charming Piazza Maggiore and Piazza del Nettuno. Proceed to San Marino, the world’s oldest independent republic. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: San Marino – Perugia – Rome",
+                    "day_summary": "We go to Perugia, a charming university town, with a splendid atmosphere, to visit the impressive Cathedral and the Palazzo dei Priori. Proceed to Rome, where our tour comes to an end. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "https://kompas.net/images/customized/art_circle_tour/map.png",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/art_circle_tour/1 (1).png","https://kompas.net/images/customized/art_circle_tour/1 (2).png","https://kompas.net/images/customized/art_circle_tour/1 (3).png","https://kompas.net/images/customized/art_circle_tour/1 (4).png","https://kompas.net/images/customized/art_circle_tour/1 (5).png"]
+        },
+        {
+            "tour_name" : "Slovenia Wine Tour",
+            "short_description" : "8 days: Ljubljana – Bled – Goriska Brda – Portoroz – Maribor – Ptuj – Bizeljsko – Ljubljana",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Goriska Brda – “Slovenian Tuscany” hills#Vina Koper wine cellar famous for the refosco wines#Lipica stud farm with Lipica white horses#Maribor Vinag wine cellar and Jeruzalem vineyard hills#Rogaska crystal factory#Olimje monastery with one of the oldest pharmacies in Europe",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Ljubljana",
+                    "day_summary": "Upon arrival to Ljubljana airport you will be met and transferred to Bled. Some free time before evening transfer to Radovljica for visiting Apean museum and welcome dinner at a local restaurant starting with wine tasting at their wine cellar. Overnight in Bled. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Bled – Kobarid – Goriska Brda",
+                    "day_summary" : "Today visit Bled castle and take the typical “pletna” boat to the island in the middle of the lake. Then continue to Kranjska Gora and Kobarid where you will visit the stunning First World War museum. We will travel to Goriska Brda region for dinner with wine tasting in typical tourist farm. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Goriska Brda – Portoroz",
+                    "day_summary": "Start you day with the visit of this hilly region: first stop in Gonjace and climb up a panoramic tower to see the »Slovenian Tuscany » hills… and then to Smartno typical village and to Dobrovo castle. Continue the discovery of this region with visiting the big industrial Goriska Brda wine cellar with wine tasting and then to a local tourist farm – enjoy late lunch with wines. In the afternoon continue to Portoroz. (B, L)"
+                },
+                {
+                    "day_headline": "Day 4: Portoroz – Karst – Maribor",
+                    "day_summary": "Enjoy a sightseeing tour of Piran and Koper where we will visit the Vina Koper wine cellar famous for the refosco wines. After wine tasting continue to Lipica stud farm and see the Lipica white horses. Afterwards visit one of the best teran wine producers near Dutovlje with wine tasting. Continue to Maribor. Today’s dinner will be in a local restaurant. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Maribor – Ptuj",
+                    "day_summary": "Sightseeing tour of Maribor and Vinag wine cellar with wine tasting.Then continue to Ptuj and visit the castle in the Old town. In the evening drive to Jeruzalem hill for dinner with wines at local “gostilna”.Overnight in Maribor. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Bizeljsko – Dolenjsko",
+                    "day_summary": "Morning drive through Bizeljsko vineyards to Novo Mesto. Our first stop will be in Rogaska Slatina, where you will visit Rogaska crystal factory, then on to Olimje monastery – one of the oldest pharmacies in Europe, and continue to a local “repnica”, a typical local wine and harvest cellar unique to Bizeljsko region. We will continue to Istenic champagne cellar before reaching our hotel in Smarjeske spas. Dinner on Trska gora “zidanica” with some musical entertainment. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Ljubljana",
+                    "day_summary": "Morning free for enjoying spa facilities at your hotel, then a visit of a typical homestead like “Matjazeva domacija” to learn about cvicek most typical Dolenjsko region wine with tasting. Continue to Ljubljana where in the afternoon we will have a short city tour before farewell dinner in a local restaurant. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Ljubljana",
+                    "day_summary": "After breakfast, transfer to Ljubljana airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "https://kompas.net/images/customized/slovenia_wine_tour/map.png",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/slovenia_wine_tour/1 (1).png","https://kompas.net/images/customized/slovenia_wine_tour/1 (2).png","https://kompas.net/images/customized/slovenia_wine_tour/1 (3).png","https://kompas.net/images/customized/slovenia_wine_tour/1 (4).png","https://kompas.net/images/customized/slovenia_wine_tour/1 (5).png"]
+        },
+        {
+            "tour_name" : "Slovenian Pearls through Golf Playing",
+            "short_description" : "8 days: Ljubljana – Volcji Potok – Bled – Postojna – Catez – Ptuj",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Golf in the beautiful Slovenian countryside#Traditional food and tasting of excellent Slovenian wines",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Ljubljana",
+                    "day_summary": "You will be met and transferred to a selected hotel. The rest of the day at leisure."
+                },
+                {
+                    "day_headline" : "Day 2: Ljubljana – Volcji Potok – Ljubljana",
+                    "day_summary" : "Our morning walking tour of Ljubljana is highlighted by visits to the Franciscan Church, Three Bridges, St. Nicholas’ Church and Ljubljana Castle. After a delicious lunch, departure for the Volcji Potok Arboretum, where you can play golf. Return to Ljubljana. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 3: Ljubljana – Bled",
+                    "day_summary": "After breakfast, departure for the alpine town of Bled. We visit Bled Castle and the lake and have a “pletna” boat ride to the island in the lake. After lunch, visit Bled Country Club to play golf. After the game, check-in at a hotel in Bled. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Bled – Bovec – Nova Gorica",
+                    "day_summary": "We depart for Bovec, a town in a valley below the Julian Alps. Rafting on the beautiful emerald Soca River is organised: For guests who don’t want to join rafting, an optional tour is organized, such as hiking or a visit to a museum. Lunch and proceed to Nova Gorica for evening entertainment in the Casino. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 5: Nova Gorica – Postojna – Mokrice – Catez",
+                    "day_summary": "Our journey continues to Postojna, where we will stop to enjoy the Postojna Caves. Lunch at a local restaurant, with a Karst prosciutto menu. Proceed to Mokrice for golf at Mokrice Castle. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 6: Mokrice – Olimje",
+                    "day_summary": "Proceed to Olimje. Visit the chocolate factory. Tasting typical local wine. Lunch at a local restaurant, with a menu of mountain deer specialties. The afternoon is reserved for golf and for relaxation at Olimje Spa. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 7: Olimje – Ptuj – Slovenske Konjice",
+                    "day_summary": "After breakfast, proceed to the town of Ptuj for sighseeing. After lunch at Slovenske Konjice, a game of golf. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Slovenske Konjice",
+                    "day_summary": "After breakfast, proceed to Ljubljana airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/slovenian_pearls_golf/1 (1).png","https://kompas.net/images/customized/slovenian_pearls_golf/1 (2).png","https://kompas.net/images/customized/slovenian_pearls_golf/1 (3).png","https://kompas.net/images/customized/slovenian_pearls_golf/1 (4).png","https://kompas.net/images/customized/slovenian_pearls_golf/1 (5).png"]
+        },
+        {
+            "tour_name" : "Secrets of Serbian Monasteries",
+            "short_description" : "7 days: Belgrade – Manasija – Ravanica – Ljubostinja – Vrnjacka banja – Zica – Studenica – Sopocani – Novi Pazar – Milesevo – Zlatibor",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Secrets of Belgrade with its Bohemian quarter#Numerous monasteries with specific nature",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Belgrade",
+                    "day_summary": "You will be met and transferred to selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Belgrade",
+                    "day_summary" : "During the sightseeing tour we visit the most important sights of this lively capital. The most preserved is the core of Belgrade’s fort – Kalemegdan with its numerous walls, towers, bridges and passages. Kalemegdan as we know today, is a National Park, where you can among other sights also find a rich military museum. Close follows the cathedral “Saborna crkva” and the aristocratic mansion Konak. During the tour we also visit St. Sava temple – the big orthodox temple, the republic square, Slavija – square, the National theatre, St. Marco church, the National museum, Knez Mihajlova Street, Terazije – square, the bridges of Belgrade. Dinner in the artistic part of Belgrade – Skadarlija. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 3: Belgrade – Manasija – Ravanica – Ljubostinja – Vrnjacka banja",
+                    "day_summary": "After breakfast departure to the monasteries of the Morava river walley. First we visit the monastery Manasija. Frescoes in this monastery are the most beautiful in the so-called Morava – cycle and belong to the best works of the old serbian painting overall. Just an hour away we arrive to monastery Ravanica. The tour continues to the former capital city of Serbia – Krusevac where we visit the old women’s monastery Ljubostinja. Drive to spa Vrnjacka banja. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Vrnjacka banja – Zica – Studenica – Sopocani – Novi Pazar",
+                    "day_summary": "Heading toward Kraljevo we visit Zica monastery. Zica was the first seat of Serbian diocese, where all the Serbian rulers of the Middle ages were crowned. We continue to the monastery at Studenica, which consists of three churches: the church of Our Lady, the church of St. Nicholaus and the church of the king. The monastery is also on the UNESCO world heritage list. Free for lunch. Afterwards, the tour continues to the monastery at Sopocani, which is known for its numerous scenes from the life of the Christ and extraordinary holy figures. It is included in the UNESCO world heritage list. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 5: Novi Pazar – Milesevo – Zlatibor",
+                    "day_summary": "After breakfast, we drive to Mileseva monastery. The greatest value of this monastery respresent its frescoes. The most famous frescoe is ‘Angel on Christ’s Tomb’, which was inspired by antique art and is preserved only partly. In Mileseva, we find the grave of King Vladislav, which is also known as consecration place of the first Serbian archbishop, St. Sava. We continue to nature park Zlatibor. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 6: Zlatibor – Belgrade",
+                    "day_summary": "Retun to Belgrade with a stop in Topola, the hometown of Djordje Petrovic, named Kardjordjevic, the leader of the first Serbian rebellion against the Ottomans. Here we can see the Kardjordje Church and the Mausoleum Church of St. George. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 7: Belgrade",
+                    "day_summary": "After breakfast, transfer to Belgrade Airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/serbian_monasteries/1 (1).png","https://kompas.net/images/customized/serbian_monasteries/1 (2).png","https://kompas.net/images/customized/serbian_monasteries/1 (3).png","https://kompas.net/images/customized/serbian_monasteries/1 (4).png","https://kompas.net/images/customized/serbian_monasteries/1 (5).png"]
+        },
+        {
+            "tour_name" : "Scandinavian Capitals",
+            "short_description" : "9 days: Stockholm – Helsinki – Stockholm – Jonkoping – Malmo – Copenhagen – Kattegat – Oslo",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Beautiful Stockholm#Lively, bustling Helsinki#Wonderful Copenhagen, with its graceful canals#Fascinating Oslo",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Stockholm",
+                    "day_summary": "Arrive at Stockholm Airport, followed by transfer to a selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Stockholm",
+                    "day_summary" : "After breakfast, a fascinating guided tour of Stockholm takes us to famous sights such as the Royal Palace, the gorgeous island of Djurgarden, the Old Town, with its narrow cobbled streets and numerous antique shops, and the fine City Hall, with its famous Blue and Gold Rooms. Afternoon free. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Stockholm – Helsinki",
+                    "day_summary": "A free morning to further explore lovely Stockholm, and perhaps shop for a few interesting souvenirs. Afternoon transfer by coach for your scenic cruise across the sea, sailing slowly through the Stockholm Archipelago past numerous attractive small islands to wonderful Helsinki. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Helsinki – Stockholm",
+                    "day_summary": "Arrive in Helsinki, with a morning guided tour of the best sights. Your afternoon is free to explore this fine city which features numerous Art Nouveau treasures, and perhaps indulge in a little shopping. Return ferry to Stockholm. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Stockholm – Jonkoping – Smlland – Sklne – Malmo – Copenhagen",
+                    "day_summary": "Our tour continues with a pleasant coach trip to admire the southern Swedish countryside to the city of Jonkoping, beautifully set on pretty Lake Vattern, continuing through Smlland and Sklne to Malmo, crossing the spectacular new Resund Bridge to arrive in Copenhagen in the early evening. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Copenhagen",
+                    "day_summary": "A morning guided tour of Copenhagen, showcasing the Amalienborg Palace, Christiansborg Palace, seat of the Danish Parliament, the old harbour of Nyhavn, the famous Little Mermaid and many other popular sights. Afternoon free in Copenhagen, with dinner at the famous Tivoli Gardens. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Copenhagen – Kattegat – Oslo",
+                    "day_summary": "After a tasty Danish breakfast, your morning is free in Copenhagen. Afternoon coach transfer for your overnight cruise to Oslo, featuring a delicious dinner as you cruise gently up the Kattegat on your way to intriguing Oslo. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Oslo – Holmenkollen – Oslo",
+                    "day_summary": "We sail up the exciting Oslo Fjord, with a morning guided tour of Oslo to see the world-famous Viking Ships, the Fram Polar Exploration ship, the amazing Vigeland Sculpture Park and other wonderful sights. A coach transfer to Holmenkollen follows, for a view of the city and the fjord far below. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Oslo",
+                    "day_summary": "After breakfast, transfer to Oslo Airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/scandinavian_capitals/1 (1).png","https://kompas.net/images/customized/scandinavian_capitals/1 (2).png","https://kompas.net/images/customized/scandinavian_capitals/1 (3).png","https://kompas.net/images/customized/scandinavian_capitals/1 (4).png","https://kompas.net/images/customized/scandinavian_capitals/1 (5).png"]
+        },
+        {
+            "tour_name" : "Pilgrimage to Medjugorje",
+            "short_description" : "7 days: Dubrovnik – Medjugorje – Split",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Dubrovnik#Split#Medjugorje",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Dubrovnik",
+                    "day_summary": "Upon arrival at Dubrovnik Airport you will be met and transfered to a selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Dubrovnik",
+                    "day_summary" : "After breakfast, a walking tour of Old Dubrovnik including the Rector’s Palace, Bell Tower clock, Orlando’s Column, and the Sponza Palace. You will also see the Dominican monastery and Franciscan monastery with its pharmacy. The rest of the day is free. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Dubrovnik – Medjugorje",
+                    "day_summary": "After breakfast, transfer to Medjugorje, Bosnia and Herzegovina. Dinner and overnight in Medjugorje. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4 & 5: Medjugorje",
+                    "day_summary": "There are many activities in Medjugorje that should not be missed: visit to the visionaries (if they are in the village), climbing the apparition hill, praying at the stations of the cross while climbing Mount Krizevac, daily mass in St. James’ Church in the village centre. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Medjugorje – Split",
+                    "day_summary": "After breakfast, we continue to Split. We tour the 3rd century Diocletian’s Palace, where we visit the cellars, the Peristyle, the Golden and Silver Gates, the Cathedral, the Temple of Jupiter and other historical sights. The afternoon is free. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Split",
+                    "day_summary": "After breakfast, transfer to Split Airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/pilgrimage_to_medjugorje/1 (1).png","https://kompas.net/images/customized/pilgrimage_to_medjugorje/1 (2).png","https://kompas.net/images/customized/pilgrimage_to_medjugorje/1 (3).png","https://kompas.net/images/customized/pilgrimage_to_medjugorje/1 (4).png","https://kompas.net/images/customized/pilgrimage_to_medjugorje/1 (5).png"]
+        },
+        {
+            "tour_name" : "Nostalgic Journey to Baroque Hungary",
+            "short_description" : "8 days: Budapest – Veszprem – Herend – Fertod",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Budapest – listed by UNESCO#Royal Castle of Veszprem#Veszprem with Herend porcelain manufacturing#Esterhazy Castle",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Budapest",
+                    "day_summary": "Arrival at Budapest airport, transfer to selected hotel."
+                },
+                {
+                    "day_headline" : "Day 2: Budapest",
+                    "day_summary" : "Morning city tour of Budapest, featuring Heroes’ Square and Vajdahunyad Castle-Andrassy Avenue – Basilica – Parliament (UNESCO World Heritage site) – Castle Hill (UNESCO World Heritage site): Matthias Church, Fishermen’s Bastion. Visiting the historical Castle exhibition, especially the story of the visit of Sisi, and the romance between the queen and count Gyula Andrassy. Dinner with folklore show and gypsy music. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Budapest – Domonyvolgy",
+                    "day_summary": "Visit Godollo, Grassalkovits Castle. The castle was a present to Franz Joseph and Sisi from the Hungarian State after the Conciliation between the two countries in 1867. The castle was built in beautiful baroque style, and is renovated in its genuine style. Afternoon, travel to Domonyvolgy, to the Lazar Equestrian Park. After a goulash-party and folk dance performance. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Veszprem",
+                    "day_summary": "Morning free for shopping, walking on the promenade at the banks of the river Danube and in the downtown. In the afternoon, depart for Veszprem. Arrival at the Royal Castle of Veszprem in the afternoon. Visit the castle with a beautiful panorama. Dinner with a typical Hungarian menu. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Herend",
+                    "day_summary": "Travel to Herend to visit the porcelain manufacturing company. After the projection of the story of the “white gold” you will see the preparation of the porcelain by hand. After entrance to the museum optional shopping in the Herendshop, with the widest range of porcelain in the world. After lunch travel to Sopron for overnight. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 6: Fertod",
+                    "day_summary": "After breakfast, sightseeing in the town, which was built on Roman foundations. Travel to Fertod, to Esterhazy Castle. The baroque castle was built for Prince Pal Esterhazy, who was a highly-educated man, one of the wealthiest of his age in Europe. Continue to Budapest. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Budapest",
+                    "day_summary": "Free day for optional visits to the museums or Budapest’s historical baths – Gellert Bath, Szecheny Bath. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Budapest",
+                    "day_summary": "After breakfast, transfer to Budapest airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/baroque_hungary/1 (1).png","https://kompas.net/images/customized/baroque_hungary/1 (2).png","https://kompas.net/images/customized/baroque_hungary/1 (3).png","https://kompas.net/images/customized/baroque_hungary/1 (4).png","https://kompas.net/images/customized/baroque_hungary/1 (5).png"]
+        },
+        {
+            "tour_name" : "Jewish Heritage Tour of Poland",
+            "short_description" : "8 days: Warsaw – Krakow – Auschwitz – Lublin – Warsaw",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#The first class train from Warsaw to Krakow#Professional tour director throughout",
+                "sightseeing" : "Warsaw with Jewish sites#Krakow and Auschwitz museum#Lublin and Majdanek Martyrology Museum",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Warsaw",
+                    "day_summary": "Arrival at Warsaw airport, transfer to selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Warsaw",
+                    "day_summary" : "Full-day guided tour of Jewish sites, including the site of the Warsaw ghetto and the uprising monument, Nozyk Synagogue and Okopowa Cemetery, Uumschlagplaz, Mila 18 bunker memorial and the Jewish Historical Institute. The afternoon continues with a visit including views of the royal route, royal castle, gothic St. Johns Cathedral, old market square, Lazienki Royal Park and the nearby Belvedere Palace. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Warsaw – Krakow",
+                    "day_summary": "Transfer to Warsaw railway station to take the first class train from Warsaw to Krakow. Upon arrival in Krakow, visit to the Kazimierz, the former Jewish section, than the ancient Remuh Synagogue and the nearby old cemetery. Stop at the old synagogue, Szeroka Street , and drive to former ghetto zone, near Oskar Schindler’s factory. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Auschwitz – Krakow",
+                    "day_summary": "We drive to Auschwitz/Birkenau to visit the concentration camp. After return to Krakow, free time in the city. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Krakow",
+                    "day_summary": "Morning guided tour of royal Krakow, beginning from Wawel Hill, viewing the royal castle and visiting the royal cathedral. Enjoy the walking tour of the old town, where you will visit the main market square, renaissance hall and St. Mary’s Church, where a masterpiece in wood – a gothic altar – can be seen. Afternoon trip to Wieliczka salt mines, the most impressive medieval factory, beautifully preserved. Overnight in Krakow. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Krakow – Lublin",
+                    "day_summary": "Departure to Lublin. After the orientation tour, dinner and overnight. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Lublin – Warsaw",
+                    "day_summary": "The tour of Lublin begins from Majdanek Martyrology Museum. Walking through the area, see the barracks, camp remains and exhibitions. Continue to Lublin, pass by Yeshiva Chachmei, the Talmudic school, now housing a synagogue, the Jewish ghetto monument and other landmarks. Depart for Warsaw. Farewell dinner at a local restaurant. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Warsaw",
+                    "day_summary": "After breakfast, transfer to Warsaw Airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/jewish_heritage/1 (1).png","https://kompas.net/images/customized/jewish_heritage/1 (2).png","https://kompas.net/images/customized/jewish_heritage/1 (3).png","https://kompas.net/images/customized/jewish_heritage/1 (4).png","https://kompas.net/images/customized/jewish_heritage/1 (5).png"]
+        },
+        {
+            "tour_name" : "Highlights of Spain & Portugal",
+            "short_description" : "16 days: Madrid – Toledo – Salamanca – Porto – Lisbon – Seville – Costa del Sol – Granada – Valencia – Barcelona",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Madrid with Gran Via, famous squares and quarters and Royal Palace#Toledo – artistic, and spiritual center of Spain#Salamanca with its Plaza Mayor#Charming Porto#Lisbon with city’s legendary seven hills#Evora, nominated by UNESCO as a World Heritage site#Gibraltar#Barcelona with Sagrada Familia and Guell Park",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Madrid",
+                    "day_summary": "Airport arrival and transfer to a selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Madrid",
+                    "day_summary" : "Morning guided city tour, including Gran Via, famous squares such as the Plaza de Espana, Oriente, Mayor, Puerta del Sol, Atocha, Neptuno, Cibeles, Puerta de Alcala, Colon and Plaza de Castilla, quarters of major historical relevance, such as that of the Austrias, the Borbouns and Salamanca, the Oeste and Retiro parks, commercial and financial areas, coliseums such as the Bullring, the Santiago Bernabeu soccer stadium, university campus, the El Rastro market. Conclude with a visit to the Royal Palace. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Madrid – Toledo – Madrid",
+                    "day_summary": "After breakfast, excursion to Toledo.Visit all major highlights of this historical, artistic, and spiritual center of Spain, which sits atop a circular hill, with its magnificent cathedral in the center of town. We shall see the fortified palace, the Alcazar, the Cathedral of Toledo. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Madrid – Avila – Salamanca",
+                    "day_summary": "Morning departure to Avila for city tour. See the Cathedral, its mighty fortifications, and other highlights. Proceed to Salamanca, an ancient city famous for its university. Visit Plaza Mayor and the ancient Puent Romano Bridge accross the River Tormes. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Salamanca – Porto",
+                    "day_summary": "Morning departure to Porto: upon arrival, guided city tour featuring Porto’s most attractive areas, such as the Ribeira Quarter, St. Francisco’s Church, the Stock Exchange, the Clerigos Tower, and the cellars to enjoy a tasting of port. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Porto – Fatima – Lisbon",
+                    "day_summary": "Morning departure for Fatima to visit all the major pilgrimage sites – see the Sanctuary, the Cova da Iria, where Our Lady first appeared to the young visionaries; visit the Basilica where the tombs of the visionaries Jacinta and Francisco are located, and more. Proceed to Lisbon. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Lisbon",
+                    "day_summary": "Morning guided city tour, featuring a visit inside the Geronimus Monastery, and inside Belem Tower; and the monument to the discoveries of Vasco de Gama and his tomb. Proceed by touring the Alfama Hills, see St George Castle, and end the tour with a walk downtown.Optional excursion to the fishing village of Cascais. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Lisbon – Seville",
+                    "day_summary": "Morning departure for Seville. Stop in Evora, nominated by UNESCO as a World Heritage site. During the orientation tour, visit the Roman temple, the Romanesque-Gothic cathedral and the university. Across the Spanish border, stop in Badajoz, a city that occupies a slight eminence, crowned by the ruins of a Moorish castle, and overlooking the Guadiana. Proceed to Seville. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Seville",
+                    "day_summary": "Visit the most important highlight of central Seville: the Cathedral of Santa Maria, the biggest in Spain and the burialplace of Christopher Columbus. See also the Royal Alcazar, the 14th Century Moorish palace – now the residence of the Spanish king – the Maria Luisa Park, to end with a nice walk through the historical Jewish section, called Santa Cruz. Dinner with a flamenco show. (B, D)"
+                },
+                {
+                    "day_headline": "Day 10: Seville – Gibraltar – Costa del Sol",
+                    "day_summary": "Upon arrival in Gibraltar, visit the American War Memorial, the Royal Navy Headquarters, Trafalgar Cemetery, Europa Point, the southernmost point and the site of the Trinity Lighthouse. See also the busiest shipping lane in the world, the mingling of the Mediterranean Sea and Atlantic Ocean and two continents. Proceed to the Upper Rock area to see St. Michael’s Cave, the ‘famous rock apes’, the Moorish Castle and the Tower of Homage. (B, D)"
+                },
+                {
+                    "day_headline": "Day 11: Torremolinos",
+                    "day_summary": "Free day, or optional tour to Jerez and Cadiz. (B, D)"
+                },
+                {
+                    "day_headline": "Day 12: Torremolinos – Granada",
+                    "day_summary": "Morning departure for Granada.Stop in Malaga, birth-place of Picasso. During free time in Malaga you may walk up the hill to Gibralfaro Castle. Proceed to Granada. (B, D)"
+                },
+                {
+                    "day_headline": "Day 13: Granada – Guadix – Alicante",
+                    "day_summary": "Morning guided city tour of Granada, including the Cathedral, Albaicin, and visit inside the famous Alhambra Palace and Generalife Gardens. Drive to Alicante, visiting en route the unique village of Guadix, a city famous for cave dwellings in the Barrio Troglodyte, where upwards of half the population lives. (B, D)"
+                },
+                {
+                    "day_headline": "Day 14: Alicante – Valencia – Barcelona",
+                    "day_summary": "Morning departure for Barcelona. En route city tour of Valencia, known for its numerous gardens. Tour of the old town includes the cathedral – the symbol of the town – Puerta del Real, Puerta de la Trinidad, Puerta de las Serranos and a walk through the lively streets of Barrio de Carmen. (B, D)"
+                },
+                {
+                    "day_headline": "Day 15: Barcelona",
+                    "day_summary": "Morning guided tour, featuring Plaza Cataluna, Via Laietana, the old cathedral, the Gothic Quarter and Plaza Sant Jaume. Continue to the Vila Olimpica and go up to the Montjuic Mountain. We pass Barcelona’s Monumental Bull Ring and the city park La Ciutadella. See also Gaudi’s famous buildings – Casa Batllo, Casa Mila, the Cathedral Sagrada Familia and Guell Park, declared an artistic monument by UNESCO. (B, D)"
+                },
+                {
+                    "day_headline": "Day 16: Barcelona",
+                    "day_summary": "After breakfast, transfer to Barcelona Airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/highlights_spain_portugal/1 (1).png","https://kompas.net/images/customized/highlights_spain_portugal/1 (2).png","https://kompas.net/images/customized/highlights_spain_portugal/1 (3).png","https://kompas.net/images/customized/highlights_spain_portugal/1 (4).png","https://kompas.net/images/customized/highlights_spain_portugal/1 (5).png"]
+        },
+        {
+            "tour_name" : "Gourmet Tour through the Jewels of Austria & Slovenia",
+            "short_description" : "12 days: Vienna – Maribor – Ljubljana – Postojna – Piran – Kranjska Gora – Bled",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Traditional meals and folklore music at local restaurants, wine-tasting of excellent local wines#Vienna, one of the most beautiful European cities#Relaxation at a thermal spa with 400 years of history#Soca Valley, a true pearl of the alpine world#Postojna Caves, the biggest and internationally known cave system in Slovenia",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Vienna",
+                    "day_summary": "You will be met and transferred to a selected hotel. The rest of the day is free to explore Vienna. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Vienna",
+                    "day_summary" : "The morning sightseeing tour features the Hofburg, once the seat of the Austro-Hungarian Empire, the Belvedere Palace, views of the Prater amusement park, UN buildings, St. Stephen’s Cathedral, and other vivid reminders of the city’s imperial history. Afternoon free. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Vienna",
+                    "day_summary": "In the morning, one of the tour’s highlights, a visit to the Vienna Woods, and then to Mayerling. Lunch at a local restaurant and free afternoon for shopping. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 4: Vienna – Maribor",
+                    "day_summary": "Drive to Maribor, home of the oldest vine in Europe (over 400 years old). Your journey through the city of Maribor will be concluded with an exciting ride on a traditional wooden raft, while listening to traditional music. To have a taste of delicious local wines, we take you to a local winery. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Maribor – Ptuj – Rogaska Slatina",
+                    "day_summary": "Our journey continues to the town of Ptuj, and Rogaska Slatina, a health resort with 400 years of history. Free time to relax. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Rogaska Slatina – Ljubljana",
+                    "day_summary": "On this day, we take you to Ljubljana, Slovenian’s capital city. Our tour begins with a visit to the open market, the City Hall, Three Bridges and the Parliament. Lunch at a local restaurant. Afternoon free. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 7: Ljubljana – Postojna – Piran",
+                    "day_summary": "On the way to the coast we visit the Postojna Caves. A ride by electric train will be followed by a guided walking tour. Only 9km away from Postojna is one of the most interesting baroque castles in Slovenia, Predjama Castle. It hangs dramatically in the middle of a high rocky cliff. After lunch at a local restaurant, we invite you to visit the town of Piran, a coastal city with charming Venetian architecture. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Portoroz – Nova Gorica",
+                    "day_summary": "After breakfast, departure for Lipica for a guided visit of the stables of the Lipizzaner horses. After a typical local meal, we take you to the picturesque village of Stanjel, with typical Karst architecture, which is followed by a tasting of the local delicacy, air-cured prosciutto and the Teran famous red wine at a typical Karst farm. Continue to Nova Gorica and gamble the night away at the Casino. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 9: Nova Gorica – Kranjska Gora",
+                    "day_summary": "After breakfast, a drive through the wonderful Soca Valley to the town of Kobarid, to visit the stunning First World War museum. After a meal in a local restaurant, our journey takes us over the mountain pass of Vrsic, where you can enjoy the breathtaking panoramic views of the valley, and then to the picturesque alpine resort of Kranjska gora. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 10: Kranjska Gora – Bled",
+                    "day_summary": "We continue to Bled, a unique Alpine town, with its emerald-green lake, and a church on the island in the middle of the lake. After a bus ride around the lake, there is a guided tour of Bled Castle. Then you will be taken by typical ‘pletna’ boat to the island. Lunch at a local restaurant. Afterwards, we take you to Vintgar Gorge. Dinner with folk music at a local restaurant. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 11: Bled – Bohinj – Vogel – Bled",
+                    "day_summary": "After breakfast, departure for Lake Bohinj and a cable-car ride up Mt.Vogel. After a pleasant mountain snack, visit the largest glacial lake in Slovenia, with a view of the highest Slovene peak Mt.Triglav rising above it. (B, D)"
+                },
+                {
+                    "day_headline": "Day 12: Departure",
+                    "day_summary": "Breakfast and transfer to Ljubljana Airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/jewels_of_austria_slovenia/1 (1).png","https://kompas.net/images/customized/jewels_of_austria_slovenia/1 (2).png","https://kompas.net/images/customized/jewels_of_austria_slovenia/1 (3).png","https://kompas.net/images/customized/jewels_of_austria_slovenia/1 (4).png","https://kompas.net/images/customized/jewels_of_austria_slovenia/1 (5).png"]
+        },
+        {
+            "tour_name" : "Germany & Switzerland",
+            "short_description" : "16 days: Frankfurt – Rüdesheim – Heidelberg – Munich – Dachau – Passau – Füssen – Neuschwanstein – Füssen – Lucerne – Pilatus – Interlaken – Lugano – Milan",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Lovely Heidelberg#Grand Munich, the capital of Bavaria#The memorial site at Dachau concentration camp#Hohes Schloss Castle#The Baroque complex of the former Benedictine monastery of St. Mang#Breathtaking hilltop Neuschwanstein Castle#Idyllic Lucerne, the “City of Lights”#Fabulous Mt. Pilatus#The Jungfraubahn cog railway#Lugano, a town on the shores of a gorgeous lake",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Frankfurt",
+                    "day_summary": "Arrival at Frankfurt airport and transfer to a selected hotel, followed by a sightseeing tour of Frankfurt, with an imposing Gothic cathedral, quaint city hall and, of course, the highest skyscrapers in Europe. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Frankfurt – Rudesheim",
+                    "day_summary" : "After a good breakfast, we set out on the Rhine coach tour. At St. Goarshausen, the mighty Rhine winds through an attractive gorge, famous for the mighty Lorelei Rock. Here we enjoy a relaxing panoramic boat cruise to picturesque Rudesheim, with wine tasting and lunch at Rudesheimer Castle, then return to Frankfurt. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Frankfurt – Heidelberg",
+                    "day_summary": "A coach visit to lovely Heidelberg, one of Germany’s most beautiful cities, dominated by its historic old bridge, enchanting architecture and brooding castle on a wooded hill. Full sightseeing tour, then return to Frankfurt. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Frankfurt – Munich",
+                    "day_summary": "Depart for Munich, the Bavarian capital. An afternoon sightseeing tour of the old heart of the city, featuring many remarkable Baroque, Neo-classical and Renaissance style buildings and grand avenues. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Munich – Dachau",
+                    "day_summary": "After breakfast, we set off for a half day tour to visit the Dachau Concentration Camp Memorial and see its tragic story at first hand. The afternoon is free for further sightseeing or shopping in Munich. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Munich",
+                    "day_summary": "A day to either relax and enjoy your stay in Munich or take advantage of an optional trip to the vast, peaceful Lake Chiemsee, with a boat trip and visit to the famous Heerenchiemsee Castle and Frauenchiemsee Monastery. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Munich – Passau",
+                    "day_summary": "Leave Munich for beautiful Passau, known as the “City of Three Rivers”, as it’s here that the mighty Danube is joined by the Inn and the Ilz. It’s also notable for its lovely Gothic and Baroque architecture. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Passau – Fussen – Neuschwanstein",
+                    "day_summary": "After breakfast, departure for the some of the loveliest places in southern Germany. First we drive to Oberammergau, home of the centuries-old passion play, then on to Fussen and Neuschwanstein, one of the world’s most famous castles. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Fussen – Lucerne",
+                    "day_summary": "After breakfast we travel through perfect Alpine scenery via Bodensee, crossing into Austria and then Switzerland, passing some of Switzerland’s most picturesque places, arriving late afternoon in wonderful Lucerne, the “City of Lights”. (B, D)"
+                },
+                {
+                    "day_headline": "Day 10: Lucerne – Pilatus",
+                    "day_summary": "After breakfast, a whole-day excursion to Pilatus Mountain, taking the steepest cog railway in the world to the peak – 2132m above sea level – to see the breathtaking panorama of mountain peaks, with a typical Swiss dinner in the evening. (B, D)"
+                },
+                {
+                    "day_headline": "Day 11: Lucerne – Interlaken",
+                    "day_summary": "After breakfast, drive to Interlaken to enjoy the stunning views of the majestic Swiss Alps, with the picturesque Hoheweg valley, peaceful Lake Thun and the majestic Jungfrau, at 4,152m the highest peak in the area. (B, D)"
+                },
+                {
+                    "day_headline": "Day 12: Interlaken – Jungfraujoch – the Top of Europe",
+                    "day_summary": "After breakfast, a full day excursion to Jungfraujoch, where a cog railway runs inside the mountain, up to a station that at 3,454m is the highest in Europe. After enjoying the unforgettable views, we have a live evening folklore show. (B, D)"
+                },
+                {
+                    "day_headline": "Day 13: Interlaken – Lugano",
+                    "day_summary": "After breakfast, our tour goes on to breathtaking Lake Lugano, whose incredible beauty cradled between tall, green mountains has a dramatic quality. Its calm mirror-like waters change in colour and mood through the day and through the seasons. (B, D)"
+                },
+                {
+                    "day_headline": "Day 14: Lugano",
+                    "day_summary": "After breakfast, we enjoy a sightseeing tour of the pretty lakeside parks, churches and villas of Lugano, where Swiss elegance meets Italian joie de vivre. In the afternoon, there is a fabulous panoramic boat tour of Lake Lugano. (B, D)"
+                },
+                {
+                    "day_headline": "Day 15: Lugano",
+                    "day_summary": "A free day in Lugano, an opportunity to pick up some gifts and souvenirs in its small shops, wander around the attractive streets, with numerous cafes and restaurants, and, of course, enjoy a nice lunch and cappuccino or glass of wine. (B, D)"
+                },
+                {
+                    "day_headline": "Day 16: Lugano – Milan",
+                    "day_summary": "After breakfast, we drive to Milan, with a short sightseeing tour of the best sights, such as the Gothic masterpiece of Milan Cathedral, the lovely Galleria Vittorio Emanuele II arcade and the grand La Scala opera house. Departure from Milan. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/germany_switzerland/1 (1).png","https://kompas.net/images/customized/germany_switzerland/1 (2).png","https://kompas.net/images/customized/germany_switzerland/1 (3).png","https://kompas.net/images/customized/germany_switzerland/1 (4).png","https://kompas.net/images/customized/germany_switzerland/1 (5).png"]
+        },
+        {
+            "tour_name" : "French Art & History",
+            "short_description" : "8 days: Paris – St. Malo – Nantes – Angers – Tours – Amboise – Blois – Chambord – Orleans – Gien – Briar - Montargis – Fontainebleau",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Enchanting Paris#Chartres Cathedral#Mont-Saint-Michel#The historic walled city of St. Malo#Nantes#Angers#The old city of Orleans#Beautiful Gien#Briare#Montargis, the “Venice of the Gatinais”#Magnificent Fontainebleau",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Paris",
+                    "day_summary": "Airport arrival, then transfer to a selected hotel. After checkin, afternoon city tour, followed by free time and dinner in an atmospheric Parisian restaurant. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Paris – Versailles – Chartres",
+                    "day_summary" : "A morning visit to the glorious Palace of Versailles. After free time for lunch, we visit Notre Dame Cathedral (a UNESCO World Heritage site) in Chartres, with sightseeing around lovely Chartres. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Chartres – Mont St. Michel – St. Malo",
+                    "day_summary": "Departure for the UNESCO World Heritage site of Mont St. Michel, with free time for lunch en route. The fabulous little island, with its historic abbey and beautiful village, is a tourist magnet. Then leave for the beautiful walled port city of St Malo. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 4: St. Malo – Nantes – Angers – Tours",
+                    "day_summary": "Our first stop is gorgeous Nantes. Visit the ancient Dukes of Brittany Castle, with its splendid courtyard, then enjoy sightseeing around the town. Onward to the imposing Angers Fortress, and to medieval Tours, with dinner and overnight. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Tours – Amboise – Blois – Chambord – Orleans",
+                    "day_summary": "After breakfast, view the fabulous half-timbered medieval buildings of Tours, with its fine cafe-filled squares. Then we go on to the stunning Chateau de Blois, one of France’s most prestigious Renaissance monuments, and a favourite home of French kings. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Orleans – Gien – Briar – Montargis – Fontainebleau",
+                    "day_summary": "Joan of Arc’s pretty Orléans on the mighty Loire River has much to see within its old walls. We also visit Anne of Beaujeu’s Castle of Gien, the magnificent aqueduct at Briare and Montargis, which calls itself the Venice of Gatinais because of its 127 bridges. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Fontainebleau – Paris",
+                    "day_summary": "A morning visit to the world famous UNESCO-listed Fontainebleau Palace, which every French king rightly cherished and embellished with the stunning work of their best artists, painters, sculptors, architects and gardeners. After lunch, return to Paris. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 8: Paris",
+                    "day_summary": "Free time before your airport transfer can be used to visit artistic Montmartre and the dramatic Church of Sacre Coeur. Transfer to the airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/french_art_history/1 (1).png","https://kompas.net/images/customized/french_art_history/1 (2).png","https://kompas.net/images/customized/french_art_history/1 (3).png","https://kompas.net/images/customized/french_art_history/1 (4).png","https://kompas.net/images/customized/french_art_history/1 (5).png"]
+        },
+        {
+            "tour_name" : "Dracula Tour",
+            "short_description" : "5 days: Bucharest – Bran – Sighisoara – Sibiel – Sibiu – Bucharest",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Bucharest Palace of the Parliament#Cotroceni Palace#Peles Castle#Bran Castle#Sinaia#Sighisoara#Sibiu",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Bucharest",
+                    "day_summary": "After arriving in Bucharest, a guided tour leads you around the most important sights of Romania’s capital. Visit the Palace of Parliament and Village Museum, where you can see over 70 farms and churches from all corners of Romania. Continue to George Enescu Museum located in the former Cantacuzino Palace,one of the most beautiful art nouveaux building in Romania. Continue to the “Revolution Square”, where among others the Romanian Athenaeum is located. Drive to the Cotroceni Palace, today’s official residence of the Romanian president, and part of which is open to public as a museum. Dinner with a traditional Romanian folk show and overnight. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Bucharest – Sinaia – Brasov",
+                    "day_summary" : "After breakfast, depart for Sinaia. Following a visit to the romantic Peles Castle, and a lunch of traditional Romanian hunter’s dishes in Sinaia, on to the old town centre of Brasov, then to Poiana Brasov and dinner with traditional dishes. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 3: Brasov – Bran – Sighisoara",
+                    "day_summary": "After breakfast, departure for Brasov and the magnificent old medieval castle where Dracula’s legend lives on. Lunch at Cheile Gradistei, amid beautiful mountain scenery. Depart for medieval city of Sighisoara, famous UNESCO site, which remarked itself as a big handicraft and cultural centre. Enjoy dinner at ‘Vlad Dracul’ Restaurant in the house where Count Dracula was born. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 4: Sighisoara – Sibiel – Sibiu",
+                    "day_summary": "After breakfast, leave for Sibiel and a visit to a glass icon workshop. A traditional country lunch in Sibiel follows, then transfer to Sibiu for sightseeing. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 5: Sibiu – Bucharest",
+                    "day_summary": "After breakfast, depart for Oltului, the most spectacular river valley in Romania. We then visit Horezu and learn how to make Romanian pottery, and take part in lunch-making in a traditional Romanian house and enjoy the delicacies. Transfer to Bucharest airport for departure. (B, L)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/dracula_tour/1 (1).png","https://kompas.net/images/customized/dracula_tour/1 (2).png","https://kompas.net/images/customized/dracula_tour/1 (3).png","https://kompas.net/images/customized/dracula_tour/1 (4).png","https://kompas.net/images/customized/dracula_tour/1 (5).png"]
+        },
+        {
+            "tour_name" : "Croatian UNESCO Heritage Tour",
+            "short_description" : "8 days: Zagreb – Plitvice – Zadar – Split – Dubrovnik – Mljet",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Plitvice Lakes National Park – inscripted by UNESCO since 1979#The St. James Cathedral in Sibenik – a UNESCO monument since 2000#Trogir – a UNESCO monument since 1997#Split with the palace of Diocletian – a UNESCO monument since 1979#Dubrovnik – a UNESCO monument since 1979",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Zagreb",
+                    "day_summary": "Upon arrival at Zagreb airport, transfer to selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Zagreb – Plitvice",
+                    "day_summary" : "Morning city tour of Zagreb, to experience the past and present of Zagreb by passing through the streets of the Lower and Upper Town, by visiting the famous arcades and sculptures of Mirogoj Park Cemetery, by visiting Zagreb Cathedral. Afterwards, depart for the Plitvice Lakes, the largest national park in Croatia, under the protection of UNESCO for it’s natural beauty. Arrival in Plitvice and afternoon tour of the Plitvice National Park. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Plitvice – Paklenica – Zadar",
+                    "day_summary": "Departure to Paklenica National Park, known for its unique Karst landscape consisting of the Great and Small Paklenica Canyons. After a sightseeing visit of the park, departure to Zadar for sightseeing. We will visit the ruins of the Roman Forum, the Cathedral and St. Donat’s Church. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Zadar – Trogir – Split",
+                    "day_summary": "Morning departure to Krka Waterfalls National Park. Tour of the waterfalls and a boat ride to the islet of Visovac for a visit to the Franciscan monastery. We continue to Sibenik, with the Cathedral of St Jacob, a Gothic masterpiece. We continue to Trogir, a picturesque medieval town. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Split – Dubrovnik",
+                    "day_summary": "Morning city tour of Split, with Diocletian’s Palace, with the Peristyle, and Jupiter`s Temple. Afternoon departure for Dubrovnik. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Dubrovnik",
+                    "day_summary": "Sightseeing tour of Dubrovnik, which is on UNESCO’s list of Cultural Heritage. A pleasant walk will take you to the Franciscan Monastery, with its 14th-century pharmacy, Dominican monastery, Rector’s Palace and Cathedral. In the afternoon, an optional tour of the city walls, with magnificent fortresses and towers. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Dubrovnik – Mljet",
+                    "day_summary": "Full-day excursion to the Island of Mljet, which is one of the loveliest and most densely wooded islands in the Adriatic. The main attractions are two salt-water lakes and the old Benedictine monastery; in the middle of the Great Lake there is an islet. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Dubrovnik",
+                    "day_summary": "After breakfast, transfer to Dubrovnik Airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/croatian_unesco/1 (1).png","https://kompas.net/images/customized/croatian_unesco/1 (2).png","https://kompas.net/images/customized/croatian_unesco/1 (3).png","https://kompas.net/images/customized/croatian_unesco/1 (4).png","https://kompas.net/images/customized/croatian_unesco/1 (5).png"]
+        },
+        {
+            "tour_name" : "Bohemian Countryside",
+            "short_description" : "9 days: Prague – Karlovy Vary – Ceske Budejovice – Holasovice – Cesky Krumlov – Lednice – Moravsky Krumlov – Kutna Hora – Prague",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Golden Prague#Karlovy Vary with its springs that have been utilized since the Middle Ages#Holasovice, an UNESCO World Heritage site#Lednice-Valtice Cultural Landscape, an UNESCO World Heritage site",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Prague",
+                    "day_summary": "Arrival at Prague airport and transfer to selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Karlovy Vary",
+                    "day_summary" : "Morning visit to the Lidice Memorial and Museum. Continue to Karlovy Vary, known for its springs that have been utilized since the Middle Ages. Visit the Becher Factory and Moser Glass Factory. Walking city tour of Karlovy Vary, or by cable car to Diana Look-out for a fantastic view. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Ceske Budejovice",
+                    "day_summary": "After breakfast visit the baroque Tepla Monastery and its park. Visit of Lomec Church with its unique hanging altar. Arrival to Ceske Budejovice, known for its “Budvar” (Budweizer) beer.You will see also the Samson fountain, an important work of South Bohemian baroque style. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Holasovice – Cesky Krumlov",
+                    "day_summary": "After a visit to Hluboka Castle, one of the most beautiful Bohemian monuments we continue to Holasovice, an example of a traditional Central European village, an UNESCO World Heritage. Continue with sightseeing of Cesky Krumlov and its castle. Visit the Cistercian monastery at Vyssi Brod, situated in the foothills of the Bohemian Forest mountain range, in a romantic setting amidst thick forests, on the right bank of the upper course of the River Vltava. Evening return to Ceske Budejovice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Lednice",
+                    "day_summary": "Departure to South Moravia, an area of rich history, architectural treasures, great wine and hospitality. Visit of Telc, a UNESCO World Heritage Site. Visit of the 11th century castle Vranov Nad Dyji. Overnight in Lednice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Lednice",
+                    "day_summary": "Visit of the UNESCO World Heritage site called the Lednice-Valtice Cultural Landscape. Visit of Lednice and its many decorative constructions like he Temple of the Three Graces and the Temple of Apollon. Visit the Museum of Folklore Costumes in Uherske Hradiste. Wine tasting in Petrov closed to village Straznice. The area is renowned for its wonderful fusion of hearty country cuisine and wonderful local wines. Overnight in Lednice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Moravsky Krumlov – Kutna Hora – Prague",
+                    "day_summary": "Visit of Moravsky Krumlov Castle a town that dates back to 1227. Visit of Havlickuv Brod where around one hundred monuments have been preserved in the town’s centre. Visit of Kutna Hora where the city tour included the entrance to the St. Barbara Church and Royal Mint (Vlassky Court). Visit the Charnel House in Sedlec and drive to Prague. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Prague",
+                    "day_summary": "Half-day city tour of Prague by coach, followed by a visit to Prague Castle, which is the seat of the President of the Czech Republic. Visit St. Vithus’ Cathedral, a spiritual symbol of the Czech state which contains underground tombs of Czech kings. You will also see National Theatre, Charles Bridge, the Old Town Square, the Old Town Hall, St. Nicholas’ Church, the Old Town Hall with the Astronomical Clock. Then you go through the Jewish Quarter, the best surviving complex of Jewish historical monuments in Europe. Afternoon – free for shopping. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Prague",
+                    "day_summary": "After breakfast, transfer to Prague airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/croatian_unesco/1 (1).png","https://kompas.net/images/customized/croatian_unesco/1 (2).png","https://kompas.net/images/customized/croatian_unesco/1 (3).png","https://kompas.net/images/customized/croatian_unesco/1 (4).png","https://kompas.net/images/customized/croatian_unesco/1 (5).png"]
+        },
+        {
+            "tour_name" : "Bohemian Countryside",
+            "short_description" : "9 days: Prague – Karlovy Vary – Ceske Budejovice – Holasovice – Cesky Krumlov – Lednice – Moravsky Krumlov – Kutna Hora – Prague",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Golden Prague#Karlovy Vary with its springs that have been utilized since the Middle Ages#Holasovice, an UNESCO World Heritage site#Lednice-Valtice Cultural Landscape, an UNESCO World Heritage site",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Prague",
+                    "day_summary": "Arrival at Prague airport and transfer to selected hotel. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Karlovy Vary",
+                    "day_summary" : "Morning visit to the Lidice Memorial and Museum. Continue to Karlovy Vary, known for its springs that have been utilized since the Middle Ages. Visit the Becher Factory and Moser Glass Factory. Walking city tour of Karlovy Vary, or by cable car to Diana Look-out for a fantastic view. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Ceske Budejovice",
+                    "day_summary": "After breakfast visit the baroque Tepla Monastery and its park. Visit of Lomec Church with its unique hanging altar. Arrival to Ceske Budejovice, known for its “Budvar” (Budweizer) beer.You will see also the Samson fountain, an important work of South Bohemian baroque style. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Holasovice – Cesky Krumlov",
+                    "day_summary": "After a visit to Hluboka Castle, one of the most beautiful Bohemian monuments we continue to Holasovice, an example of a traditional Central European village, an UNESCO World Heritage. Continue with sightseeing of Cesky Krumlov and its castle. Visit the Cistercian monastery at Vyssi Brod, situated in the foothills of the Bohemian Forest mountain range, in a romantic setting amidst thick forests, on the right bank of the upper course of the River Vltava. Evening return to Ceske Budejovice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Lednice",
+                    "day_summary": "Departure to South Moravia, an area of rich history, architectural treasures, great wine and hospitality. Visit of Telc, a UNESCO World Heritage Site. Visit of the 11th century castle Vranov Nad Dyji. Overnight in Lednice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Lednice",
+                    "day_summary": "Visit of the UNESCO World Heritage site called the Lednice-Valtice Cultural Landscape. Visit of Lednice and its many decorative constructions like he Temple of the Three Graces and the Temple of Apollon. Visit the Museum of Folklore Costumes in Uherske Hradiste. Wine tasting in Petrov closed to village Straznice. The area is renowned for its wonderful fusion of hearty country cuisine and wonderful local wines. Overnight in Lednice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Moravsky Krumlov – Kutna Hora – Prague",
+                    "day_summary": "Visit of Moravsky Krumlov Castle a town that dates back to 1227. Visit of Havlickuv Brod where around one hundred monuments have been preserved in the town’s centre. Visit of Kutna Hora where the city tour included the entrance to the St. Barbara Church and Royal Mint (Vlassky Court). Visit the Charnel House in Sedlec and drive to Prague. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Prague",
+                    "day_summary": "Half-day city tour of Prague by coach, followed by a visit to Prague Castle, which is the seat of the President of the Czech Republic. Visit St. Vithus’ Cathedral, a spiritual symbol of the Czech state which contains underground tombs of Czech kings. You will also see National Theatre, Charles Bridge, the Old Town Square, the Old Town Hall, St. Nicholas’ Church, the Old Town Hall with the Astronomical Clock. Then you go through the Jewish Quarter, the best surviving complex of Jewish historical monuments in Europe. Afternoon – free for shopping. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Prague",
+                    "day_summary": "After breakfast, transfer to Prague airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/bohemian_countryside/1 (1).png","https://kompas.net/images/customized/bohemian_countryside/1 (2).png","https://kompas.net/images/customized/bohemian_countryside/1 (3).png","https://kompas.net/images/customized/bohemian_countryside/1 (4).png","https://kompas.net/images/customized/bohemian_countryside/1 (5).png"]
+        },
+        {
+            "tour_name" : "Baltic Pearls",
+            "short_description" : "8 days: Helsinki – Stockholm – Riga – Tallinn – St. Petersburg – Helsinki",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Helsinki and overnight cruise#Stockholm and overnight cruise#Riga#Tallinn#St. Petersburg",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Helsinki",
+                    "day_summary": "Arrival at Helsinki Airport, followed by a city coach tour. Evening transfer by coach for your overnight cruise across the sea to wonderfully diverse and lively Stockholm. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Stockholm – overnight cruise – Riga",
+                    "day_summary" : "After breakfast, a fascinating guided tour of Stockholm takes us to famous sights such as the Royal Palace, the gorgeous island of Djurgarden, the Old Town, with its narrow cobbled streets and numerous antique shops, and the fine City Hall, with its famous Blue and Gold Rooms. Overnight cruise to Riga. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Riga",
+                    "day_summary": "Our spectacular scenic drive features Riga’s best sights, such as its splendid medieval old town and stunning Art Nouveau architecture. Your afternoon is free to further explore this tremendous city on the Baltic. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Riga – Parnu – Tallinn",
+                    "day_summary": "Our coach takes us to the lovely Estonian spa, health and beach resort of Parnu, known as Estonia’s Summer Capital. After a brief tour, we proceed to beautiful Tallinn, where we take a panoramic city tour of the highlights of Estonia’s capital. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Tallinn – St. Petersburg",
+                    "day_summary": "We continue via Narva, dominated by its 15th-century Hermann Castle with a 51-metre-high tower, to adorable St. Petersburg, where we arrive in the late afternoon. A panoramic tour of this spectacular city at the head of the Gulf of Finland follows. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: St. Petersburg",
+                    "day_summary": "A guided tour of Russia’s finest city features its main boulevard, Nevsky Prospekt, lined with the marble palaces of Russian royalty and aristocracy, as well as the city’s most splendid architectural masterpieces such as the glorious Winter Palace and the ancient Peter and Paul Fortress. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: St. Petersburg – Vyborg – Helsinki",
+                    "day_summary": "Morning departure via pretty Vyborg for Helsinki. Your afternoon is free to explore this fine city featuring numerous Art Nouveau treasures, and perhaps indulge in a little shopping. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Helsinki",
+                    "day_summary": "Transfer to Helsinki Airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/baltic_pearls/1 (1).png","https://kompas.net/images/customized/baltic_pearls/1 (2).png","https://kompas.net/images/customized/baltic_pearls/1 (3).png","https://kompas.net/images/customized/baltic_pearls/1 (4).png","https://kompas.net/images/customized/baltic_pearls/1 (5).png"]
+        },
+        {
+            "tour_name" : "Balkan Highlights",
+            "short_description" : "15 days: Athens – Ohrid – Tirana – Dubrovnik – Split – Bled – Ljubljana – Zagreb",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Athens, listed by UNESCO since 1987#Ohrid’s natural and cultural heritage, listed by UNESCO since 1979#Old city of Dubrovnik, listed by UNESCO since 1979#Historical complex of Split, with the Palace of Diocletian, listed by UNESCO since 1979#Historic city of Trogir, listed by UNESCO since 1997#Plitvice Lakes National Park, listed by UNESCO since 1979#Romantic experience of Lake Bled and its surroundings",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Athens",
+                    "day_summary": "You will be met and transferred to a selected hotel. Enjoy a ‘welcome’ dinner in a traditional Greek tavern in the old part of Athens, in Plaka. (D)"
+                },
+                {
+                    "day_headline" : "Day 2: Athens",
+                    "day_summary" : "After breakfast, half-day Athens Sightseeing Tour. Visit the immortal Acropolis, with each architectural masterpiece, the Parthenon, the Erectheum with the Porch of the Meidens, and the Temple of Nike Apertos, Wingless Victory. Below the Acropolis lie the Ancient Agora and the Theaters of Dionyssos and Herodus Atticus.Afternoon free. Afternoon free. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Athens – Delphi – Kalambaka",
+                    "day_summary": "Depart for Delphi and visit the Temple of Apollo. Also see the Sacred Way, the Stadium, the Castilian Fountain and the Archaeological Museum. Continue to Kalambaka. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Kalambaka – Ohrid",
+                    "day_summary": "After breakfast, climb to the top of the Meteora, known as ‘The rocks that fell from the sky’, where monks built their havens away from civilization. Continue to Ohrid. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Ohrid – Tirana",
+                    "day_summary": "Morning sightseeing tour at the lakeside resort of Ohrid, containing some magnificent frescoes from the 10th century including a visit to the Cathedral of St. Sofia. In the early afternoon, we continue towards Tirana, capital of Albania. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Tirana",
+                    "day_summary": "Morning sightseeing tour: see the Sheshi Skenderbej, the Palace of Culture and the mosaic on the facade of the National History Museum. Other significant buildings here include the imposing red-brick National Bank, the Ethem Bey Mosque, and the Skanderbeg Statue. Afternoon free. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Tirana – Dubrovnik",
+                    "day_summary": "After breakfast, depart for Shkodra, nowdays a major cultural centre. We visit Rozafa Castle, situated on a rocky outcrop of limestone high above the city, before we cross the border into Montenegro and drive via Budva to Dubrovnik. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Dubrovnik",
+                    "day_summary": "Morning walking tour of Old Dubrovnik: the Rector’s Palace, Bell Tower clock, Orlando’s Column and the Sponza Palace. You will also see the Dominican monastery and Franciscan monastery with its pharmacy. The rest of the day is free. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Dubrovnik",
+                    "day_summary": "Full day at leisure. (B, D)"
+                },
+                {
+                    "day_headline": "Day 10: Dubrovnik – Split",
+                    "day_summary": "Departure north to Split along the spectacular Adriatic coast. Enjoy a city tour, featuring the historic inner city built around the Roman Emperor Diocletian’s Palace, a UNESCO World Cultural Heritage site. (B, D)"
+                },
+                {
+                    "day_headline": "Day 11: Split – Trogir – Plitvice",
+                    "day_summary": "After breakfast, we head north along the coast to Trogir. Our journey continues as we turn inland towards the Plitvice Lakes National Park. Upon arrival, we take a walking tour around several of the lower lakes and enjoy the breathtaking scenery of this natural wonder. (B, D)"
+                },
+                {
+                    "day_headline": "Day 12: Plitvice – Postojna – Bled",
+                    "day_summary": "We return to the coast to the beautiful bay of Kvarner and its popular resort, Opatija. Then we head north to Postojna and one of the biggest caves in Europe. Here we tour the fantastic subterranean world by miniature electric train. Afterwards, our journey continues to Bled. (B, D)"
+                },
+                {
+                    "day_headline": "Day 13: Bled",
+                    "day_summary": "Our morning sightseeing tour features the town of Bled, with the lake-shore, and includes a visit to Bled Castle, perched on a cliff high above the lake. The rest of the day is free for optional activities, such as visiting the old church with a collection of religious art on the small island in the middle of the Lake Bled. (B, D)"
+                },
+                {
+                    "day_headline": "Day 14: Bled – Ljubljana – Zagreb",
+                    "day_summary": "We start the day with the tour of Ljubljana, the capital of Slovenia, where we will visit all the most significant sights in the old city centre: the open-air Central Market, Three Bridges, the Baroque Town Hall and Robba’s Fountain. Then proceed to Zagreb, the capital of Croatia. (B, D)"
+                },
+                {
+                    "day_headline": "Day 15: Zagreb",
+                    "day_summary": "This morning enjoy Zagreb, where we visit St. Mark’s Church, St. Catherine’s Church, the Cathedral, the Parliament and the Government Palace. Rest of the day is free to explore the winding streets of the old town. Afterwards, transfer to Zagreb airport. (B, D)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/balkan_highlights/1 (1).png","https://kompas.net/images/customized/balkan_highlights/1 (2).png","https://kompas.net/images/customized/balkan_highlights/1 (3).png","https://kompas.net/images/customized/balkan_highlights/1 (4).png","https://kompas.net/images/customized/balkan_highlights/1 (5).png"]
+        },
+        {
+            "tour_name" : "Alpine – Tirol – Dolomites Tour",
+            "short_description" : "10 days: Vienna – Ljubljana – Postojna – Ljubljana – Bled – Heiligenblut – Grossglockner – Cortina d'Ampezzo – Passo Sella – St. Christina – Innsbruck – Vienna",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout and local guides for city sightseeing",
+                "sightseeing" : "Visit famous mountain regions in three neighboring countries: Austria, Slovenia and Italy#Postojna Caves, Europe’s best known caves#Alpine lakes: Lake Bled, Lake Bohinj, Lake Misurina, Lake Cerezza#Gondola ride to Grossglockner, the highest mountain in Austria and one of the highest peaks in the Alps#See the biggest galcier in Austria: Pasterze",
+                "extension" : ""
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1: Vienna – Ljubljana",
+                    "day_summary": "You will be met at Vienna airport and transferred to a selected hotel in Ljubljana."
+                },
+                {
+                    "day_headline" : "Day 2: Ljubljana – Postojna – Ljubljana",
+                    "day_summary" : "Half-day excursion to Postojna. Tour through Postojna Caves by special cave train, accompanied by guide. Lunch at a local restaurant. Afternoon sightseeing tour of Ljubljana begins with a visit to the open-air market, City Hall, Robba’s Fountain, the Three Bridges and the Parliament. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 3: Ljubljana – Bled",
+                    "day_summary": "This morning we proceed to Bled. Our morning sightseeing tour features the town of Bled with the lake-shore, and includes a visit to Bled Castle, perched on a cliff high above the lake and a ‘pletna’ boat ride to Bled Island and entrance to St. Maria’ Church. Afternoon free. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Bled – Heiligenblut",
+                    "day_summary": "Transfer to nearby Bohinj Lake. Brief sightseeing and panoramic drive around the lake. After lunch at local restaurant continue to Austria, Heiligenblut. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 5: Heiligenblut – Grossglockner",
+                    "day_summary": "Full day visit to the Grossglockner Mountain Road. Visit the Kaiser Franz Josefs Hoehe visitor’s centre, Grossglockner mountain by Gletscherbahn. Lunch and dinner at local restaurant. Overnight in Heiligenblut. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 6: Heiligenblut – Cortina d’Ampezzo",
+                    "day_summary": "Continue to Italy, towards Cortina D’Ampezzo, the famous Italian winter resort. Lunch at a local restaurant. Upon arrival, sighsteeing of the chic Cortina that attracts guests from all over the world: kings, princes, movie stars, politicians, authors and business leaders. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 7: Cortina d’Ampezzo",
+                    "day_summary": "Half-day – Lake Misurina sightseeing and its breath-taking views of the Tre Cime di Lavaredo. Afternoon visit to the mountain pass of ‘Passo di Falzerago’, where the views of the Dolomites are truly spectacular, with unlimited photographic opportunities. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Cortina d’Ampezzo – Passo Sella",
+                    "day_summary": "Transfer to Passo di Sella, continue to Passo Pordoi and scenic Lake Carezza. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Passo Sella – St. Christina – Innsbruck",
+                    "day_summary": "We start our day by driving through Gardena Pass and further on to Gerdena Valley, with a stop at St. Christina Village. Lunch at a local restaurant and drive to Innsbruck. (B, L, D)"
+                },
+                {
+                    "day_headline": "Day 10: Innsbruck – Vienna",
+                    "day_summary": "After breakfast, transfer to Vienna airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/alpine_tirol_dolomites/1 (1).png","https://kompas.net/images/customized/alpine_tirol_dolomites/1 (2).png","https://kompas.net/images/customized/alpine_tirol_dolomites/1 (3).png","https://kompas.net/images/customized/alpine_tirol_dolomites/1 (4).png","https://kompas.net/images/customized/alpine_tirol_dolomites/1 (5).png"]
         }
     ]
 }

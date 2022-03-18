@@ -1,74 +1,59 @@
-{
-    "cruise_name" : "",
-    "short_description" : "",
-    "features" : {
-        "included" : "7 nights cruise from Split to Kotor and back to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
-        "sightseeing" : ["City tours of Korčula and Split#Wine tasting Korcula"]
-    },
-    "itinerary" : [
+
         {
-            "day_headline": "",
-            "day_summary": ""
-        },
-        {
-            "day_headline" : "",
-            "day_summary" : ""
-        },
-        {
-            "day_headline": "",
-            "day_summary": ""
-        },
-        {
-            "day_headline": "",
-            "day_summary": ""
-        },
-        {
-            "day_headline": "",
-            "day_summary": ""
-        },
-        {
-            "day_headline": "",
-            "day_summary": ""
-        },
-        {
-            "day_headline": "",
-            "day_summary": ""
-        },
-        {
-            "day_headline": "",
-            "day_summary": ""
-        },
-        {
-            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
-        }
-    ],
-    "dates_pricing" : [
-        {
-            "name" : "STELLA MARIS",
-            "dates" : {
-                "low_season" : ["10/01/2022", "10/08/2022", "10/15/2022"],
-                "mid_season" : ["05/21,2022", "05/28/2022", "07/23/2022"],
-                "high_season" : ["06/04/2022","06/11/2022", "07/02/2022","07/09/2022","07/16/2022", "08/27/2022", "09/03/2022"]
+            "tour_name" : "Bohemian Countryside",
+            "short_description" : "9 days: Prague – Karlovy Vary – Ceske Budejovice – Holasovice – Cesky Krumlov – Lednice – Moravsky Krumlov – Kutna Hora – Prague",
+            "description": "",
+            "features" : {
+                "included" : "Accommodation at selected hotels, service charges & hotel taxes, luggage handling#Breakfast daily, dinners and lunches as per program#Arrival and departure transfers#Touring by modern air-conditioned coach#Professional tour director throughout",
+                "sightseeing" : "Golden Prague#Karlovy Vary with its springs that have been utilized since the Middle Ages#Holasovice, an UNESCO World Heritage site#Lednice-Valtice Cultural Landscape, an UNESCO World Heritage site",
+                "extension" : ""
             },
-            "prices" : [
+            "itinerary" : [
                 {
-                    "cabin_name" : "LOWER DECK CABIN",
-                    "low_season" : 1065,
-                    "mid_season" : 1220,
-                    "high_season" : 1370
+                    "day_headline": "Day 1: Prague",
+                    "day_summary": "Arrival at Prague airport and transfer to selected hotel. (D)"
                 },
                 {
-                    "cabin_name" : "MAIN DECK CABIN",
-                    "low_season" : 1290,
-                    "mid_season" : 1455,
-                    "high_season" : 1605
+                    "day_headline" : "Day 2: Karlovy Vary",
+                    "day_summary" : "Morning visit to the Lidice Memorial and Museum. Continue to Karlovy Vary, known for its springs that have been utilized since the Middle Ages. Visit the Becher Factory and Moser Glass Factory. Walking city tour of Karlovy Vary, or by cable car to Diana Look-out for a fantastic view. (B, D)"
+                },
+                {
+                    "day_headline": "Day 3: Ceske Budejovice",
+                    "day_summary": "After breakfast visit the baroque Tepla Monastery and its park. Visit of Lomec Church with its unique hanging altar. Arrival to Ceske Budejovice, known for its “Budvar” (Budweizer) beer.You will see also the Samson fountain, an important work of South Bohemian baroque style. (B, D)"
+                },
+                {
+                    "day_headline": "Day 4: Holasovice – Cesky Krumlov",
+                    "day_summary": "After a visit to Hluboka Castle, one of the most beautiful Bohemian monuments we continue to Holasovice, an example of a traditional Central European village, an UNESCO World Heritage. Continue with sightseeing of Cesky Krumlov and its castle. Visit the Cistercian monastery at Vyssi Brod, situated in the foothills of the Bohemian Forest mountain range, in a romantic setting amidst thick forests, on the right bank of the upper course of the River Vltava. Evening return to Ceske Budejovice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 5: Lednice",
+                    "day_summary": "Departure to South Moravia, an area of rich history, architectural treasures, great wine and hospitality. Visit of Telc, a UNESCO World Heritage Site. Visit of the 11th century castle Vranov Nad Dyji. Overnight in Lednice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 6: Lednice",
+                    "day_summary": "Visit of the UNESCO World Heritage site called the Lednice-Valtice Cultural Landscape. Visit of Lednice and its many decorative constructions like he Temple of the Three Graces and the Temple of Apollon. Visit the Museum of Folklore Costumes in Uherske Hradiste. Wine tasting in Petrov closed to village Straznice. The area is renowned for its wonderful fusion of hearty country cuisine and wonderful local wines. Overnight in Lednice. (B, D)"
+                },
+                {
+                    "day_headline": "Day 7: Moravsky Krumlov – Kutna Hora – Prague",
+                    "day_summary": "Visit of Moravsky Krumlov Castle a town that dates back to 1227. Visit of Havlickuv Brod where around one hundred monuments have been preserved in the town’s centre. Visit of Kutna Hora where the city tour included the entrance to the St. Barbara Church and Royal Mint (Vlassky Court). Visit the Charnel House in Sedlec and drive to Prague. (B, D)"
+                },
+                {
+                    "day_headline": "Day 8: Prague",
+                    "day_summary": "Half-day city tour of Prague by coach, followed by a visit to Prague Castle, which is the seat of the President of the Czech Republic. Visit St. Vithus’ Cathedral, a spiritual symbol of the Czech state which contains underground tombs of Czech kings. You will also see National Theatre, Charles Bridge, the Old Town Square, the Old Town Hall, St. Nicholas’ Church, the Old Town Hall with the Astronomical Clock. Then you go through the Jewish Quarter, the best surviving complex of Jewish historical monuments in Europe. Afternoon – free for shopping. (B, D)"
+                },
+                {
+                    "day_headline": "Day 9: Prague",
+                    "day_summary": "After breakfast, transfer to Prague airport. (B)"
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
                 }
-            ]
-            
+            ],
+            "dates_pricing" : "To learn about special pricing for this tour, please <a href='https://www.kompas.net/contact-us/'>contact us.</a>",
+            "map" : "",
+            "hotels" : [
+                
+            ],
+            "location" : "",
+            "gallery" : ["https://kompas.net/images/customized/bohemian_countryside/1 (1).png","https://kompas.net/images/customized/bohemian_countryside/1 (2).png","https://kompas.net/images/customized/bohemian_countryside/1 (3).png","https://kompas.net/images/customized/bohemian_countryside/1 (4).png","https://kompas.net/images/customized/bohemian_countryside/1 (5).png"]
         }
-    ],
-
-    "map" : "https://kompas.net/images/adriatic_cruises/M204/map.png",
-    "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1.png", "https://via.placeholder.com/cruises/K502 Small Trip/1.jpg"]
-}
-    
